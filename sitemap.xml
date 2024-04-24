@@ -21,6 +21,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://github.com/mkdocs/catalog/more/</loc>
+         <lastmod>2024-04-24</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://github.com/mkdocs/catalog/theming/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
@@ -77,11 +82,6 @@
     </url>
     <url>
          <loc>https://github.com/mkdocs/catalog/more/markdown/</loc>
-         <lastmod>2024-04-24</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://github.com/mkdocs/catalog/more/more/</loc>
          <lastmod>2024-04-24</lastmod>
          <changefreq>daily</changefreq>
     </url>
