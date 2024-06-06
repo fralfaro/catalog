@@ -13,10 +13,7 @@
     <a href="#Contents" title="Project Count"><img src="https://img.shields.io/badge/projects-260-blue.svg?color=5ac4bf"></a>
     <a href="#Contribution" title="Contributions are welcome"><img src="https://img.shields.io/badge/contributions-welcome-green.svg"></a>
     <a href="https://github.com/mkdocs/catalog/releases" title="Catalog Updates"><img src="https://img.shields.io/github/release-date/mkdocs/catalog?color=green&label=updated"></a>
-    <a href="https://fralfaro.github.io/catalog/"><img alt="Link a la Documentación" src="https://img.shields.io/badge/docs-link-green"></a>
 </p>
-
-
 
 This list contains 260 awesome open-source projects grouped into 17 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you want to add or update projects, feel free to open an [issue](https://github.com/mkdocs/catalog/issues/new/choose), submit a [pull request](https://github.com/mkdocs/catalog/pulls), or directly edit the [projects.yaml](https://github.com/mkdocs/catalog/edit/main/projects.yaml). Contributions are very welcome!
 
@@ -27,7 +24,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 - [🎨 Theming](#-theming) _27 projects_
 - [💻 API documentation building](#-api-documentation-building) _14 projects_
 - [💬 Blogging](#-blogging) _7 projects_
-- [📊 Charts, Images, Tables & Graphs](#-charts-images-tables--graphs) _33 projects_
+- [📊 Charts, Images, Tables & Graphs](#-charts-images-tables--graphs) _34 projects_
 - [🤖 Code execution, variables & templating](#-code-execution-variables--templating) _19 projects_
 - [🌲 Git repos & info](#-git-repos--info) _10 projects_
 - [🌈 HTML processing & CSS styling](#-html-processing--css-styling) _13 projects_
@@ -68,14 +65,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/squidfunk/mkdocs-material">Material for MkDocs</a></b>  - 🥇42 ·  ⭐ 18K · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Documentation that simply works.</summary>
+<details><summary><b><a href="https://github.com/squidfunk/mkdocs-material">Material for MkDocs</a></b>  - 🥇42 ·  ⭐ 19K · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Documentation that simply works.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/material/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/material.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/squidfunk/mkdocs-material) (👨‍💻 260 · 🔀 3.2K · 📦 46K · 📋 2.3K - 1% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-material) (📥 4.2M / month):
+- [GitHub](https://github.com/squidfunk/mkdocs-material) (👨‍💻 270 · 🔀 3.3K · 📦 49K · 📋 2.3K - 0% open · ⏱️ 06.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-material) (📥 4.5M / month):
 	```
 	pip install mkdocs-material
 	```
@@ -94,14 +91,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - tags
    ```
 </details>
-<details><summary><b><a href="https://github.com/chrissimpkins/cinder">Cinder</a></b>  - 🥇20 ·  ⭐ 200 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>A clean, responsive MkDocs theme.</summary>
+<details><summary><b><a href="https://github.com/chrissimpkins/cinder">Cinder</a></b>  - 🥇21 ·  ⭐ 200 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>A clean, responsive MkDocs theme.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/cinder/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/cinder.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/chrissimpkins/cinder) (👨‍💻 23 · 🔀 100 · 📥 970 · 📦 620 · 📋 51 - 31% open · ⏱️ 05.01.2021)
-- [PyPi](https://pypi.org/project/mkdocs-cinder) (📥 7.2K / month):
+- [GitHub](https://github.com/chrissimpkins/cinder) (👨‍💻 23 · 🔀 100 · 📥 980 · 📦 630 · 📋 51 - 31% open · ⏱️ 05.01.2021)
+- [PyPi](https://pypi.org/project/mkdocs-cinder) (📥 8.2K / month):
 	```
 	pip install mkdocs-cinder
 	```
@@ -116,8 +113,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/cerulean.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/mkdocs/mkdocs-bootswatch) (👨‍💻 10 · 🔀 58 · 📦 1.1K · 📋 33 - 9% open · ⏱️ 29.12.2023)
-- [PyPi](https://pypi.org/project/mkdocs-bootswatch) (📥 15K / month):
+- [GitHub](https://github.com/mkdocs/mkdocs-bootswatch) (👨‍💻 10 · 🔀 57 · 📦 1.1K · 📋 33 - 9% open · ⏱️ 29.12.2023)
+- [PyPi](https://pypi.org/project/mkdocs-bootswatch) (📥 16K / month):
 	```
 	pip install mkdocs-bootswatch
 	```
@@ -145,14 +142,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: yeti
    ```
 </details>
-<details><summary><b><a href="https://github.com/dracula/mkdocs">Dracula</a></b>  - 🥈18 ·  ⭐ 58 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Dark theme for Mkdocs.</summary>
+<details><summary><b><a href="https://github.com/dracula/mkdocs">Dracula</a></b>  - 🥈18 ·  ⭐ 62 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Dark theme for Mkdocs.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/dracula/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/dracula.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/dracula/mkdocs) (👨‍💻 4 · 🔀 7 · 📦 76 · ⏱️ 17.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-dracula-theme) (📥 2.5K / month):
+- [GitHub](https://github.com/dracula/mkdocs) (👨‍💻 4 · 🔀 7 · 📦 79 · ⏱️ 17.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-dracula-theme) (📥 1.9K / month):
 	```
 	pip install mkdocs-dracula-theme
 	```
@@ -161,14 +158,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: dracula
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkdocs/mkdocs-bootstrap">Bootstrap</a></b>  - 🥈16 ·  ⭐ 77 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Bootstrap Theme.</summary>
+<details><summary><b><a href="https://github.com/mkdocs/mkdocs-bootstrap">Bootstrap</a></b>  - 🥈17 ·  ⭐ 78 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Bootstrap Theme.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/bootstrap/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/bootstrap.png" width="400" align="right">
 </a>
 
 - [GitHub](https://github.com/mkdocs/mkdocs-bootstrap) (👨‍💻 6 · 🔀 37 · 📦 460 · 📋 16 - 6% open · ⏱️ 29.12.2023)
-- [PyPi](https://pypi.org/project/mkdocs-bootstrap) (📥 3.8K / month):
+- [PyPi](https://pypi.org/project/mkdocs-bootstrap) (📥 9.2K / month):
 	```
 	pip install mkdocs-bootstrap
 	```
@@ -177,14 +174,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: bootstrap
    ```
 </details>
-<details><summary><b><a href="https://github.com/FernandoCelmer/mkdocs-simple-blog">Simple Blog</a></b>  - 🥈15 ·  ⭐ 58 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Blog Template for Mkdocs.</summary>
+<details><summary><b><a href="https://github.com/FernandoCelmer/mkdocs-simple-blog">Simple Blog</a></b>  - 🥈16 ·  ⭐ 64 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Blog Template for Mkdocs.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/simple-blog/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/simple-blog.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/FernandoCelmer/mkdocs-simple-blog) (👨‍💻 3 · 🔀 4 · 📦 50 · 📋 19 - 47% open · ⏱️ 28.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-simple-blog) (📥 450 / month):
+- [GitHub](https://github.com/FernandoCelmer/mkdocs-simple-blog) (👨‍💻 3 · 🔀 4 · 📦 57 · 📋 19 - 47% open · ⏱️ 28.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-simple-blog) (📥 390 / month):
 	```
 	pip install mkdocs-simple-blog
 	```
@@ -193,30 +190,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: simple-blog
    ```
 </details>
-<details><summary><b><a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a></b>  - 🥈14 ·  ⭐ 99 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Outstanding mkdocs theme with a focus on navigation and usability.</summary>
-
-<a href="https://pawamoy.github.io/mkdocs-gallery/themes/windmill/">
-<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/windmill.png" width="400" align="right">
-</a>
-
-- [GitHub](https://github.com/gristlabs/mkdocs-windmill) (👨‍💻 8 · 🔀 46 · 📦 300 · 📋 31 - 48% open · ⏱️ 11.03.2022)
-- [PyPi](https://pypi.org/project/mkdocs-windmill) (📥 3.1K / month):
-	```
-	pip install mkdocs-windmill
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
-   ```yaml
-   theme: windmill
-   ```
-</details>
-<details><summary><b><a href="https://github.com/ntno/mkdocs-terminal">Terminal for MkDocs</a></b>  - 🥈14 ·  ⭐ 77 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>monospace theme for MkDocs.</summary>
+<details><summary><b><a href="https://github.com/ntno/mkdocs-terminal">Terminal for MkDocs</a></b>  - 🥈15 ·  ⭐ 82 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>monospace theme for MkDocs.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/terminal/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/terminal.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/ntno/mkdocs-terminal) (🔀 1 · 📦 66 · 📋 56 - 44% open · ⏱️ 15.04.2023)
-- [PyPi](https://pypi.org/project/mkdocs-terminal) (📥 940 / month):
+- [GitHub](https://github.com/ntno/mkdocs-terminal) (🔀 1 · 📦 71 · 📋 56 - 44% open · ⏱️ 15.04.2023)
+- [PyPi](https://pypi.org/project/mkdocs-terminal) (📥 1.4K / month):
 	```
 	pip install mkdocs-terminal
 	```
@@ -230,14 +211,30 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - md-to-html
    ```
 </details>
-<details><summary><b><a href="https://github.com/WSOFT-Project/lantana">Lantana</a></b>  - 🥈13 ·  ⭐ 11 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Lantana MKDocsHTML.</summary>
+<details><summary><b><a href="https://github.com/gristlabs/mkdocs-windmill">Windmill</a></b>  - 🥈14 ·  ⭐ 98 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Outstanding mkdocs theme with a focus on navigation and usability.</summary>
+
+<a href="https://pawamoy.github.io/mkdocs-gallery/themes/windmill/">
+<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/windmill.png" width="400" align="right">
+</a>
+
+- [GitHub](https://github.com/gristlabs/mkdocs-windmill) (👨‍💻 8 · 🔀 47 · 📦 300 · 📋 31 - 48% open · ⏱️ 11.03.2022)
+- [PyPi](https://pypi.org/project/mkdocs-windmill) (📥 2.7K / month):
+	```
+	pip install mkdocs-windmill
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
+   ```yaml
+   theme: windmill
+   ```
+</details>
+<details><summary><b><a href="https://github.com/WSOFT-Project/lantana">Lantana</a></b>  - 🥈14 ·  ⭐ 12 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Lantana MKDocsHTML.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/lantana/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/lantana.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/WSOFT-Project/lantana) (👨‍💻 3 · 📥 190 · 📦 3 · 📋 19 - 5% open · ⏱️ 03.04.2024)
-- [PyPi](https://pypi.org/project/lantana) (📥 450 / month):
+- [GitHub](https://github.com/WSOFT-Project/lantana) (👨‍💻 3 · 📥 200 · 📦 3 · 📋 19 - 5% open · ⏱️ 12.05.2024)
+- [PyPi](https://pypi.org/project/lantana) (📥 1.3K / month):
 	```
 	pip install lantana
 	```
@@ -246,14 +243,30 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: lantana
    ```
 </details>
-<details><summary><b><a href="https://github.com/daizutabi/mkdocs-ivory">Ivory</a></b>  - 🥈11 ·  ⭐ 11 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Ivory theme for MkDocs.</summary>
+<details><summary><b><a href="https://github.com/swan-cern/mkdocs-swan">SWAN</a></b>  - 🥈12 ·  ⭐ 5 · <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>SWAN MkDocs theme.</summary>
+
+<a href="https://pawamoy.github.io/mkdocs-gallery/themes/swan/">
+<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/swan.png" width="400" align="right">
+</a>
+
+- [GitHub](https://github.com/swan-cern/mkdocs-swan) (👨‍💻 4 · 🔀 3 · 📦 3 · ⏱️ 23.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-swan) (📥 230 / month):
+	```
+	pip install mkdocs-swan
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
+   ```yaml
+   theme: swan
+   ```
+</details>
+<details><summary><b><a href="https://github.com/daizutabi/mkdocs-ivory">Ivory</a></b>  - 🥈11 ·  ⭐ 10 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Ivory theme for MkDocs.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/ivory/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/ivory.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/daizutabi/mkdocs-ivory) (👨‍💻 2 · 🔀 4 · 📦 78 · 📋 5 - 40% open · ⏱️ 16.06.2020)
-- [PyPi](https://pypi.org/project/mkdocs-ivory) (📥 5.2K / month):
+- [GitHub](https://github.com/daizutabi/mkdocs-ivory) (👨‍💻 2 · 🔀 4 · 📦 83 · 📋 5 - 40% open · ⏱️ 16.06.2020)
+- [PyPi](https://pypi.org/project/mkdocs-ivory) (📥 4.5K / month):
 	```
 	pip install mkdocs-ivory
 	```
@@ -262,14 +275,46 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: ivory
    ```
 </details>
-<details><summary><b><a href="https://github.com/buvis/mkdocs-zettelkasten">Zettelkasten</a></b>  - 🥈10 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>This is a Zettelkasten theme and plugin for MkDocs. It renders the MkDocs pages as cards (zettels).</summary>
+<details><summary><b><a href="https://github.com/kpn/mkdocs-kpn-theme">KPN for MkDocs</a></b>  - 🥉10 ·  ⭐ 7 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>KPN theme for MkDocs | owner=flow.</summary>
+
+<a href="https://pawamoy.github.io/mkdocs-gallery/themes/kpn/">
+<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/kpn.png" width="400" align="right">
+</a>
+
+- [GitHub](https://github.com/kpn/mkdocs-kpn-theme) (👨‍💻 3 · 📦 3 · ⏱️ 31.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-kpn) (📥 1K / month):
+	```
+	pip install mkdocs-kpn
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
+   ```yaml
+   theme: kpn
+   ```
+</details>
+<details><summary><b><a href="https://github.com/Siphalor/mkdocs-custommill">CustomMill</a></b>  - 🥉9 ·  ⭐ 12 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Outstanding mkdocs theme with a focus on navigation, customization and usability.</summary>
+
+<a href="https://pawamoy.github.io/mkdocs-gallery/themes/custommill/">
+<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/custommill.png" width="400" align="right">
+</a>
+
+- [GitHub](https://github.com/Siphalor/mkdocs-custommill) (👨‍💻 8 · 🔀 5 · 📦 18 · ⏱️ 10.03.2022)
+- [PyPi](https://pypi.org/project/mkdocs-custommill) (📥 160 / month):
+	```
+	pip install mkdocs-custommill
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
+   ```yaml
+   theme: custommill
+   ```
+</details>
+<details><summary><b><a href="https://github.com/buvis/mkdocs-zettelkasten">Zettelkasten</a></b>  - 🥉9 ·  ⭐ 9 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>This is a Zettelkasten theme and plugin for MkDocs. It renders the MkDocs pages as cards (zettels).</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/zettelkasten-solarized-light/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/zettelkasten-solarized-light.png" width="400" align="right">
 </a>
 
 - [GitHub](https://github.com/buvis/mkdocs-zettelkasten) (👨‍💻 3 · 📥 19 · 📦 3 · 📋 10 - 70% open · ⏱️ 19.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-zettelkasten) (📥 83 / month):
+- [PyPi](https://pypi.org/project/mkdocs-zettelkasten) (📥 150 / month):
 	```
 	pip install mkdocs-zettelkasten
 	```
@@ -283,54 +328,6 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - zettelkasten
    ```
 </details>
-<details><summary><b><a href="https://github.com/kpn/mkdocs-kpn-theme">KPN for MkDocs</a></b>  - 🥈10 ·  ⭐ 7 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>KPN theme for MkDocs | owner=flow.</summary>
-
-<a href="https://pawamoy.github.io/mkdocs-gallery/themes/kpn/">
-<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/kpn.png" width="400" align="right">
-</a>
-
-- [GitHub](https://github.com/kpn/mkdocs-kpn-theme) (👨‍💻 3 · 📦 3 · ⏱️ 31.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-kpn) (📥 890 / month):
-	```
-	pip install mkdocs-kpn
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
-   ```yaml
-   theme: kpn
-   ```
-</details>
-<details><summary><b><a href="https://github.com/swan-cern/mkdocs-swan">SWAN</a></b>  - 🥈10 ·  ⭐ 4 · <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>SWAN MkDocs theme.</summary>
-
-<a href="https://pawamoy.github.io/mkdocs-gallery/themes/swan/">
-<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/swan.png" width="400" align="right">
-</a>
-
-- [GitHub](https://github.com/swan-cern/mkdocs-swan) (👨‍💻 4 · 🔀 3 · 📦 3 · ⏱️ 23.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-swan) (📥 150 / month):
-	```
-	pip install mkdocs-swan
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
-   ```yaml
-   theme: swan
-   ```
-</details>
-<details><summary><b><a href="https://github.com/Siphalor/mkdocs-custommill">CustomMill</a></b>  - 🥉9 ·  ⭐ 12 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Outstanding mkdocs theme with a focus on navigation, customization and usability.</summary>
-
-<a href="https://pawamoy.github.io/mkdocs-gallery/themes/custommill/">
-<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/custommill.png" width="400" align="right">
-</a>
-
-- [GitHub](https://github.com/Siphalor/mkdocs-custommill) (👨‍💻 8 · 🔀 5 · 📦 17 · ⏱️ 10.03.2022)
-- [PyPi](https://pypi.org/project/mkdocs-custommill) (📥 180 / month):
-	```
-	pip install mkdocs-custommill
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
-   ```yaml
-   theme: custommill
-   ```
-</details>
 <details><summary><b><a href="https://github.com/LukeCarrier/mkdocs-theme-bootstrap4">Bootstrap 4</a></b>  - 🥉9 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>A vanilla Bootstrap 4 theme for MkDocs.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/bootstrap4/">
@@ -338,7 +335,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </a>
 
 - [GitHub](https://github.com/LukeCarrier/mkdocs-theme-bootstrap4) (👨‍💻 3 · 📦 6 · 📋 5 - 20% open · ⏱️ 07.01.2023)
-- [PyPi](https://pypi.org/project/mkdocs-theme-bootstrap4) (📥 86 / month):
+- [PyPi](https://pypi.org/project/mkdocs-theme-bootstrap4) (📥 140 / month):
 	```
 	pip install mkdocs-theme-bootstrap4
 	```
@@ -360,7 +357,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </a>
 
 - [GitHub](https://github.com/notpushkin/mkdocs-alabaster) (👨‍💻 9 · 🔀 9 · 📋 17 - 17% open · ⏱️ 16.06.2020)
-- [PyPi](https://pypi.org/project/mkdocs-alabaster) (📥 610 / month):
+- [PyPi](https://pypi.org/project/mkdocs-alabaster) (📥 750 / month):
 	```
 	pip install mkdocs-alabaster
 	```
@@ -369,14 +366,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: alabaster
    ```
 </details>
-<details><summary><b><a href="https://github.com/noraj/mkdocs-windmill-dark">Windmill Dark</a></b>  - 🥉8 ·  ⭐ 34 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Outstanding mkdocs theme with a focus on navigation and usability.</summary>
+<details><summary><b><a href="https://github.com/noraj/mkdocs-windmill-dark">Windmill Dark</a></b>  - 🥉8 ·  ⭐ 33 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Outstanding mkdocs theme with a focus on navigation and usability.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/windmill-dark/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/windmill-dark.png" width="400" align="right">
 </a>
 
 - [GitHub](https://github.com/noraj/mkdocs-windmill-dark) (👨‍💻 4 · 🔀 10 · ⏱️ 12.05.2022)
-- [PyPi](https://pypi.org/project/mkdocs-windmill-dark) (📥 500 / month):
+- [PyPi](https://pypi.org/project/mkdocs-windmill-dark) (📥 550 / month):
 	```
 	pip install mkdocs-windmill-dark
 	```
@@ -385,13 +382,29 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    theme: windmill-dark
    ```
 </details>
+<details><summary><b><a href="https://gitlab.com/lramage/mkdocs-gitbook-theme">GitBook</a></b>  - 🥉8 ·  ⭐ 28 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Default theme for GitBook for Mkdocs https://lramage.gitlab.io/mkdocs-gitbook-theme.</summary>
+
+<a href="https://pawamoy.github.io/mkdocs-gallery/themes/gitbook/">
+<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/gitbook.png" width="400" align="right">
+</a>
+
+- [PyPi](https://pypi.org/project/mkdocs-gitbook) (📥 11K / month):
+	```
+	pip install mkdocs-gitbook
+	```
+- [GitLab](https://gitlab.com/lramage/mkdocs-gitbook-theme) (🔀 13 · 📋 18 - 44% open · ⏱️ 17.12.2018)
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
+   ```yaml
+   theme: gitbook
+   ```
+</details>
 <details><summary><b><a href="https://gitlab.com/lramage/mkdocs-bootstrap386">BOOTSTRAP386</a></b>  - 🥉7 ·  ⭐ 31 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>A vintage 1980s DOS inspired Twitter Bootstrap theme for MkDocs https://lramage.gitlab.io/mkdocs-bootstrap386.</summary>
 
 <a href="https://pawamoy.github.io/mkdocs-gallery/themes/bootstrap386/">
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/bootstrap386.png" width="400" align="right">
 </a>
 
-- [PyPi](https://pypi.org/project/mkdocs-bootstrap386) (📥 6K / month):
+- [PyPi](https://pypi.org/project/mkdocs-bootstrap386) (📥 6.1K / month):
 	```
 	pip install mkdocs-bootstrap386
 	```
@@ -399,22 +412,6 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
    ```yaml
    theme: bootstrap386
-   ```
-</details>
-<details><summary><b><a href="https://gitlab.com/lramage/mkdocs-gitbook-theme">GitBook</a></b>  - 🥉7 ·  ⭐ 27 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>Default theme for GitBook for Mkdocs https://lramage.gitlab.io/mkdocs-gitbook-theme.</summary>
-
-<a href="https://pawamoy.github.io/mkdocs-gallery/themes/gitbook/">
-<img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/gitbook.png" width="400" align="right">
-</a>
-
-- [PyPi](https://pypi.org/project/mkdocs-gitbook) (📥 7.2K / month):
-	```
-	pip install mkdocs-gitbook
-	```
-- [GitLab](https://gitlab.com/lramage/mkdocs-gitbook-theme) (🔀 12 · 📋 18 - 44% open · ⏱️ 17.12.2018)
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#theme):
-   ```yaml
-   theme: gitbook
    ```
 </details>
 <details><summary><b><a href="https://github.com/hfagerlund/mkdocs-docskimmer">docSkimmer</a></b>  - 🥉6 ·  ⭐ 18 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1495/PNG/512/preferencesdesktoptheme_102980.png" style="display:inline;" width="13" height="13"></code><br>An accessible, skimmable theme for MkDocs.</summary>
@@ -435,8 +432,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/nature.png" width="400" align="right">
 </a>
 
-- [GitHub](https://github.com/waylan/mkdocs-nature) (👨‍💻 2 · 🔀 1 · 📦 41 · ⏱️ 14.09.2023)
-- [PyPi](https://pypi.org/project/mkdocs-nature) (📥 780 / month):
+- [GitHub](https://github.com/waylan/mkdocs-nature) (👨‍💻 2 · 🔀 1 · 📦 42 · ⏱️ 14.09.2023)
+- [PyPi](https://pypi.org/project/mkdocs-nature) (📥 1K / month):
 	```
 	pip install mkdocs-nature
 	```
@@ -452,7 +449,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </a>
 
 - [GitHub](https://github.com/byrnereese/mkdocs-moonstone) (🔀 1 · 📦 8 · ⏱️ 15.06.2021)
-- [PyPi](https://pypi.org/project/mkdocs-moonstone) (📥 220 / month):
+- [PyPi](https://pypi.org/project/mkdocs-moonstone) (📥 190 / month):
 	```
 	pip install mkdocs-moonstone
 	```
@@ -468,7 +465,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </a>
 
 - [GitHub](https://github.com/unverbuggt/mkdocs-risonia-theme) (🔀 1 · 📦 2 · ⏱️ 01.09.2023)
-- [PyPi](https://pypi.org/project/mkdocs-risonia-theme) (📥 65 / month):
+- [PyPi](https://pypi.org/project/mkdocs-risonia-theme) (📥 55 / month):
 	```
 	pip install mkdocs-risonia-theme
 	```
@@ -490,7 +487,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </a>
 
 - [GitHub](https://github.com/kuri65536/mkdocs-theme-topdf) (🔀 1 · 📦 2 · ⏱️ 26.06.2021)
-- [PyPi](https://pypi.org/project/mkdocs-theme-topdf) (📥 76 / month):
+- [PyPi](https://pypi.org/project/mkdocs-theme-topdf) (📥 110 / month):
 	```
 	pip install mkdocs-theme-topdf
 	```
@@ -506,7 +503,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </a>
 
 - [GitHub](https://github.com/g3xx/mkdocs-Github) (📦 8 · ⏱️ 25.02.2020)
-- [PyPi](https://pypi.org/project/mkdocs-github) (📥 36 / month):
+- [PyPi](https://pypi.org/project/mkdocs-github) (📥 140 / month):
 	```
 	pip install mkdocs-github
 	```
@@ -525,7 +522,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <img src="https://pawamoy.github.io/mkdocs-gallery/assets/img/cluster.png" width="400" align="right">
 </a>
 
-- [PyPi](https://pypi.org/project/mkdocs-cluster) (📥 320 / month):
+- [PyPi](https://pypi.org/project/mkdocs-cluster) (📥 460 / month):
 	```
 	pip install mkdocs-cluster
 	```
@@ -543,8 +540,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <details><summary><b><a href="https://github.com/mkdocstrings/mkdocstrings">mkdocstrings</a></b>  - 🥇32 ·  ⭐ 1.6K · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Automatic documentation from sources, for MkDocs.</summary>
 
-- [GitHub](https://github.com/mkdocstrings/mkdocstrings) (👨‍💻 42 · 🔀 100 · 📦 12K · 📋 390 - 12% open · ⏱️ 05.04.2024)
-- [PyPi](https://pypi.org/project/mkdocstrings) (📥 850K / month):
+- [GitHub](https://github.com/mkdocstrings/mkdocstrings) (👨‍💻 42 · 🔀 100 · 📦 13K · 📋 390 - 12% open · ⏱️ 05.05.2024)
+- [PyPi](https://pypi.org/project/mkdocstrings) (📥 1.2M / month):
 	```
 	pip install mkdocstrings
 	```
@@ -554,23 +551,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocstrings
    ```
 </details>
-<details><summary><b><a href="https://github.com/daizutabi/mkapi">MkApi</a></b>  - 🥇21 ·  ⭐ 93 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MkDocs to generate API documentation.</summary>
+<details><summary><b><a href="https://github.com/JakubAndrysek/MkDoxy">mkdoxy</a></b>  - 🥇21 ·  ⭐ 56 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Automatically generates API documentation for your project based on Doxygen comments and code snippets in your..</summary>
 
-- [GitHub](https://github.com/daizutabi/mkapi) (👨‍💻 5 · 🔀 17 · 📦 170 · 📋 88 - 23% open · ⏱️ 03.04.2024)
-- [PyPi](https://pypi.org/project/mkapi) (📥 7K / month):
-	```
-	pip install mkapi
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - mkapi
-   ```
-</details>
-<details><summary><b><a href="https://github.com/JakubAndrysek/MkDoxy">mkdoxy</a></b>  - 🥈20 ·  ⭐ 51 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Automatically generates API documentation for your project based on Doxygen comments and code snippets in your..</summary>
-
-- [GitHub](https://github.com/JakubAndrysek/MkDoxy) (👨‍💻 10 · 🔀 15 · 📦 8 · 📋 50 - 14% open · ⏱️ 19.04.2024)
-- [PyPi](https://pypi.org/project/mkdoxy) (📥 13K / month):
+- [GitHub](https://github.com/JakubAndrysek/MkDoxy) (👨‍💻 12 · 🔀 16 · 📦 13 · 📋 53 - 18% open · ⏱️ 11.05.2024)
+- [PyPi](https://pypi.org/project/mkdoxy) (📥 10K / month):
 	```
 	pip install mkdoxy
 	```
@@ -582,8 +566,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/Neoteroi/mkdocs-plugins">MkDocsOAD</a></b>  - 🥈19 ·  ⭐ 110 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Plugin for MkDocs to generate human readable documentation from OpenAPI Documentation Version 3 (also known as Swagger..</summary>
 
-- [GitHub](https://github.com/Neoteroi/mkdocs-plugins) (👨‍💻 10 · 🔀 9 · 📥 990 · 📦 160 · 📋 35 - 40% open · ⏱️ 01.02.2024)
-- [PyPi](https://pypi.org/project/neoteroi-mkdocs) (📥 46K / month):
+- [GitHub](https://github.com/Neoteroi/mkdocs-plugins) (👨‍💻 10 · 🔀 9 · 📥 1K · 📦 200 · 📋 35 - 40% open · ⏱️ 01.02.2024)
+- [PyPi](https://pypi.org/project/neoteroi-mkdocs) (📥 44K / month):
 	```
 	pip install neoteroi-mkdocs
 	```
@@ -599,10 +583,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - neoteroi.spantable
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkdocs/mkdocs-click">mkdocs-click</a></b>  - 🥈19 ·  ⭐ 100 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs extension to generate documentation for Click command line applications.</summary>
+<details><summary><b><a href="https://github.com/daizutabi/mkapi">MkApi</a></b>  - 🥈19 ·  ⭐ 94 · 📉 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MkDocs to generate API documentation.</summary>
 
-- [GitHub](https://github.com/mkdocs/mkdocs-click) (👨‍💻 13 · 🔀 15 · 📦 410 · 📋 29 - 48% open · ⏱️ 11.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-click) (📥 48K / month):
+- [GitHub](https://github.com/daizutabi/mkapi) (👨‍💻 5 · 🔀 17 · 📦 180 · 📋 89 - 24% open · ⏱️ 03.04.2024)
+- [PyPi](https://pypi.org/project/mkapi) (📥 4.2K / month):
+	```
+	pip install mkapi
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - mkapi
+   ```
+</details>
+<details><summary><b><a href="https://github.com/mkdocs/mkdocs-click">mkdocs-click</a></b>  - 🥈18 ·  ⭐ 100 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs extension to generate documentation for Click command line applications.</summary>
+
+- [GitHub](https://github.com/mkdocs/mkdocs-click) (👨‍💻 13 · 🔀 15 · 📦 450 · 📋 29 - 48% open · ⏱️ 11.02.2024)
+- [PyPi](https://pypi.org/project/mkdocs-click) (📥 47K / month):
 	```
 	pip install mkdocs-click
 	```
@@ -614,8 +611,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/tomchristie/mkautodoc">MkAutoDoc</a></b>  - 🥈16 ·  ⭐ 210 · 💤 · <code><a href="https://tldrlegal.com/search?query=BSD">❗️BSD</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Auto documentation for MkDocs.</summary>
 
-- [GitHub](https://github.com/tomchristie/mkautodoc) (👨‍💻 7 · 🔀 15 · 📦 790 · 📋 18 - 38% open · ⏱️ 26.09.2022)
-- [PyPi](https://pypi.org/project/mkautodoc) (📥 8.8K / month):
+- [GitHub](https://github.com/tomchristie/mkautodoc) (👨‍💻 7 · 🔀 15 · 📦 800 · 📋 18 - 38% open · ⏱️ 26.09.2022)
+- [PyPi](https://pypi.org/project/mkautodoc) (📥 10K / month):
 	```
 	pip install mkautodoc
 	```
@@ -627,8 +624,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/greenape/mktheapidocs">mktheapidocs</a></b>  - 🥉12 ·  ⭐ 12 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Numpydocs - mkdocs friendly markdown.</summary>
 
-- [GitHub](https://github.com/greenape/mktheapidocs) (👨‍💻 6 · 🔀 3 · 📦 39 · 📋 16 - 62% open · ⏱️ 10.06.2022)
-- [PyPi](https://pypi.org/project/mktheapidocs) (📥 540 / month):
+- [GitHub](https://github.com/greenape/mktheapidocs) (👨‍💻 6 · 🔀 3 · 📦 40 · 📋 16 - 62% open · ⏱️ 10.06.2022)
+- [PyPi](https://pypi.org/project/mktheapidocs) (📥 510 / month):
 	```
 	pip install mktheapidocs
 	```
@@ -640,8 +637,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/bruce-szalwinski/mkdocs-typer">mkdocs-typer</a></b>  - 🥉11 ·  ⭐ 26 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs extension to generate documentation for Typer command line applications.</summary>
 
-- [GitHub](https://github.com/bruce-szalwinski/mkdocs-typer) (🔀 1 · 📋 6 - 50% open · ⏱️ 21.06.2023)
-- [PyPi](https://pypi.org/project/mkdocs-typer) (📥 6.9K / month):
+- [GitHub](https://github.com/bruce-szalwinski/mkdocs-typer) (🔀 2 · 📋 7 - 57% open · ⏱️ 21.06.2023)
+- [PyPi](https://pypi.org/project/mkdocs-typer) (📥 7.4K / month):
 	```
 	pip install mkdocs-typer
 	```
@@ -654,28 +651,15 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/AlexandreKempf/automacdoc">automacdoc</a></b>  - 🥉7 ·  ⭐ 42 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code><br>Automatic generation of documentation for mkdocs.</summary>
 
 - [GitHub](https://github.com/AlexandreKempf/automacdoc) (👨‍💻 6 · 🔀 10 · 📋 5 - 80% open · ⏱️ 29.12.2020)
-- [PyPi](https://pypi.org/project/automacdoc) (📥 49 / month):
+- [PyPi](https://pypi.org/project/automacdoc) (📥 54 / month):
 	```
 	pip install automacdoc
 	```
 </details>
-<details><summary><b><a href="https://github.com/tkamenoko/inari">inari</a></b>  - 🥉7 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Write docstrings in markdown!.</summary>
+<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-typedoc">mkdocs-typedoc</a></b>  - 🥉7 ·  ⭐ 4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>The MkDocs-Typedoc Plugin is a MkDocs plugin that allows you to include TypeDoc documentation in your MkDocs site.</summary>
 
-- [GitHub](https://github.com/tkamenoko/inari) (📦 6 · 📋 2 - 50% open · ⏱️ 10.07.2021)
-- [PyPi](https://pypi.org/project/inari) (📥 140 / month):
-	```
-	pip install inari
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - inari
-   ```
-</details>
-<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-typedoc">mkdocs-typedoc</a></b>  - 🥉7 ·  ⭐ 4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>The Mkdocs-Typedoc Plugin is designed to integrate TypeDoc documentation with your MkDocs project.</summary>
-
-- [GitHub](https://github.com/JakubAndrysek/mkdocs-typedoc) (👨‍💻 2 · 🔀 1 · ⏱️ 21.12.2023)
-- [PyPi](https://pypi.org/project/mkdocs-typedoc) (📥 240 / month):
+- [GitHub](https://github.com/JakubAndrysek/mkdocs-typedoc) (👨‍💻 2 · 🔀 1 · ⏱️ 03.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-typedoc) (📥 540 / month):
 	```
 	pip install mkdocs-typedoc
 	```
@@ -694,10 +678,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - doxygen
    ```
 </details>
+<details><summary><b><a href="https://github.com/tkamenoko/inari">inari</a></b>  - 🥉6 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Write docstrings in markdown!.</summary>
+
+- [GitHub](https://github.com/tkamenoko/inari) (📦 6 · 📋 2 - 50% open · ⏱️ 10.07.2021)
+- [PyPi](https://pypi.org/project/inari) (📥 99 / month):
+	```
+	pip install inari
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - inari
+   ```
+</details>
 <details><summary><b><a href="https://github.com/g6123/mkdocs-yaarg-plugin">mkdocs-yaarg-plugin</a></b>  - 🥉2 ·  ⭐ 2 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Yet Another API Reference Generator plugin for MKDocs.</summary>
 
 - [GitHub](https://github.com/g6123/mkdocs-yaarg-plugin) (⏱️ 14.03.2021)
-- [PyPi](https://pypi.org/project/mkdocs-yaarg-plugin) (📥 41 / month):
+- [PyPi](https://pypi.org/project/mkdocs-yaarg-plugin) (📥 27 / month):
 	```
 	pip install mkdocs-yaarg-plugin
 	```
@@ -707,9 +704,9 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - yaarg
    ```
 </details>
-<details><summary><b><a href="https://pypi.org/project/ansible-mkdocs/">ansible-document</a></b>  - 🥉1 · <code>❗Unlicensed</code><br>Auto-generate ansible role documentation.</summary>
+<details><summary><b><a href="https://pypi.org/project/ansible-mkdocs/">ansible-document</a></b>  - 🥉2 · <code>❗Unlicensed</code><br>Auto-generate ansible role documentation.</summary>
 
-- [PyPi](https://pypi.org/project/ansible-mkdocs) (📥 17 / month):
+- [PyPi](https://pypi.org/project/ansible-mkdocs) (📥 22 / month):
 	```
 	pip install ansible-mkdocs
 	```
@@ -720,10 +717,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/Guts/mkdocs-rss-plugin">rss</a></b>  - 🥇23 ·  ⭐ 60 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).</summary>
+<details><summary><b><a href="https://github.com/Guts/mkdocs-rss-plugin">rss</a></b>  - 🥇24 ·  ⭐ 63 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to generate a RSS feeds for created and updated pages, using git log and YAML frontmatter (page.meta).</summary>
 
-- [GitHub](https://github.com/Guts/mkdocs-rss-plugin) (👨‍💻 12 · 🔀 20 · 📥 55 · 📦 470 · 📋 43 - 37% open · ⏱️ 02.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-rss-plugin) (📥 34K / month):
+- [GitHub](https://github.com/Guts/mkdocs-rss-plugin) (👨‍💻 13 · 🔀 21 · 📥 60 · 📦 540 · 📋 44 - 38% open · ⏱️ 04.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-rss-plugin) (📥 39K / month):
 	```
 	pip install mkdocs-rss-plugin
 	```
@@ -733,10 +730,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - rss
    ```
 </details>
-<details><summary><b><a href="https://github.com/liang2kl/mkdocs-blogging-plugin">mkdocs-blogging-plugin</a></b>  - 🥈17 ·  ⭐ 82 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Add blogging feature to your MkDocs site.</summary>
+<details><summary><b><a href="https://github.com/liang2kl/mkdocs-blogging-plugin">mkdocs-blogging-plugin</a></b>  - 🥈17 ·  ⭐ 83 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Add blogging feature to your MkDocs site.</summary>
 
-- [GitHub](https://github.com/liang2kl/mkdocs-blogging-plugin) (👨‍💻 7 · 🔀 16 · 📥 11 · 📦 170 · 📋 40 - 10% open · ⏱️ 21.07.2023)
-- [PyPi](https://pypi.org/project/mkdocs-blogging-plugin) (📥 3.5K / month):
+- [GitHub](https://github.com/liang2kl/mkdocs-blogging-plugin) (👨‍💻 7 · 🔀 16 · 📥 11 · 📦 180 · 📋 40 - 10% open · ⏱️ 21.07.2023)
+- [PyPi](https://pypi.org/project/mkdocs-blogging-plugin) (📥 4.7K / month):
 	```
 	pip install mkdocs-blogging-plugin
 	```
@@ -746,10 +743,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - blogging
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - blog</a></b>  - 🥈14 ·  ⭐ 27 · ➕ · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Blogging engine.</summary>
+<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - blog</a></b>  - 🥈14 ·  ⭐ 32 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Blogging engine.</summary>
 
-- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 9 · 📦 22 · 📋 13 - 30% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 2K / month):
+- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 17 · 📦 39 · 📋 14 - 35% open · ⏱️ 21.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 880 / month):
 	```
 	pip install mkdocs-publisher
 	```
@@ -759,10 +756,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - pub-blog
    ```
 </details>
-<details><summary><b><a href="https://github.com/lyz-code/mkdocs-newsletter">newsletter</a></b>  - 🥉12 ·  ⭐ 26 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Automatically create newsletters from the changes in a mkdocs repository.</summary>
+<details><summary><b><a href="https://github.com/lyz-code/mkdocs-newsletter">newsletter</a></b>  - 🥉13 ·  ⭐ 27 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Automatically create newsletters from the changes in a mkdocs repository.</summary>
 
-- [GitHub](https://github.com/lyz-code/mkdocs-newsletter) (👨‍💻 3 · 🔀 2 · 📦 38 · 📋 10 - 30% open · ⏱️ 25.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-newsletter) (📥 880 / month):
+- [GitHub](https://github.com/lyz-code/mkdocs-newsletter) (👨‍💻 3 · 🔀 2 · 📦 40 · 📋 10 - 30% open · ⏱️ 27.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-newsletter) (📥 910 / month):
 	```
 	pip install mkdocs-newsletter
 	```
@@ -772,10 +769,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs-newsletter
    ```
 </details>
-<details><summary><b><a href="https://github.com/fmaida/mkdocs-blog-plugin">Blogs for MkDocs</a></b>  - 🥉12 ·  ⭐ 16 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This plugin for MkDocs allows to keeps a really simple blog section inside your documentation site.</summary>
+<details><summary><b><a href="https://github.com/fmaida/mkdocs-blog-plugin">Blogs for MkDocs</a></b>  - 🥉12 ·  ⭐ 17 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This plugin for MkDocs allows to keeps a really simple blog section inside your documentation site.</summary>
 
-- [GitHub](https://github.com/fmaida/mkdocs-blog-plugin) (🔀 4 · 📦 97 · 📋 2 - 50% open · ⏱️ 13.04.2020)
-- [PyPi](https://pypi.org/project/mkdocs-blog-plugin) (📥 2.9K / month):
+- [GitHub](https://github.com/fmaida/mkdocs-blog-plugin) (🔀 4 · 📦 98 · 📋 2 - 50% open · ⏱️ 13.04.2020)
+- [PyPi](https://pypi.org/project/mkdocs-blog-plugin) (📥 2.1K / month):
 	```
 	pip install mkdocs-blog-plugin
 	```
@@ -797,7 +794,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/derJD/python-mkblog">python-mkblog</a></b>  - 🥉3 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This is a MkDocs Plugin adding basic blogging functionality by parsing a `blog` directory ontop of your usual `docs`..</summary>
 
 - [GitHub](https://github.com/derJD/python-mkblog) (👨‍💻 2 · 🔀 1 · ⏱️ 14.04.2021)
-- [PyPi](https://pypi.org/project/mkblog) (📥 90 / month):
+- [PyPi](https://pypi.org/project/mkblog) (📥 49 / month):
 	```
 	pip install mkblog
 	```
@@ -815,7 +812,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <details><summary><b><a href="https://github.com/mikitex70/plantuml-markdown">plantuml-markdown</a></b>  - 🥇28 ·  ⭐ 190 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>PlantUML plugin for Python-Markdown.</summary>
 
-- [GitHub](https://github.com/mikitex70/plantuml-markdown) (👨‍💻 28 · 🔀 53 · 📦 1.3K · 📋 62 - 1% open · ⏱️ 26.03.2024)
+- [GitHub](https://github.com/mikitex70/plantuml-markdown) (👨‍💻 29 · 🔀 54 · 📦 1.3K · 📋 65 - 3% open · ⏱️ 28.05.2024)
 - [PyPi](https://pypi.org/project/plantuml-markdown) (📥 310K / month):
 	```
 	pip install plantuml-markdown
@@ -826,10 +823,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - plantuml_markdown
    ```
 </details>
-<details><summary><b><a href="https://github.com/fralau/mkdocs-mermaid2-plugin">mermaid2</a></b>  - 🥇23 ·  ⭐ 190 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A Mermaid graphs plugin for mkdocs.</summary>
+<details><summary><b><a href="https://github.com/fralau/mkdocs-mermaid2-plugin">mermaid2</a></b>  - 🥇23 ·  ⭐ 200 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A Mermaid graphs plugin for mkdocs.</summary>
 
-- [GitHub](https://github.com/fralau/mkdocs-mermaid2-plugin) (👨‍💻 13 · 🔀 25 · 📦 1.9K · 📋 65 - 9% open · ⏱️ 06.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-mermaid2-plugin) (📥 160K / month):
+- [GitHub](https://github.com/fralau/mkdocs-mermaid2-plugin) (👨‍💻 15 · 🔀 25 · 📦 2K · 📋 67 - 8% open · ⏱️ 03.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-mermaid2-plugin) (📥 220K / month):
 	```
 	pip install mkdocs-mermaid2-plugin
 	```
@@ -839,23 +836,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mermaid2
    ```
 </details>
-<details><summary><b><a href="https://github.com/timvink/mkdocs-table-reader-plugin">table-reader</a></b>  - 🥇22 ·  ⭐ 99 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin that enables a markdown tag like {{ read_csv(table.csv) }} to directly insert various table formats into..</summary>
+<details><summary><b><a href="https://github.com/blueswen/mkdocs-glightbox">MkDocs GLightbox</a></b>  - 🥇23 ·  ⭐ 110 · 📈 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin supports image lightbox (zoom effect) with GLightbox.</summary>
 
-- [GitHub](https://github.com/timvink/mkdocs-table-reader-plugin) (👨‍💻 8 · 🔀 16 · 📦 630 · 📋 39 - 7% open · ⏱️ 15.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-table-reader-plugin) (📥 38K / month):
-	```
-	pip install mkdocs-table-reader-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - table-reader
-   ```
-</details>
-<details><summary><b><a href="https://github.com/blueswen/mkdocs-glightbox">MkDocs GLightbox</a></b>  - 🥇21 ·  ⭐ 100 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin supports image lightbox (zoom effect) with GLightbox.</summary>
-
-- [GitHub](https://github.com/blueswen/mkdocs-glightbox) (👨‍💻 2 · 🔀 13 · 📥 24 · 📦 2.5K · 📋 32 - 34% open · ⏱️ 31.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-glightbox) (📥 200K / month):
+- [GitHub](https://github.com/blueswen/mkdocs-glightbox) (👨‍💻 6 · 🔀 14 · 📥 24 · 📦 2.7K · 📋 36 - 27% open · ⏱️ 23.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-glightbox) (📥 210K / month):
 	```
 	pip install mkdocs-glightbox
 	```
@@ -865,62 +849,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - glightbox
    ```
 </details>
-<details><summary><b><a href="https://github.com/LukeCarrier/mkdocs-drawio-exporter">drawio-exporter</a></b>  - 🥈19 ·  ⭐ 71 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Exports your Draw.io diagrams at build time for easier embedding into your documentation.</summary>
+<details><summary><b><a href="https://github.com/timvink/mkdocs-table-reader-plugin">table-reader</a></b>  - 🥇22 ·  ⭐ 110 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin that enables a markdown tag like {{ read_csv(table.csv) }} to directly insert various table formats into..</summary>
 
-- [GitHub](https://github.com/LukeCarrier/mkdocs-drawio-exporter) (👨‍💻 4 · 🔀 3 · 📦 67 · 📋 25 - 20% open · ⏱️ 17.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-drawio-exporter) (📥 11K / month):
+- [GitHub](https://github.com/timvink/mkdocs-table-reader-plugin) (👨‍💻 8 · 🔀 17 · 📦 690 · 📋 44 - 6% open · ⏱️ 20.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-table-reader-plugin) (📥 47K / month):
 	```
-	pip install mkdocs-drawio-exporter
+	pip install mkdocs-table-reader-plugin
 	```
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
    ```yaml
    plugins:
-     - drawio-exporter
+     - table-reader
    ```
 </details>
-<details><summary><b><a href="https://github.com/quantorconsulting/mkdocs_build_plantuml">build-plantuml</a></b>  - 🥈18 ·  ⭐ 53 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to help generate your plantuml images locally or remotely as files (NOT inline).</summary>
+<details><summary><b><a href="https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin">kroki</a></b>  - 🥇22 ·  ⭐ 39 · 📈 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for Kroki-Diagrams.</summary>
 
-- [GitHub](https://github.com/quantorconsulting/mkdocs_build_plantuml) (👨‍💻 11 · 🔀 14 · 📦 100 · 📋 22 - 4% open · ⏱️ 25.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-build-plantuml-plugin) (📥 36K / month):
-	```
-	pip install mkdocs-build-plantuml-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - build_plantuml
-   ```
-</details>
-<details><summary><b><a href="https://github.com/gisce/markdown-blockdiag">Markdown blockdiag</a></b>  - 🥈18 ·  ⭐ 26 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>blockdiag extension for Python Markdown.</summary>
-
-- [GitHub](https://github.com/gisce/markdown-blockdiag) (👨‍💻 5 · 🔀 9 · 📦 100 · 📋 6 - 50% open · ⏱️ 22.11.2023)
-- [PyPi](https://pypi.org/project/markdown-blockdiag) (📥 3.2K / month):
-	```
-	pip install markdown-blockdiag
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - markdown_blockdiag
-   ```
-</details>
-<details><summary><b><a href="https://github.com/timvink/mkdocs-charts-plugin">charts</a></b>  - 🥈17 ·  ⭐ 69 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin to add vegalite charts to your pages.</summary>
-
-- [GitHub](https://github.com/timvink/mkdocs-charts-plugin) (👨‍💻 3 · 🔀 6 · 📦 59 · 📋 19 - 15% open · ⏱️ 25.09.2023)
-- [PyPi](https://pypi.org/project/mkdocs-charts-plugin) (📥 5.3K / month):
-	```
-	pip install mkdocs-charts-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - charts
-   ```
-</details>
-<details><summary><b><a href="https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin">kroki</a></b>  - 🥈17 ·  ⭐ 38 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for Kroki-Diagrams.</summary>
-
-- [GitHub](https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin) (👨‍💻 13 · 🔀 24 · 📦 33 · 📋 23 - 30% open · ⏱️ 21.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-kroki-plugin) (📥 24K / month):
+- [GitHub](https://github.com/AVATEAM-IT-SYSTEMHAUS/mkdocs-kroki-plugin) (👨‍💻 15 · 🔀 24 · 📦 39 · 📋 30 - 10% open · ⏱️ 01.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-kroki-plugin) (📥 35K / month):
 	```
 	pip install mkdocs-kroki-plugin
 	```
@@ -930,9 +875,61 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - kroki
    ```
 </details>
+<details><summary><b><a href="https://github.com/LukeCarrier/mkdocs-drawio-exporter">drawio-exporter</a></b>  - 🥈21 ·  ⭐ 72 · 📈 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Exports your Draw.io diagrams at build time for easier embedding into your documentation.</summary>
+
+- [GitHub](https://github.com/LukeCarrier/mkdocs-drawio-exporter) (👨‍💻 5 · 🔀 5 · 📦 74 · 📋 27 - 14% open · ⏱️ 06.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-drawio-exporter) (📥 9.3K / month):
+	```
+	pip install mkdocs-drawio-exporter
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - drawio-exporter
+   ```
+</details>
+<details><summary><b><a href="https://github.com/timvink/mkdocs-charts-plugin">charts</a></b>  - 🥈17 ·  ⭐ 70 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin to add vegalite charts to your pages.</summary>
+
+- [GitHub](https://github.com/timvink/mkdocs-charts-plugin) (👨‍💻 3 · 🔀 7 · 📦 63 · 📋 19 - 15% open · ⏱️ 25.09.2023)
+- [PyPi](https://pypi.org/project/mkdocs-charts-plugin) (📥 8.2K / month):
+	```
+	pip install mkdocs-charts-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - charts
+   ```
+</details>
+<details><summary><b><a href="https://github.com/quantorconsulting/mkdocs_build_plantuml">build-plantuml</a></b>  - 🥈17 ·  ⭐ 55 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to help generate your plantuml images locally or remotely as files (NOT inline).</summary>
+
+- [GitHub](https://github.com/quantorconsulting/mkdocs_build_plantuml) (👨‍💻 11 · 🔀 14 · 📦 110 · 📋 23 - 8% open · ⏱️ 25.03.2024)
+- [PyPi](https://pypi.org/project/mkdocs-build-plantuml-plugin) (📥 34K / month):
+	```
+	pip install mkdocs-build-plantuml-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - build_plantuml
+   ```
+</details>
+<details><summary><b><a href="https://github.com/gisce/markdown-blockdiag">Markdown blockdiag</a></b>  - 🥈17 ·  ⭐ 26 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>blockdiag extension for Python Markdown.</summary>
+
+- [GitHub](https://github.com/gisce/markdown-blockdiag) (👨‍💻 5 · 🔀 9 · 📦 100 · 📋 6 - 50% open · ⏱️ 22.11.2023)
+- [PyPi](https://pypi.org/project/markdown-blockdiag) (📥 2.8K / month):
+	```
+	pip install markdown-blockdiag
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
+   ```yaml
+   markdown_extensions:
+     - markdown_blockdiag
+   ```
+</details>
 <details><summary><b><a href="https://github.com/soulless-viewer/mkdocs-video">MkDocs Video</a></b>  - 🥈16 ·  ⭐ 65 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Video plugin.</summary>
 
-- [GitHub](https://github.com/soulless-viewer/mkdocs-video) (👨‍💻 5 · 🔀 12 · 📥 42 · 📦 630 · ⏱️ 04.01.2024)
+- [GitHub](https://github.com/soulless-viewer/mkdocs-video) (👨‍💻 5 · 🔀 12 · 📥 42 · 📦 670 · ⏱️ 04.01.2024)
 - [PyPi](https://pypi.org/project/mkdocs-video) (📥 59K / month):
 	```
 	pip install mkdocs-video
@@ -946,7 +943,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/g-provost/lightgallery-markdown">Lightgallery</a></b>  - 🥈14 ·  ⭐ 26 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Markdown extension to wrap images in a lightbox.</summary>
 
 - [GitHub](https://github.com/g-provost/lightgallery-markdown) (👨‍💻 6 · 🔀 4 · 📦 92 · 📋 11 - 54% open · ⏱️ 07.10.2023)
-- [PyPi](https://pypi.org/project/lightgallery) (📥 3.8K / month):
+- [PyPi](https://pypi.org/project/lightgallery) (📥 3.5K / month):
 	```
 	pip install lightgallery
 	```
@@ -956,10 +953,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - lightgallery
    ```
 </details>
-<details><summary><b><a href="https://github.com/zoni/mkdocs-diagrams">mkdocs-diagrams</a></b>  - 🥈13 ·  ⭐ 25 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to render Diagrams files.</summary>
+<details><summary><b><a href="https://github.com/zoni/mkdocs-diagrams">mkdocs-diagrams</a></b>  - 🥈13 ·  ⭐ 26 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to render Diagrams files.</summary>
 
-- [GitHub](https://github.com/zoni/mkdocs-diagrams) (🔀 3 · 📦 58 · 📋 3 - 33% open · ⏱️ 04.09.2020)
-- [PyPi](https://pypi.org/project/mkdocs-diagrams) (📥 16K / month):
+- [GitHub](https://github.com/zoni/mkdocs-diagrams) (🔀 3 · 📦 60 · 📋 3 - 33% open · ⏱️ 04.09.2020)
+- [PyPi](https://pypi.org/project/mkdocs-diagrams) (📥 19K / month):
 	```
 	pip install mkdocs-diagrams
 	```
@@ -971,8 +968,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/pugong/mkdocs-mermaid-plugin">markdownmermaid</a></b>  - 🥈12 ·  ⭐ 26 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that support mermaid graph in markdown file.</summary>
 
-- [GitHub](https://github.com/pugong/mkdocs-mermaid-plugin) (👨‍💻 2 · 🔀 15 · 📦 80 · 📋 6 - 33% open · ⏱️ 26.05.2019)
-- [PyPi](https://pypi.org/project/mkdocs-mermaid-plugin) (📥 6.7K / month):
+- [GitHub](https://github.com/pugong/mkdocs-mermaid-plugin) (👨‍💻 2 · 🔀 15 · 📦 84 · 📋 6 - 33% open · ⏱️ 26.05.2019)
+- [PyPi](https://pypi.org/project/mkdocs-mermaid-plugin) (📥 6.5K / month):
 	```
 	pip install mkdocs-mermaid-plugin
 	```
@@ -982,9 +979,9 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - markdownmermaid
    ```
 </details>
-<details><summary><b><a href="https://github.com/landmaj/mkdocs-d2-plugin">mkdocs-d2-plugin</a></b>  - 🥉11 ·  ⭐ 10 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for embedding D2 diagrams in MkDocs.</summary>
+<details><summary><b><a href="https://github.com/landmaj/mkdocs-d2-plugin">mkdocs-d2-plugin</a></b>  - 🥈12 ·  ⭐ 15 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for embedding D2 diagrams in MkDocs.</summary>
 
-- [GitHub](https://github.com/landmaj/mkdocs-d2-plugin) (👨‍💻 3 · 🔀 3 · 📦 3 · ⏱️ 17.04.2024)
+- [GitHub](https://github.com/landmaj/mkdocs-d2-plugin) (👨‍💻 3 · 🔀 3 · 📦 6 · 📋 9 - 22% open · ⏱️ 22.05.2024)
 - [PyPi](https://pypi.org/project/mkdocs-d2-plugin) (📥 5K / month):
 	```
 	pip install mkdocs-d2-plugin
@@ -995,36 +992,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - d2
    ```
 </details>
-<details><summary><b><a href="https://github.com/stuebersystems/mkdocs-img2fig-plugin">MkDocs Img2Fig Plugin</a></b>  - 🥉10 ·  ⭐ 18 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that converts markdown encoded images into figure elements.</summary>
-
-- [GitHub](https://github.com/stuebersystems/mkdocs-img2fig-plugin) (👨‍💻 2 · 🔀 7 · 📦 110 · 📋 3 - 66% open · ⏱️ 14.07.2020)
-- [PyPi](https://pypi.org/project/mkdocs-img2fig-plugin) (📥 2.1K / month):
-	```
-	pip install mkdocs-img2fig-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - img2fig
-   ```
-</details>
-<details><summary><b><a href="https://github.com/Evidlo/markdown_captions">markdown-captions</a></b>  - 🥉10 ·  ⭐ 9 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown plugin for image captions.</summary>
-
-- [GitHub](https://github.com/Evidlo/markdown_captions) (👨‍💻 2 · 🔀 4 · 📦 140 · 📋 7 - 14% open · ⏱️ 24.05.2023)
-- [PyPi](https://pypi.org/project/markdown-captions) (📥 2.9K / month):
-	```
-	pip install markdown-captions
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - markdown_captions
-   ```
-</details>
-<details><summary><b><a href="https://github.com/axiros/docutools">docutools</a></b>  - 🥉9 ·  ⭐ 20 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Dev Centric Tools for Mkdocs Based Documentation.</summary>
+<details><summary><b><a href="https://github.com/axiros/docutools">docutools</a></b>  - 🥉10 ·  ⭐ 22 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Dev Centric Tools for Mkdocs Based Documentation.</summary>
 
 - [GitHub](https://github.com/axiros/docutools) (👨‍💻 3 · 📦 6 · 📋 2 - 50% open · ⏱️ 04.09.2023)
-- [PyPi](https://pypi.org/project/docutools) (📥 200 / month):
+- [PyPi](https://pypi.org/project/docutools) (📥 160 / month):
 	```
 	pip install docutools
 	```
@@ -1040,23 +1011,49 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - lcd-stats
    ```
 </details>
-<details><summary><b><a href="https://github.com/six-two/mkdocs-badges">badges</a></b>  - 🥉9 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Add badges to your mkdocs page.</summary>
+<details><summary><b><a href="https://github.com/stuebersystems/mkdocs-img2fig-plugin">MkDocs Img2Fig Plugin</a></b>  - 🥉10 ·  ⭐ 18 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that converts markdown encoded images into figure elements.</summary>
 
-- [GitHub](https://github.com/six-two/mkdocs-badges) (🔀 1 · ⏱️ 08.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-badges) (📥 1.2K / month):
+- [GitHub](https://github.com/stuebersystems/mkdocs-img2fig-plugin) (👨‍💻 2 · 🔀 7 · 📦 110 · 📋 3 - 66% open · ⏱️ 14.07.2020)
+- [PyPi](https://pypi.org/project/mkdocs-img2fig-plugin) (📥 2.7K / month):
 	```
-	pip install mkdocs-badges
+	pip install mkdocs-img2fig-plugin
 	```
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
    ```yaml
    plugins:
-     - badges
+     - img2fig
+   ```
+</details>
+<details><summary><b><a href="https://github.com/Evidlo/markdown_captions">markdown-captions</a></b>  - 🥉10 ·  ⭐ 9 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown plugin for image captions.</summary>
+
+- [GitHub](https://github.com/Evidlo/markdown_captions) (👨‍💻 2 · 🔀 4 · 📦 140 · 📋 7 - 14% open · ⏱️ 24.05.2023)
+- [PyPi](https://pypi.org/project/markdown-captions) (📥 2.5K / month):
+	```
+	pip install markdown-captions
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
+   ```yaml
+   markdown_extensions:
+     - markdown_captions
+   ```
+</details>
+<details><summary><b><a href="https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin">Interactive Graph</a></b>  - 🥉9 ·  ⭐ 7 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>interactive graph for Material for MkDocs like Obsidian, refer demo:.</summary>
+
+- [GitHub](https://github.com/daxcore/mkdocs-obsidian-interactive-graph-plugin) (👨‍💻 2 · 🔀 1 · 📦 2 · ⏱️ 24.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-obsidian-interactive-graph-plugin) (📥 770 / month):
+	```
+	pip install mkdocs-obsidian-interactive-graph-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - obsidian-interactive-graph
    ```
 </details>
 <details><summary><b><a href="https://github.com/bczsalba/Termage">Termage</a></b>  - 🥉8 ·  ⭐ 20 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate SVGs from any Python code, even in your documentation.</summary>
 
 - [GitHub](https://github.com/bczsalba/Termage) (📦 1 · 📋 5 - 20% open · ⏱️ 23.08.2022)
-- [PyPi](https://pypi.org/project/Termage) (📥 100 / month):
+- [PyPi](https://pypi.org/project/Termage) (📥 120 / month):
 	```
 	pip install Termage
 	```
@@ -1066,10 +1063,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - termage
    ```
 </details>
+<details><summary><b><a href="https://github.com/six-two/mkdocs-badges">badges</a></b>  - 🥉8 ·  ⭐ 9 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Add badges to your mkdocs page.</summary>
+
+- [GitHub](https://github.com/six-two/mkdocs-badges) (🔀 1 · ⏱️ 08.02.2024)
+- [PyPi](https://pypi.org/project/mkdocs-badges) (📥 1.8K / month):
+	```
+	pip install mkdocs-badges
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - badges
+   ```
+</details>
 <details><summary><b><a href="https://github.com/kuri65536/mkdocs-wavedrom-plugin">markdownwavedrom</a></b>  - 🥉7 ·  ⭐ 9 · 💤 · <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin for support wavedrom charts in markdown file.</summary>
 
-- [GitHub](https://github.com/kuri65536/mkdocs-wavedrom-plugin) (🔀 2 · 📦 10 · 📋 3 - 33% open · ⏱️ 26.06.2021)
-- [PyPi](https://pypi.org/project/mkdocs-wavedrom-plugin) (📥 110 / month):
+- [GitHub](https://github.com/kuri65536/mkdocs-wavedrom-plugin) (🔀 2 · 📦 12 · 📋 3 - 33% open · ⏱️ 26.06.2021)
+- [PyPi](https://pypi.org/project/mkdocs-wavedrom-plugin) (📥 140 / month):
 	```
 	pip install mkdocs-wavedrom-plugin
 	```
@@ -1079,9 +1089,22 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - markdownwavedrom
    ```
 </details>
+<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-resize-images">mkdocs-resize-images</a></b>  - 🥉7 ·  ⭐ 1 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to resize images according to the configuration.</summary>
+
+- [GitHub](https://github.com/JakubAndrysek/mkdocs-resize-images) (📦 4 · ⏱️ 04.11.2023)
+- [PyPi](https://pypi.org/project/mkdocs-resize-images) (📥 400 / month):
+	```
+	pip install mkdocs-resize-images
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - resize-images
+   ```
+</details>
 <details><summary><b><a href="https://gitlab.com/rod2ik/mkdocs-graphviz">MkDocs Graphviz</a></b>  - 🥉6 ·  ⭐ 5 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs Extension that automatically renders Graphviz images, in SVG or PNG format, within your markdown file.</summary>
 
-- [PyPi](https://pypi.org/project/mkdocs-graphviz) (📥 3.8K / month):
+- [PyPi](https://pypi.org/project/mkdocs-graphviz) (📥 4.1K / month):
 	```
 	pip install mkdocs-graphviz
 	```
@@ -1092,23 +1115,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs_graphviz
    ```
 </details>
-<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-resize-images">mkdocs-resize-images</a></b>  - 🥉6 ·  ⭐ 1 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to resize images according to the configuration.</summary>
+<details><summary><b><a href="https://github.com/funk1d/markdown-figcap">markdown-figcap</a></b>  - 🥉6 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Extension for Python-Markdown to handle figure and figcaption.</summary>
 
-- [GitHub](https://github.com/JakubAndrysek/mkdocs-resize-images) (📦 3 · ⏱️ 04.11.2023)
-- [PyPi](https://pypi.org/project/mkdocs-resize-images) (📥 98 / month):
+- [GitHub](https://github.com/funk1d/markdown-figcap) (📦 5 · ⏱️ 09.03.2019)
+- [PyPi](https://pypi.org/project/markdown-figcap) (📥 220 / month):
 	```
-	pip install mkdocs-resize-images
+	pip install markdown-figcap
 	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
    ```yaml
-   plugins:
-     - resize-images
+   markdown_extensions:
+     - markdown_figcap
    ```
 </details>
-<details><summary><b><a href="https://github.com/haoda-li/mkdocs-plotly-plugin">plotly charts</a></b>  - 🥉5 ·  ⭐ 7 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin to add interactive charts with Plotly.js.</summary>
+<details><summary><b><a href="https://github.com/haoda-li/mkdocs-plotly-plugin">plotly charts</a></b>  - 🥉5 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin to add interactive charts with Plotly.js.</summary>
 
 - [GitHub](https://github.com/haoda-li/mkdocs-plotly-plugin) (👨‍💻 2 · ⏱️ 25.07.2023)
-- [PyPi](https://pypi.org/project/mkdocs-plotly-plugin) (📥 820 / month):
+- [PyPi](https://pypi.org/project/mkdocs-plotly-plugin) (📥 960 / month):
 	```
 	pip install mkdocs-plotly-plugin
 	```
@@ -1118,10 +1141,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - plotly
    ```
 </details>
-<details><summary><b><a href="https://github.com/mbarkhau/markdown-aafigure">Markdown aafigure</a></b>  - 🥉5 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>aafigure extension for Python Markdown.</summary>
+<details><summary><b><a href="https://github.com/mbarkhau/markdown-aafigure">Markdown aafigure</a></b>  - 🥉5 ·  ⭐ 4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>aafigure extension for Python Markdown.</summary>
 
-- [GitHub](https://github.com/mbarkhau/markdown-aafigure) (📋 3 - 33% open · ⏱️ 30.04.2021)
-- [PyPi](https://pypi.org/project/markdown-aafigure) (📥 120 / month):
+- [GitHub](https://github.com/mbarkhau/markdown-aafigure) (👨‍💻 2 · 🔀 1 · 📋 3 - 33% open · ⏱️ 04.05.2024)
+- [PyPi](https://pypi.org/project/markdown-aafigure) (📥 100 / month):
 	```
 	pip install markdown-aafigure
 	```
@@ -1134,7 +1157,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/normanlorrain/mkdocs-thumbnails">thumbnails</a></b>  - 🥉5 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for thumbnail images generated automatically.</summary>
 
 - [GitHub](https://github.com/normanlorrain/mkdocs-thumbnails) (📋 2 - 50% open · ⏱️ 05.06.2023)
-- [PyPi](https://pypi.org/project/mkdocs-thumbnails) (📥 250 / month):
+- [PyPi](https://pypi.org/project/mkdocs-thumbnails) (📥 210 / month):
 	```
 	pip install mkdocs-thumbnails
 	```
@@ -1144,19 +1167,6 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - thumbnails
    ```
 </details>
-<details><summary><b><a href="https://github.com/funk1d/markdown-figcap">markdown-figcap</a></b>  - 🥉5 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Extension for Python-Markdown to handle figure and figcaption.</summary>
-
-- [GitHub](https://github.com/funk1d/markdown-figcap) (📦 3 · ⏱️ 09.03.2019)
-- [PyPi](https://pypi.org/project/markdown-figcap) (📥 28 / month):
-	```
-	pip install markdown-figcap
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - markdown_figcap
-   ```
-</details>
 <details><summary><b><a href="https://github.com/unverbuggt/mkdocs-familytree-example">Family tree example</a></b>  - 🥉4 ·  ⭐ 2 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code><br>An interactive family tree visualization using d3-dag.</summary>
 
 - [GitHub](https://github.com/unverbuggt/mkdocs-familytree-example) (👨‍💻 6 · 🔀 1 · ⏱️ 04.08.2023)
@@ -1164,7 +1174,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/fmaida/pico8-mkdocs-plugin">pico-8</a></b>  - 🥉4 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MKDocs plugin that allows to embed a Pico-8 web player in a page.</summary>
 
 - [GitHub](https://github.com/fmaida/pico8-mkdocs-plugin) (📦 1 · ⏱️ 17.03.2019)
-- [PyPi](https://pypi.org/project/pico8-mkdocs-plugin) (📥 9 / month):
+- [PyPi](https://pypi.org/project/pico8-mkdocs-plugin) (📥 10 / month):
 	```
 	pip install pico8-mkdocs-plugin
 	```
@@ -1172,6 +1182,19 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    ```yaml
    plugins:
      - pico-8
+   ```
+</details>
+<details><summary><b><a href="https://github.com/rajguru7/mkdocs-plugin-inline-svg-mod">inline-svg</a></b>  - 🥉4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code></summary>
+
+- [GitHub](https://github.com/rajguru7/mkdocs-plugin-inline-svg-mod) (👨‍💻 5 · 🔀 1 · 📦 3 · ⏱️ 12.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-plugin-inline-svg-mod) (📥 95 / month):
+	```
+	pip install mkdocs-plugin-inline-svg-mod
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - inline-svg
    ```
 </details>
 <details><summary><b><a href="https://github.com/fcannizzaro/mkdocs-sequence-js-plugin">sequence-js</a></b>  - 🥉3 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to render sequence.js blocks.</summary>
@@ -1186,7 +1209,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/Rj40x40/mkdocs-import-statement-plugin">import-statement</a></b>  - 🥉3 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/Rj40x40/mkdocs-import-statement-plugin) (📦 1 · ⏱️ 06.02.2023)
-- [PyPi](https://pypi.org/project/mkdocs-import-statement-plugin) (📥 53 / month):
+- [PyPi](https://pypi.org/project/mkdocs-import-statement-plugin) (📥 97 / month):
 	```
 	pip install mkdocs-import-statement-plugin
 	```
@@ -1196,27 +1219,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - import-statement
    ```
 </details>
-<details><summary><b><a href="https://github.com/rajguru7/mkdocs-plugin-inline-svg-mod">inline-svg</a></b>  - 🥉3 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/rajguru7/mkdocs-plugin-inline-svg-mod) (👨‍💻 5 · 🔀 1 · 📦 1 · ⏱️ 12.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-plugin-inline-svg-mod) (📥 38 / month):
-	```
-	pip install mkdocs-plugin-inline-svg-mod
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - inline-svg
-   ```
-</details>
 <details><summary><b><a href="https://eskool.gitlab.io/mkhack3rs/">MkHack3rs</a></b>  - 🥉2 ·  ⭐ 4 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1448/PNG/512/42498factory_99134.png" style="display:inline;" width="13" height="13"></code><br>Hacks & Integrations for Mkdocs / Material Theme.</summary>
 
 - [GitLab](https://gitlab.com/eskool/mkhack3rs) (🔀 1 · ⏱️ 01.05.2021)
 </details>
-<details><summary><b><a href="https://github.com/ASypula/mkdocs-image-formatter-plugin">image-formatter-plugin</a></b>  - 🥉2 ·  ⭐ 3 · 🐣 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code></summary>
+<details><summary><b><a href="https://github.com/ASypula/mkdocs-image-formatter-plugin">image-formatter-plugin</a></b>  - 🥉2 ·  ⭐ 4 · 🐣 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code></summary>
 
 - [GitHub](https://github.com/ASypula/mkdocs-image-formatter-plugin) (👨‍💻 7 · ⏱️ 06.12.2023)
-- [PyPi](https://pypi.org/project/mkdocs-image-formatter-plugin) (📥 83 / month):
+- [PyPi](https://pypi.org/project/mkdocs-image-formatter-plugin) (📥 10 / month):
 	```
 	pip install mkdocs-image-formatter-plugin
 	```
@@ -1232,10 +1242,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/fralau/mkdocs-macros-plugin">macros</a></b>  - 🥇27 ·  ⭐ 280 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.</summary>
+<details><summary><b><a href="https://github.com/fralau/mkdocs-macros-plugin">macros</a></b>  - 🥇26 ·  ⭐ 300 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Create richer and more beautiful pages in MkDocs, by using variables and calls to macros in the markdown code.</summary>
 
-- [GitHub](https://github.com/fralau/mkdocs-macros-plugin) (👨‍💻 31 · 🔀 45 · 📦 3.1K · 📋 120 - 4% open · ⏱️ 09.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-macros-plugin) (📥 330K / month):
+- [GitHub](https://github.com/fralau/mkdocs-macros-plugin) (👨‍💻 33 · 🔀 48 · 📦 3.3K · 📋 120 - 2% open · ⏱️ 02.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-macros-plugin) (📥 360K / month):
 	```
 	pip install mkdocs-macros-plugin
 	```
@@ -1245,10 +1255,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - macros
    ```
 </details>
-<details><summary><b><a href="https://github.com/danielfrg/mkdocs-jupyter">mkdocs-jupyter</a></b>  - 🥇24 ·  ⭐ 330 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Use Jupyter Notebook in mkdocs.</summary>
+<details><summary><b><a href="https://github.com/danielfrg/mkdocs-jupyter">mkdocs-jupyter</a></b>  - 🥇24 ·  ⭐ 350 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Use Jupyter Notebook in mkdocs.</summary>
 
-- [GitHub](https://github.com/danielfrg/mkdocs-jupyter) (👨‍💻 24 · 🔀 42 · 📦 2.2K · 📋 110 - 19% open · ⏱️ 09.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-jupyter) (📥 120K / month):
+- [GitHub](https://github.com/danielfrg/mkdocs-jupyter) (👨‍💻 24 · 🔀 44 · 📦 2.5K · 📋 120 - 22% open · ⏱️ 09.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-jupyter) (📥 140K / month):
 	```
 	pip install mkdocs-jupyter
 	```
@@ -1258,10 +1268,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs-jupyter
    ```
 </details>
-<details><summary><b><a href="https://github.com/rosscdh/mkdocs-markdownextradata-plugin">markdownextradata</a></b>  - 🥈21 ·  ⭐ 77 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that injects the mkdocs.yml extra variables into the markdown template.</summary>
+<details><summary><b><a href="https://github.com/pawamoy/markdown-exec">markdown-exec</a></b>  - 🥈21 ·  ⭐ 80 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Utilities to execute code blocks in Markdown files.</summary>
 
-- [GitHub](https://github.com/rosscdh/mkdocs-markdownextradata-plugin) (👨‍💻 10 · 🔀 17 · 📦 1.1K · 📋 34 - 23% open · ⏱️ 15.12.2021)
-- [PyPi](https://pypi.org/project/mkdocs-markdownextradata-plugin) (📥 39K / month):
+- [GitHub](https://github.com/pawamoy/markdown-exec) (👨‍💻 2 · 🔀 6 · 📦 260 · 📋 38 - 39% open · ⏱️ 22.05.2024)
+- [PyPi](https://pypi.org/project/markdown-exec) (📥 34K / month):
+	```
+	pip install markdown-exec
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - markdown-exec
+   ```
+</details>
+<details><summary><b><a href="https://github.com/rosscdh/mkdocs-markdownextradata-plugin">markdownextradata</a></b>  - 🥈21 ·  ⭐ 79 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that injects the mkdocs.yml extra variables into the markdown template.</summary>
+
+- [GitHub](https://github.com/rosscdh/mkdocs-markdownextradata-plugin) (👨‍💻 10 · 🔀 17 · 📦 1.2K · 📋 34 - 23% open · ⏱️ 15.12.2021)
+- [PyPi](https://pypi.org/project/mkdocs-markdownextradata-plugin) (📥 38K / month):
 	```
 	pip install mkdocs-markdownextradata-plugin
 	```
@@ -1273,8 +1296,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/greenape/mknotebooks">mknotebooks</a></b>  - 🥈20 ·  ⭐ 130 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for mkdocs to help you include Jupyter notebooks in your projects.</summary>
 
-- [GitHub](https://github.com/greenape/mknotebooks) (👨‍💻 14 · 🔀 20 · 📦 530 · 📋 39 - 33% open · ⏱️ 11.08.2023)
-- [PyPi](https://pypi.org/project/mknotebooks) (📥 13K / month):
+- [GitHub](https://github.com/greenape/mknotebooks) (👨‍💻 14 · 🔀 20 · 📦 540 · 📋 40 - 35% open · ⏱️ 11.08.2023)
+- [PyPi](https://pypi.org/project/mknotebooks) (📥 14K / month):
 	```
 	pip install mknotebooks
 	```
@@ -1284,10 +1307,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mknotebooks
    ```
 </details>
-<details><summary><b><a href="https://github.com/oprypin/mkdocs-gen-files">gen-files</a></b>  - 🥈20 ·  ⭐ 84 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to programmatically generate documentation pages during the build.</summary>
+<details><summary><b><a href="https://github.com/oprypin/mkdocs-gen-files">gen-files</a></b>  - 🥈20 ·  ⭐ 91 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to programmatically generate documentation pages during the build.</summary>
 
-- [GitHub](https://github.com/oprypin/mkdocs-gen-files) (👨‍💻 5 · 🔀 7 · 📦 2K · 📋 23 - 21% open · ⏱️ 03.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-gen-files) (📥 250K / month):
+- [GitHub](https://github.com/oprypin/mkdocs-gen-files) (👨‍💻 5 · 🔀 7 · 📦 2.1K · 📋 25 - 28% open · ⏱️ 27.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-gen-files) (📥 290K / month):
 	```
 	pip install mkdocs-gen-files
 	```
@@ -1297,23 +1320,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - gen-files
    ```
 </details>
-<details><summary><b><a href="https://github.com/pawamoy/markdown-exec">markdown-exec</a></b>  - 🥈20 ·  ⭐ 71 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Utilities to execute code blocks in Markdown files.</summary>
+<details><summary><b><a href="https://github.com/markmap/mkdocs-markmap">mkdocs-markmap</a></b>  - 🥈15 ·  ⭐ 40 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin and extension to create mindmaps from markdown using markmap.</summary>
 
-- [GitHub](https://github.com/pawamoy/markdown-exec) (👨‍💻 2 · 🔀 5 · 📦 230 · 📋 36 - 41% open · ⏱️ 15.04.2024)
-- [PyPi](https://pypi.org/project/markdown-exec) (📥 18K / month):
-	```
-	pip install markdown-exec
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - markdown-exec
-   ```
-</details>
-<details><summary><b><a href="https://github.com/markmap/mkdocs-markmap">mkdocs-markmap</a></b>  - 🥈15 ·  ⭐ 38 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin and extension to create mindmaps from markdown using markmap.</summary>
-
-- [GitHub](https://github.com/markmap/mkdocs-markmap) (👨‍💻 3 · 🔀 5 · 📥 170 · 📋 26 - 11% open · ⏱️ 05.10.2023)
-- [PyPi](https://pypi.org/project/mkdocs-markmap) (📥 2K / month):
+- [GitHub](https://github.com/markmap/mkdocs-markmap) (👨‍💻 3 · 🔀 5 · 📥 180 · 📋 26 - 7% open · ⏱️ 05.10.2023)
+- [PyPi](https://pypi.org/project/mkdocs-markmap) (📥 1.7K / month):
 	```
 	pip install mkdocs-markmap
 	```
@@ -1323,10 +1333,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - markmap
    ```
 </details>
-<details><summary><b><a href="https://github.com/termynal/termynal.py">Termynal</a></b>  - 🥈14 ·  ⭐ 75 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Python markdown terminal. Built for mkdocs.</summary>
+<details><summary><b><a href="https://github.com/termynal/termynal.py">Termynal</a></b>  - 🥈13 ·  ⭐ 80 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Python markdown terminal. Built for mkdocs.</summary>
 
-- [GitHub](https://github.com/termynal/termynal.py) (👨‍💻 5 · 🔀 7 · 📦 160 · 📋 15 - 46% open · ⏱️ 18.02.2024)
-- [PyPi](https://pypi.org/project/termynal) (📥 5K / month):
+- [GitHub](https://github.com/termynal/termynal.py) (👨‍💻 5 · 🔀 8 · 📦 170 · 📋 16 - 50% open · ⏱️ 01.06.2024)
+- [PyPi](https://pypi.org/project/termynal) (📥 4.3K / month):
 	```
 	pip install termynal
 	```
@@ -1336,10 +1346,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - termynal
    ```
 </details>
-<details><summary><b><a href="https://github.com/daizutabi/pheasant">pheasant</a></b>  - 🥉13 ·  ⭐ 16 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Documentation tool for Markdown conversion by Jupyter client.</summary>
+<details><summary><b><a href="https://github.com/daizutabi/pheasant">pheasant</a></b>  - 🥈13 ·  ⭐ 16 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Documentation tool for Markdown conversion by Jupyter client.</summary>
 
 - [GitHub](https://github.com/daizutabi/pheasant) (👨‍💻 4 · 🔀 9 · 📦 43 · ⏱️ 19.12.2020)
-- [PyPi](https://pypi.org/project/pheasant) (📥 200 / month):
+- [PyPi](https://pypi.org/project/pheasant) (📥 390 / month):
 	```
 	pip install pheasant
 	```
@@ -1351,8 +1361,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/rahult/mkdocs-user-defined-values">user-defined-values</a></b>  - 🥉12 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs User Defined Values.</summary>
 
-- [GitHub](https://github.com/rahult/mkdocs-user-defined-values) (👨‍💻 3 · 🔀 3 · 📥 10 · 📦 12 · ⏱️ 10.07.2022)
-- [PyPi](https://pypi.org/project/mkdocs-user-defined-values) (📥 1K / month):
+- [GitHub](https://github.com/rahult/mkdocs-user-defined-values) (👨‍💻 3 · 🔀 3 · 📥 10 · 📦 13 · ⏱️ 10.07.2022)
+- [PyPi](https://pypi.org/project/mkdocs-user-defined-values) (📥 970 / month):
 	```
 	pip install mkdocs-user-defined-values
 	```
@@ -1362,36 +1372,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - user-defined-values
    ```
 </details>
-<details><summary><b><a href="https://github.com/tanbro/mkdocs-nbconvert">nbconvert</a></b>  - 🥉9 ·  ⭐ 6 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plug-in provides a source parser for *.ipynb files.</summary>
+<details><summary><b><a href="https://github.com/six-two/mkdocs-placeholder-plugin">placeholder</a></b>  - 🥉10 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Add placeholders to your MkDocs pages.</summary>
 
-- [GitHub](https://github.com/tanbro/mkdocs-nbconvert) (👨‍💻 5 · 🔀 1 · 📦 2 · ⏱️ 09.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-nbconvert) (📥 500 / month):
-	```
-	pip install mkdocs-nbconvert
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - nbconvert
-   ```
-</details>
-<details><summary><b><a href="https://github.com/byrnereese/mkdocs-markdown-filter">markdown-filter</a></b>  - 🥉9 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Adds a markdown template filter to the jinja templating environment in mkdocs.</summary>
-
-- [GitHub](https://github.com/byrnereese/mkdocs-markdown-filter) (🔀 1 · 📦 20 · ⏱️ 06.02.2019)
-- [PyPi](https://pypi.org/project/mkdocs-markdown-filter) (📥 490 / month):
-	```
-	pip install mkdocs-markdown-filter
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - markdown-filter
-   ```
-</details>
-<details><summary><b><a href="https://github.com/six-two/mkdocs-placeholder-plugin">placeholder</a></b>  - 🥉8 ·  ⭐ 7 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Add placeholders to your MkDocs pages.</summary>
-
-- [GitHub](https://github.com/six-two/mkdocs-placeholder-plugin) (👨‍💻 2 · 🔀 3 · 📋 5 - 20% open · ⏱️ 17.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-placeholder-plugin) (📥 740 / month):
+- [GitHub](https://github.com/six-two/mkdocs-placeholder-plugin) (👨‍💻 2 · 🔀 3 · 📋 7 - 28% open · ⏱️ 06.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-placeholder-plugin) (📥 890 / month):
 	```
 	pip install mkdocs-placeholder-plugin
 	```
@@ -1401,10 +1385,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - placeholder
    ```
 </details>
-<details><summary><b><a href="https://github.com/timmeinerzhagen/mkdocs-meta-manager">meta-manager</a></b>  - 🥉8 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for managing meta tags across folders and files.</summary>
+<details><summary><b><a href="https://github.com/tanbro/mkdocs-nbconvert">nbconvert</a></b>  - 🥉9 ·  ⭐ 8 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plug-in provides a source parser for *.ipynb files.</summary>
 
-- [GitHub](https://github.com/timmeinerzhagen/mkdocs-meta-manager) (👨‍💻 3 · 🔀 1 · 📦 5 · 📋 3 - 66% open · ⏱️ 24.03.2023)
-- [PyPi](https://pypi.org/project/mkdocs-meta-manager) (📥 1.8K / month):
+- [GitHub](https://github.com/tanbro/mkdocs-nbconvert) (👨‍💻 5 · 🔀 1 · 📦 2 · ⏱️ 09.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-nbconvert) (📥 410 / month):
+	```
+	pip install mkdocs-nbconvert
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - nbconvert
+   ```
+</details>
+<details><summary><b><a href="https://github.com/timmeinerzhagen/mkdocs-meta-manager">meta-manager</a></b>  - 🥉9 ·  ⭐ 1 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for managing meta tags across folders and files.</summary>
+
+- [GitHub](https://github.com/timmeinerzhagen/mkdocs-meta-manager) (👨‍💻 3 · 🔀 1 · 📦 5 · 📋 3 - 33% open · ⏱️ 09.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-meta-manager) (📥 2.3K / month):
 	```
 	pip install mkdocs-meta-manager
 	```
@@ -1414,10 +1411,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - meta-manager
    ```
 </details>
+<details><summary><b><a href="https://github.com/byrnereese/mkdocs-markdown-filter">markdown-filter</a></b>  - 🥉8 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Adds a markdown template filter to the jinja templating environment in mkdocs.</summary>
+
+- [GitHub](https://github.com/byrnereese/mkdocs-markdown-filter) (🔀 1 · 📦 20 · ⏱️ 06.02.2019)
+- [PyPi](https://pypi.org/project/mkdocs-markdown-filter) (📥 370 / month):
+	```
+	pip install mkdocs-markdown-filter
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - markdown-filter
+   ```
+</details>
 <details><summary><b><a href="https://github.com/stadiamaps/mkjsfiddle">mkjsfiddle</a></b>  - 🥉7 ·  ⭐ 4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that lets you edit code fences in JSFiddle.</summary>
 
 - [GitHub](https://github.com/stadiamaps/mkjsfiddle) (⏱️ 07.06.2023)
-- [PyPi](https://pypi.org/project/mkjsfiddle) (📥 110 / month):
+- [PyPi](https://pypi.org/project/mkjsfiddle) (📥 83 / month):
 	```
 	pip install mkjsfiddle
 	```
@@ -1427,10 +1437,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - jsfiddle
    ```
 </details>
-<details><summary><b><a href="https://github.com/entangled/mkdocs-plugin">Entangled</a></b>  - 🥉7 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that lets you do Literate Programming through Entangled.</summary>
+<details><summary><b><a href="https://github.com/entangled/mkdocs-plugin">Entangled</a></b>  - 🥉6 ·  ⭐ 1 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that lets you do Literate Programming through Entangled.</summary>
 
 - [GitHub](https://github.com/entangled/mkdocs-plugin) (📦 6 · ⏱️ 14.10.2023)
-- [PyPi](https://pypi.org/project/mkdocs-entangled-plugin) (📥 110 / month):
+- [PyPi](https://pypi.org/project/mkdocs-entangled-plugin) (📥 79 / month):
 	```
 	pip install mkdocs-entangled-plugin
 	```
@@ -1440,7 +1450,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - entangled
    ```
 </details>
-<details><summary><b><a href="https://github.com/rkoe/mkdocs-jinja2sandbox">jinja2sandbox</a></b>  - 🥉5 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that enables the Jinja2-sandbox.</summary>
+<details><summary><b><a href="https://github.com/rkoe/mkdocs-jinja2sandbox">jinja2sandbox</a></b>  - 🥉5 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that enables the Jinja2-sandbox.</summary>
 
 - [GitHub](https://github.com/rkoe/mkdocs-jinja2sandbox) (⏱️ 20.03.2019)
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
@@ -1449,23 +1459,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - jinja2sandbox
    ```
 </details>
-<details><summary><b><a href="https://github.com/rymurr/mkdocs-protobuf">mkdocs_protobuf</a></b>  - 🥉4 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin to render protobuf messages.</summary>
-
-- [GitHub](https://github.com/rymurr/mkdocs-protobuf) (👨‍💻 2 · 🔀 1 · ⏱️ 30.03.2022)
-- [PyPi](https://pypi.org/project/mkdocs-protobuf) (📥 250 / month):
-	```
-	pip install mkdocs-protobuf
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - mkdocs_protobuf
-   ```
-</details>
 <details><summary><b><a href="https://github.com/textileio/mkdocs-codeyaml-plugin">codeyaml</a></b>  - 🥉4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Allows for more than one yaml config in mkdocs.</summary>
 
 - [GitHub](https://github.com/textileio/mkdocs-codeyaml-plugin) (🔀 1 · ⏱️ 30.04.2019)
-- [PyPi](https://pypi.org/project/mkdocs-codeyaml-plugin) (📥 18 / month):
+- [PyPi](https://pypi.org/project/mkdocs-codeyaml-plugin) (📥 15 / month):
 	```
 	pip install mkdocs-codeyaml-plugin
 	```
@@ -1475,16 +1472,29 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - codeyaml
    ```
 </details>
+<details><summary><b><a href="https://github.com/rymurr/mkdocs-protobuf">mkdocs_protobuf</a></b>  - 🥉3 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin to render protobuf messages.</summary>
+
+- [GitHub](https://github.com/rymurr/mkdocs-protobuf) (👨‍💻 2 · 🔀 1 · ⏱️ 30.03.2022)
+- [PyPi](https://pypi.org/project/mkdocs-protobuf) (📥 140 / month):
+	```
+	pip install mkdocs-protobuf
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - mkdocs_protobuf
+   ```
+</details>
 <br>
 
 ## 🌲 Git repos & info
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/timvink/mkdocs-git-revision-date-localized-plugin">git-revision-date-localized</a></b>  - 🥇29 ·  ⭐ 170 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to add a last updated date to your site pages.</summary>
+<details><summary><b><a href="https://github.com/timvink/mkdocs-git-revision-date-localized-plugin">git-revision-date-localized</a></b>  - 🥇29 ·  ⭐ 180 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to add a last updated date to your site pages.</summary>
 
-- [GitHub](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) (👨‍💻 23 · 🔀 31 · 📦 6.4K · 📋 82 - 12% open · ⏱️ 03.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-git-revision-date-localized-plugin) (📥 450K / month):
+- [GitHub](https://github.com/timvink/mkdocs-git-revision-date-localized-plugin) (👨‍💻 25 · 🔀 35 · 📦 6.8K · 📋 87 - 13% open · ⏱️ 03.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-git-revision-date-localized-plugin) (📥 480K / month):
 	```
 	pip install mkdocs-git-revision-date-localized-plugin
 	```
@@ -1494,10 +1504,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - git-revision-date-localized
    ```
 </details>
-<details><summary><b><a href="https://github.com/timvink/mkdocs-git-authors-plugin">git-authors</a></b>  - 🥈23 ·  ⭐ 65 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to display git authors of a page.</summary>
+<details><summary><b><a href="https://github.com/timvink/mkdocs-git-authors-plugin">git-authors</a></b>  - 🥈23 ·  ⭐ 69 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to display git authors of a page.</summary>
 
-- [GitHub](https://github.com/timvink/mkdocs-git-authors-plugin) (👨‍💻 10 · 🔀 16 · 📦 750 · 📋 55 - 18% open · ⏱️ 12.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-git-authors-plugin) (📥 73K / month):
+- [GitHub](https://github.com/timvink/mkdocs-git-authors-plugin) (👨‍💻 12 · 🔀 16 · 📦 800 · 📋 57 - 17% open · ⏱️ 08.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-git-authors-plugin) (📥 82K / month):
 	```
 	pip install mkdocs-git-authors-plugin
 	```
@@ -1507,23 +1517,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - git-authors
    ```
 </details>
-<details><summary><b><a href="https://github.com/ojacques/mkdocs-git-committers-plugin-2">git-committers-2</a></b>  - 🥈22 ·  ⭐ 41 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin to create a list of contributors on the page.</summary>
-
-- [GitHub](https://github.com/ojacques/mkdocs-git-committers-plugin-2) (👨‍💻 12 · 🔀 15 · 📦 520 · 📋 33 - 21% open · ⏱️ 05.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-git-committers-plugin-2) (📥 24K / month):
-	```
-	pip install mkdocs-git-committers-plugin-2
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - git-committers
-   ```
-</details>
 <details><summary><b><a href="https://github.com/zhaoterryy/mkdocs-git-revision-date-plugin">git-revision-date</a></b>  - 🥈20 ·  ⭐ 56 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for setting revision date from git per markdown file.</summary>
 
-- [GitHub](https://github.com/zhaoterryy/mkdocs-git-revision-date-plugin) (👨‍💻 7 · 🔀 8 · 📦 2K · 📋 14 - 35% open · ⏱️ 08.03.2022)
-- [PyPi](https://pypi.org/project/mkdocs-git-revision-date-plugin) (📥 70K / month):
+- [GitHub](https://github.com/zhaoterryy/mkdocs-git-revision-date-plugin) (👨‍💻 7 · 🔀 8 · 📦 2.2K · 📋 14 - 35% open · ⏱️ 08.03.2022)
+- [PyPi](https://pypi.org/project/mkdocs-git-revision-date-plugin) (📥 83K / month):
 	```
 	pip install mkdocs-git-revision-date-plugin
 	```
@@ -1533,10 +1530,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - git-revision-date
    ```
 </details>
-<details><summary><b><a href="https://github.com/byrnereese/mkdocs-git-committers-plugin">git-committers</a></b>  - 🥉15 ·  ⭐ 34 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin for displaying the last commit and a list of a files contributors.</summary>
+<details><summary><b><a href="https://github.com/ojacques/mkdocs-git-committers-plugin-2">git-committers-2</a></b>  - 🥈20 ·  ⭐ 45 · 📉 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin to create a list of contributors on the page.</summary>
 
-- [GitHub](https://github.com/byrnereese/mkdocs-git-committers-plugin) (👨‍💻 6 · 🔀 8 · 📦 180 · ⏱️ 06.11.2023)
-- [PyPi](https://pypi.org/project/mkdocs-git-committers-plugin) (📥 8.7K / month):
+- [GitHub](https://github.com/ojacques/mkdocs-git-committers-plugin-2) (👨‍💻 12 · 🔀 15 · 📦 560 · 📋 33 - 21% open · ⏱️ 05.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-git-committers-plugin-2) (📥 29K / month):
+	```
+	pip install mkdocs-git-committers-plugin-2
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - git-committers
+   ```
+</details>
+<details><summary><b><a href="https://github.com/byrnereese/mkdocs-git-committers-plugin">git-committers</a></b>  - 🥉15 ·  ⭐ 35 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin for displaying the last commit and a list of a files contributors.</summary>
+
+- [GitHub](https://github.com/byrnereese/mkdocs-git-committers-plugin) (👨‍💻 6 · 🔀 7 · 📦 190 · ⏱️ 06.11.2023)
+- [PyPi](https://pypi.org/project/mkdocs-git-committers-plugin) (📥 14K / month):
 	```
 	pip install mkdocs-git-committers-plugin
 	```
@@ -1546,10 +1556,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - git-committers
    ```
 </details>
-<details><summary><b><a href="https://github.com/Python-Markdown/github-links">Github-Links</a></b>  - 🥉8 ·  ⭐ 10 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown GitHub Links Extension.</summary>
+<details><summary><b><a href="https://github.com/tombreit/mkdocs-git-latest-changes-plugin">mkdocs-git-latest-changes-plugin</a></b>  - 🥉10 ·  ⭐ 1 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin that allows you to display a list of recently modified pages from the Git log.</summary>
+
+- [GitHub](https://github.com/tombreit/mkdocs-git-latest-changes-plugin) (👨‍💻 2 · 🔀 2 · 📦 3 · 📋 12 - 25% open · ⏱️ 02.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-git-latest-changes-plugin) (📥 320 / month):
+	```
+	pip install mkdocs-git-latest-changes-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - git-latest-changes
+   ```
+</details>
+<details><summary><b><a href="https://github.com/Python-Markdown/github-links">Github-Links</a></b>  - 🥉8 ·  ⭐ 11 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown GitHub Links Extension.</summary>
 
 - [GitHub](https://github.com/Python-Markdown/github-links) (👨‍💻 4 · 🔀 10 · ⏱️ 22.12.2023)
-- [PyPi](https://pypi.org/project/mdx-gh-links) (📥 7.2K / month):
+- [PyPi](https://pypi.org/project/mdx-gh-links) (📥 6K / month):
 	```
 	pip install mdx-gh-links
 	```
@@ -1559,10 +1582,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mdx_gh_links
    ```
 </details>
-<details><summary><b><a href="https://github.com/effigies/mkdocs-branchcustomization-plugin">branchcustomization</a></b>  - 🥉8 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Customize MkDocs options on a per-branch basis.</summary>
+<details><summary><b><a href="https://github.com/effigies/mkdocs-branchcustomization-plugin">branchcustomization</a></b>  - 🥉7 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Customize MkDocs options on a per-branch basis.</summary>
 
 - [GitHub](https://github.com/effigies/mkdocs-branchcustomization-plugin) (📦 15 · ⏱️ 17.04.2022)
-- [PyPi](https://pypi.org/project/mkdocs-branchcustomization-plugin) (📥 2.2K / month):
+- [PyPi](https://pypi.org/project/mkdocs-branchcustomization-plugin) (📥 1.1K / month):
 	```
 	pip install mkdocs-branchcustomization-plugin
 	```
@@ -1570,19 +1593,6 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    ```yaml
    plugins:
      - branchcustomization
-   ```
-</details>
-<details><summary><b><a href="https://github.com/tombreit/mkdocs-git-latest-changes-plugin">mkdocs-git-latest-changes-plugin</a></b>  - 🥉8 ·  ⭐ 1 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin that allows you to display a list of recently modified pages from the Git log.</summary>
-
-- [GitHub](https://github.com/tombreit/mkdocs-git-latest-changes-plugin) (👨‍💻 2 · 🔀 1 · 📦 2 · 📋 9 - 22% open · ⏱️ 07.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-git-latest-changes-plugin) (📥 220 / month):
-	```
-	pip install mkdocs-git-latest-changes-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - git-latest-changes
    ```
 </details>
 <details><summary><b><a href="https://github.com/agarthetiger/mkdocs_latest_release_plugin">git-latest-release</a></b>  - 🥉5 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Plugin for MKDocs to inject the latest release tag from git into markdown.</summary>
@@ -1598,10 +1608,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - git-latest-release
    ```
 </details>
-<details><summary><b><a href="https://github.com/djpugh/mkdocs_github_changelog">Github Releaase Changelog</a></b>  - 🥉3 ·  ⭐ 1 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>mkdocs extension to autogenerate changelog from github releases.</summary>
+<details><summary><b><a href="https://github.com/djpugh/mkdocs_github_changelog">Github Releaase Changelog</a></b>  - 🥉3 ·  ⭐ 2 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>mkdocs extension to autogenerate changelog from github releases.</summary>
 
 - [GitHub](https://github.com/djpugh/mkdocs_github_changelog) (👨‍💻 2 · ⏱️ 02.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-github-changelog) (📥 19 / month):
+- [PyPi](https://pypi.org/project/mkdocs-github-changelog) (📥 17 / month):
 	```
 	pip install mkdocs-github-changelog
 	```
@@ -1617,10 +1627,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/byrnereese/mkdocs-minify-plugin">minify</a></b>  - 🥇22 ·  ⭐ 130 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin to minify the HTML of a page before it is written to disk.</summary>
+<details><summary><b><a href="https://github.com/byrnereese/mkdocs-minify-plugin">minify</a></b>  - 🥇21 ·  ⭐ 140 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin to minify the HTML of a page before it is written to disk.</summary>
 
-- [GitHub](https://github.com/byrnereese/mkdocs-minify-plugin) (👨‍💻 14 · 🔀 16 · 📦 7.4K · 📋 17 - 23% open · ⏱️ 29.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-minify-plugin) (📥 190K / month):
+- [GitHub](https://github.com/byrnereese/mkdocs-minify-plugin) (👨‍💻 14 · 🔀 17 · 📦 7.7K · 📋 17 - 23% open · ⏱️ 29.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-minify-plugin) (📥 200K / month):
 	```
 	pip install mkdocs-minify-plugin
 	```
@@ -1630,10 +1640,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - minify
    ```
 </details>
-<details><summary><b><a href="https://github.com/timvink/mkdocs-enumerate-headings-plugin">enumerate-headings</a></b>  - 🥇21 ·  ⭐ 37 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Plugin to enumerate the headings across site pages.</summary>
+<details><summary><b><a href="https://github.com/timvink/mkdocs-enumerate-headings-plugin">enumerate-headings</a></b>  - 🥇21 ·  ⭐ 38 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Plugin to enumerate the headings across site pages.</summary>
 
-- [GitHub](https://github.com/timvink/mkdocs-enumerate-headings-plugin) (👨‍💻 5 · 🔀 7 · 📦 190 · 📋 30 - 6% open · ⏱️ 16.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-enumerate-headings-plugin) (📥 13K / month):
+- [GitHub](https://github.com/timvink/mkdocs-enumerate-headings-plugin) (👨‍💻 5 · 🔀 8 · 📦 200 · 📋 30 - 6% open · ⏱️ 16.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-enumerate-headings-plugin) (📥 15K / month):
 	```
 	pip install mkdocs-enumerate-headings-plugin
 	```
@@ -1643,10 +1653,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - enumerate-headings
    ```
 </details>
-<details><summary><b><a href="https://github.com/monosans/mkdocs-minify-html-plugin">minify-html</a></b>  - 🥈17 ·  ⭐ 3 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.</summary>
+<details><summary><b><a href="https://github.com/monosans/mkdocs-minify-html-plugin">minify-html</a></b>  - 🥈17 ·  ⭐ 5 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for minification using minify-html, an extremely fast and smart HTML + JS + CSS minifier.</summary>
 
-- [GitHub](https://github.com/monosans/mkdocs-minify-html-plugin) (👨‍💻 3 · 📦 13 · ⏱️ 19.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-minify-html-plugin) (📥 1.7K / month):
+- [GitHub](https://github.com/monosans/mkdocs-minify-html-plugin) (👨‍💻 3 · 📦 15 · ⏱️ 06.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-minify-html-plugin) (📥 5.5K / month):
 	```
 	pip install mkdocs-minify-html-plugin
 	```
@@ -1656,10 +1666,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - minify_html
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - social</a></b>  - 🥈14 ·  ⭐ 27 · ➕ · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Social media sharing helper.</summary>
+<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - social</a></b>  - 🥈14 ·  ⭐ 32 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Social media sharing helper.</summary>
 
-- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 9 · 📦 22 · 📋 13 - 30% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 2K / month):
+- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 17 · 📦 39 · 📋 14 - 35% open · ⏱️ 21.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 880 / month):
 	```
 	pip install mkdocs-publisher
 	```
@@ -1669,10 +1679,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - pub-social
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - minifier</a></b>  - 🥈14 ·  ⭐ 27 · ➕ · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>HTML, CSS and graphics files size optimization.</summary>
+<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - minifier</a></b>  - 🥈14 ·  ⭐ 32 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>HTML, CSS and graphics files size optimization.</summary>
 
-- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 9 · 📦 22 · 📋 13 - 30% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 2K / month):
+- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 17 · 📦 39 · 📋 14 - 35% open · ⏱️ 21.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 880 / month):
 	```
 	pip install mkdocs-publisher
 	```
@@ -1682,10 +1692,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - pub-minifier
    ```
 </details>
-<details><summary><b><a href="https://github.com/Aetherinox/mkdocs-link-embeds">mkdocs-link-embeds</a></b>  - 🥉12 ·  ⭐ 2 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin which displays links in a more elegant way. Links will automatically be populated with an image,..</summary>
+<details><summary><b><a href="https://github.com/Aetherinox/mkdocs-link-embeds">mkdocs-link-embeds</a></b>  - 🥉13 ·  ⭐ 3 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin which displays links in a more elegant way. Links will automatically be populated with an image,..</summary>
 
-- [GitHub](https://github.com/Aetherinox/mkdocs-link-embeds) (📥 1 · ⏱️ 13.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-link-embeds-plugin) (📥 600 / month):
+- [GitHub](https://github.com/Aetherinox/mkdocs-link-embeds) (📥 1 · 📦 1 · ⏱️ 13.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-link-embeds-plugin) (📥 310 / month):
 	```
 	pip install mkdocs-link-embeds-plugin
 	```
@@ -1695,10 +1705,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - link-embeds
    ```
 </details>
-<details><summary><b><a href="https://github.com/ignorantshr/mkdocs-add-number-plugin">add-number</a></b>  - 🥉11 ·  ⭐ 14 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to automatically number the headings (h1-h6) in each markdown page and the nav.</summary>
+<details><summary><b><a href="https://github.com/ignorantshr/mkdocs-add-number-plugin">add-number</a></b>  - 🥉11 ·  ⭐ 15 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to automatically number the headings (h1-h6) in each markdown page and the nav.</summary>
 
 - [GitHub](https://github.com/ignorantshr/mkdocs-add-number-plugin) (👨‍💻 3 · 🔀 3 · 📦 33 · 📋 11 - 18% open · ⏱️ 11.06.2020)
-- [PyPi](https://pypi.org/project/mkdocs-add-number-plugin) (📥 5K / month):
+- [PyPi](https://pypi.org/project/mkdocs-add-number-plugin) (📥 5.4K / month):
 	```
 	pip install mkdocs-add-number-plugin
 	```
@@ -1708,36 +1718,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - add-number
    ```
 </details>
-<details><summary><b><a href="https://github.com/raimon49/mkdocs-safe-text-plugin">mkdocs_safe_text</a></b>  - 🥉10 ·  ⭐ 3 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Plugin for safe text editing with MKDocs.</summary>
+<details><summary><b><a href="https://github.com/orzih/mkdocs-extra-sass-plugin">mkdocs-extra-sass-plugin</a></b>  - 🥉10 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Adds stylesheets to your mkdocs site from Sass/SCSS.</summary>
 
-- [GitHub](https://github.com/raimon49/mkdocs-safe-text-plugin) (👨‍💻 2 · ⏱️ 20.10.2023)
-- [PyPi](https://pypi.org/project/mkdocs-safe-text-plugin) (📥 640 / month):
-	```
-	pip install mkdocs-safe-text-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - mkdocs_safe_text
-   ```
-</details>
-<details><summary><b><a href="https://github.com/byrnereese/mkdocs-bootstrap-tables-plugin">bootstrap-tables</a></b>  - 🥉9 ·  ⭐ 11 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin to add bootstrap classes to plan markdown generated tables.</summary>
-
-- [GitHub](https://github.com/byrnereese/mkdocs-bootstrap-tables-plugin) (🔀 2 · 📦 70 · ⏱️ 27.03.2020)
-- [PyPi](https://pypi.org/project/mkdocs-bootstrap-tables-plugin) (📥 1.2K / month):
-	```
-	pip install mkdocs-bootstrap-tables-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - bootstrap-tables
-   ```
-</details>
-<details><summary><b><a href="https://github.com/orzih/mkdocs-extra-sass-plugin">mkdocs-extra-sass-plugin</a></b>  - 🥉9 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Adds stylesheets to your mkdocs site from Sass/SCSS.</summary>
-
-- [GitHub](https://github.com/orzih/mkdocs-extra-sass-plugin) (🔀 2 · 📦 22 · ⏱️ 13.02.2021)
-- [PyPi](https://pypi.org/project/mkdocs-extra-sass-plugin) (📥 5.3K / month):
+- [GitHub](https://github.com/orzih/mkdocs-extra-sass-plugin) (🔀 2 · 📦 29 · ⏱️ 13.02.2021)
+- [PyPi](https://pypi.org/project/mkdocs-extra-sass-plugin) (📥 3.6K / month):
 	```
 	pip install mkdocs-extra-sass-plugin
 	```
@@ -1747,10 +1731,36 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - extra-sass
    ```
 </details>
+<details><summary><b><a href="https://github.com/raimon49/mkdocs-safe-text-plugin">mkdocs_safe_text</a></b>  - 🥉9 ·  ⭐ 3 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Plugin for safe text editing with MKDocs.</summary>
+
+- [GitHub](https://github.com/raimon49/mkdocs-safe-text-plugin) (👨‍💻 2 · ⏱️ 20.10.2023)
+- [PyPi](https://pypi.org/project/mkdocs-safe-text-plugin) (📥 690 / month):
+	```
+	pip install mkdocs-safe-text-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - mkdocs_safe_text
+   ```
+</details>
+<details><summary><b><a href="https://github.com/byrnereese/mkdocs-bootstrap-tables-plugin">bootstrap-tables</a></b>  - 🥉8 ·  ⭐ 12 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin to add bootstrap classes to plan markdown generated tables.</summary>
+
+- [GitHub](https://github.com/byrnereese/mkdocs-bootstrap-tables-plugin) (🔀 2 · 📦 72 · ⏱️ 27.03.2020)
+- [PyPi](https://pypi.org/project/mkdocs-bootstrap-tables-plugin) (📥 1K / month):
+	```
+	pip install mkdocs-bootstrap-tables-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - bootstrap-tables
+   ```
+</details>
 <details><summary><b><a href="https://github.com/wilhelmer/mkdocs-add-teaser">mkdocs-add-teaser</a></b>  - 🥉8 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin to customize the first paragraph of your pages, and to use it as the pages meta description.</summary>
 
 - [GitHub](https://github.com/wilhelmer/mkdocs-add-teaser) (👨‍💻 3 · 🔀 1 · 📦 1 · ⏱️ 08.11.2022)
-- [PyPi](https://pypi.org/project/mkdocs-add-teaser) (📥 220 / month):
+- [PyPi](https://pypi.org/project/mkdocs-add-teaser) (📥 280 / month):
 	```
 	pip install mkdocs-add-teaser
 	```
@@ -1760,10 +1770,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs-add-teaser
    ```
 </details>
-<details><summary><b><a href="https://github.com/six-two/mkdocs-toggle-sidebar-plugin">toggle-sidebar</a></b>  - 🥉5 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Toggle the navigation and/or TOC sidebars on your MkDocs site.</summary>
+<details><summary><b><a href="https://github.com/six-two/mkdocs-toggle-sidebar-plugin">toggle-sidebar</a></b>  - 🥉4 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Toggle the navigation and/or TOC sidebars on your MkDocs site.</summary>
 
 - [GitHub](https://github.com/six-two/mkdocs-toggle-sidebar-plugin) (⏱️ 23.09.2023)
-- [PyPi](https://pypi.org/project/mkdocs-toggle-sidebar-plugin) (📥 250 / month):
+- [PyPi](https://pypi.org/project/mkdocs-toggle-sidebar-plugin) (📥 140 / month):
 	```
 	pip install mkdocs-toggle-sidebar-plugin
 	```
@@ -1788,10 +1798,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/blueswen/mkdocs-swagger-ui-tag">MkDocs Swagger UI Tag</a></b>  - 🥇19 ·  ⭐ 64 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin supports adding Swagger UI to the page.</summary>
+<details><summary><b><a href="https://github.com/blueswen/mkdocs-swagger-ui-tag">MkDocs Swagger UI Tag</a></b>  - 🥇18 ·  ⭐ 70 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin supports adding Swagger UI to the page.</summary>
 
-- [GitHub](https://github.com/blueswen/mkdocs-swagger-ui-tag) (👨‍💻 3 · 🔀 6 · 📥 27 · 📦 130 · 📋 21 - 47% open · ⏱️ 25.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-swagger-ui-tag) (📥 31K / month):
+- [GitHub](https://github.com/blueswen/mkdocs-swagger-ui-tag) (👨‍💻 3 · 🔀 7 · 📥 27 · 📦 150 · 📋 22 - 22% open · ⏱️ 01.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-swagger-ui-tag) (📥 36K / month):
 	```
 	pip install mkdocs-swagger-ui-tag
 	```
@@ -1801,10 +1811,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - swagger-ui-tag
    ```
 </details>
-<details><summary><b><a href="https://github.com/bharel/mkdocs-render-swagger-plugin">mkdocs-render-swagger-plugin</a></b>  - 🥈15 ·  ⭐ 62 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MKDocs for rendering swagger & openapi schemas using SwaggerUI.</summary>
+<details><summary><b><a href="https://github.com/bharel/mkdocs-render-swagger-plugin">mkdocs-render-swagger-plugin</a></b>  - 🥈17 ·  ⭐ 67 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MKDocs for rendering swagger & openapi schemas using SwaggerUI.</summary>
 
-- [GitHub](https://github.com/bharel/mkdocs-render-swagger-plugin) (👨‍💻 7 · 🔀 11 · 📋 15 - 20% open · ⏱️ 07.10.2023)
-- [PyPi](https://pypi.org/project/mkdocs-render-swagger-plugin) (📥 65K / month):
+- [GitHub](https://github.com/bharel/mkdocs-render-swagger-plugin) (👨‍💻 8 · 🔀 12 · 📋 15 - 20% open · ⏱️ 26.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-render-swagger-plugin) (📥 62K / month):
 	```
 	pip install mkdocs-render-swagger-plugin
 	```
@@ -1814,10 +1824,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - render_swagger
    ```
 </details>
-<details><summary><b><a href="https://github.com/pawamoy/mkdocs-coverage">mkdocs-coverage</a></b>  - 🥈15 ·  ⭐ 12 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to integrate your coverage HTML report into your site.</summary>
+<details><summary><b><a href="https://github.com/pawamoy/mkdocs-coverage">mkdocs-coverage</a></b>  - 🥈15 ·  ⭐ 18 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to integrate your coverage HTML report into your site.</summary>
 
-- [GitHub](https://github.com/pawamoy/mkdocs-coverage) (🔀 1 · 📦 190 · 📋 10 - 50% open · ⏱️ 18.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-coverage) (📥 14K / month):
+- [GitHub](https://github.com/pawamoy/mkdocs-coverage) (🔀 1 · 📦 200 · 📋 10 - 50% open · ⏱️ 18.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-coverage) (📥 20K / month):
 	```
 	pip install mkdocs-coverage
 	```
@@ -1827,10 +1837,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - coverage
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - obsidian</a></b>  - 🥉14 ·  ⭐ 27 · ➕ · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Obsidian.md integration including with support for wiki links, callouts, etc.</summary>
+<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - obsidian</a></b>  - 🥉14 ·  ⭐ 32 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Obsidian.md integration including with support for wiki links, callouts, etc.</summary>
 
-- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 9 · 📦 22 · 📋 13 - 30% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 2K / month):
+- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 17 · 📦 39 · 📋 14 - 35% open · ⏱️ 21.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 880 / month):
 	```
 	pip install mkdocs-publisher
 	```
@@ -1843,7 +1853,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/foliant-docs/foliantcontrib.mkdocs">MkDocs Backend for Foliant</a></b>  - 🥉12 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code><br>MkDocs backend for Foliant.</summary>
 
 - [GitHub](https://github.com/foliant-docs/foliantcontrib.mkdocs) (👨‍💻 5 · 🔀 3 · 📦 31 · ⏱️ 12.12.2022)
-- [PyPi](https://pypi.org/project/foliantcontrib.mkdocs) (📥 290 / month):
+- [PyPi](https://pypi.org/project/foliantcontrib.mkdocs) (📥 240 / month):
 	```
 	pip install foliantcontrib.mkdocs
 	```
@@ -1857,7 +1867,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - swagger
    ```
 </details>
-<details><summary><b><a href="https://github.com/inuits/mkdocs-factsheet">factsheet</a></b>  - 🥉5 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate overviews from YAML descriptions, intended for micro-services and their deployments.</summary>
+<details><summary><b><a href="https://github.com/inuits/mkdocs-factsheet">factsheet</a></b>  - 🥉6 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate overviews from YAML descriptions, intended for micro-services and their deployments.</summary>
 
 - [GitHub](https://github.com/inuits/mkdocs-factsheet) (👨‍💻 4 · 🔀 1 · ⏱️ 08.02.2023)
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
@@ -1869,7 +1879,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/djpugh/mkdocs_licenseinfo">MkDocs Dependency License Information</a></b>  - 🥉4 ·  ⭐ 2 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>mkdocs extension to visualise package dependencies license information.</summary>
 
 - [GitHub](https://github.com/djpugh/mkdocs_licenseinfo) (👨‍💻 2 · ⏱️ 02.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-licenseinfo) (📥 28 / month):
+- [PyPi](https://pypi.org/project/mkdocs-licenseinfo) (📥 27 / month):
 	```
 	pip install mkdocs-licenseinfo
 	```
@@ -1885,10 +1895,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/ultrabug/mkdocs-static-i18n">static-i18n</a></b>  - 🥇23 ·  ⭐ 200 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs i18n plugin using static translation markdown files.</summary>
+<details><summary><b><a href="https://github.com/ultrabug/mkdocs-static-i18n">static-i18n</a></b>  - 🥇23 ·  ⭐ 210 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs i18n plugin using static translation markdown files.</summary>
 
-- [GitHub](https://github.com/ultrabug/mkdocs-static-i18n) (👨‍💻 10 · 🔀 34 · 📦 1K · 📋 130 - 13% open · ⏱️ 05.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-static-i18n) (📥 30K / month):
+- [GitHub](https://github.com/ultrabug/mkdocs-static-i18n) (👨‍💻 11 · 🔀 36 · 📦 1.1K · 📋 140 - 13% open · ⏱️ 30.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-static-i18n) (📥 39K / month):
 	```
 	pip install mkdocs-static-i18n
 	```
@@ -1900,8 +1910,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/mondeja/mkdocs-mdpo-plugin">mkdocs-mdpo</a></b>  - 🥉12 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs translation plugin using PO files.</summary>
 
-- [GitHub](https://github.com/mondeja/mkdocs-mdpo-plugin) (👨‍💻 3 · 🔀 3 · 📥 150 · 📋 37 - 35% open · ⏱️ 03.01.2023)
-- [PyPi](https://pypi.org/project/mkdocs-mdpo-plugin) (📥 290 / month):
+- [GitHub](https://github.com/mondeja/mkdocs-mdpo-plugin) (👨‍💻 3 · 🔀 4 · 📥 150 · 📋 37 - 35% open · ⏱️ 03.01.2023)
+- [PyPi](https://pypi.org/project/mkdocs-mdpo-plugin) (📥 220 / month):
 	```
 	pip install mkdocs-mdpo-plugin
 	```
@@ -1913,7 +1923,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://pypi.org/project/mkdocs-translations/">Mkdocs translations plugin</a></b>  - 🥉1 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Internationalization plugin for mkdocs.</summary>
 
-- [PyPi](https://pypi.org/project/mkdocs-translations) (📥 9 / month):
+- [PyPi](https://pypi.org/project/mkdocs-translations) (📥 15 / month):
 	```
 	pip install mkdocs-translations
 	```
@@ -1929,10 +1939,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/mkdocs/mkdocs-redirects">mkdocs-redirects</a></b>  - 🥇22 ·  ⭐ 150 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Open source plugin for Mkdocs page redirects.</summary>
+<details><summary><b><a href="https://github.com/mkdocs/mkdocs-redirects">mkdocs-redirects</a></b>  - 🥇22 ·  ⭐ 160 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Open source plugin for Mkdocs page redirects.</summary>
 
-- [GitHub](https://github.com/mkdocs/mkdocs-redirects) (👨‍💻 13 · 🔀 19 · 📦 3.3K · 📋 31 - 38% open · ⏱️ 03.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-redirects) (📥 210K / month):
+- [GitHub](https://github.com/mkdocs/mkdocs-redirects) (👨‍💻 13 · 🔀 20 · 📦 3.5K · 📋 32 - 40% open · ⏱️ 03.02.2024)
+- [PyPi](https://pypi.org/project/mkdocs-redirects) (📥 200K / month):
 	```
 	pip install mkdocs-redirects
 	```
@@ -1942,23 +1952,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - redirects
    ```
 </details>
-<details><summary><b><a href="https://github.com/manuzhang/mkdocs-htmlproofer-plugin">htmlproofer</a></b>  - 🥇22 ·  ⭐ 37 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that validates URL in rendered html files.</summary>
+<details><summary><b><a href="https://github.com/shyamd/mkdocs-bibtex">bibtex</a></b>  - 🥇22 ·  ⭐ 65 · <code><a href="https://tldrlegal.com/search?query=BSD-3-Clause-LBNL">❗️BSD-3-Clause-LBNL</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin for citation management using bibtex.</summary>
 
-- [GitHub](https://github.com/manuzhang/mkdocs-htmlproofer-plugin) (👨‍💻 15 · 🔀 15 · 📦 340 · 📋 33 - 6% open · ⏱️ 15.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-htmlproofer-plugin) (📥 51K / month):
-	```
-	pip install mkdocs-htmlproofer-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - htmlproofer
-   ```
-</details>
-<details><summary><b><a href="https://github.com/shyamd/mkdocs-bibtex">bibtex</a></b>  - 🥇21 ·  ⭐ 65 · <code><a href="https://tldrlegal.com/search?query=BSD-3-Clause-LBNL">❗️BSD-3-Clause-LBNL</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin for citation management using bibtex.</summary>
-
-- [GitHub](https://github.com/shyamd/mkdocs-bibtex) (👨‍💻 13 · 🔀 18 · 📦 260 · 📋 42 - 23% open · ⏱️ 04.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-bibtex) (📥 6.7K / month):
+- [GitHub](https://github.com/shyamd/mkdocs-bibtex) (👨‍💻 13 · 🔀 18 · 📦 270 · 📋 43 - 25% open · ⏱️ 01.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-bibtex) (📥 35K / month):
 	```
 	pip install mkdocs-bibtex
 	```
@@ -1968,10 +1965,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - bibtex
    ```
 </details>
-<details><summary><b><a href="https://github.com/zachhannum/mkdocs-autolinks-plugin">autolinks</a></b>  - 🥈18 ·  ⭐ 75 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that automagically generates relative links between markdown pages.</summary>
+<details><summary><b><a href="https://github.com/manuzhang/mkdocs-htmlproofer-plugin">htmlproofer</a></b>  - 🥇21 ·  ⭐ 39 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that validates URL in rendered html files.</summary>
 
-- [GitHub](https://github.com/zachhannum/mkdocs-autolinks-plugin) (👨‍💻 10 · 🔀 16 · 📦 380 · 📋 17 - 47% open · ⏱️ 04.08.2023)
-- [PyPi](https://pypi.org/project/mkdocs-autolinks-plugin) (📥 56K / month):
+- [GitHub](https://github.com/manuzhang/mkdocs-htmlproofer-plugin) (👨‍💻 15 · 🔀 15 · 📦 350 · 📋 35 - 5% open · ⏱️ 10.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-htmlproofer-plugin) (📥 38K / month):
+	```
+	pip install mkdocs-htmlproofer-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - htmlproofer
+   ```
+</details>
+<details><summary><b><a href="https://github.com/zachhannum/mkdocs-autolinks-plugin">autolinks</a></b>  - 🥈18 ·  ⭐ 77 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that automagically generates relative links between markdown pages.</summary>
+
+- [GitHub](https://github.com/zachhannum/mkdocs-autolinks-plugin) (👨‍💻 10 · 🔀 16 · 📦 400 · 📋 17 - 47% open · ⏱️ 04.08.2023)
+- [PyPi](https://pypi.org/project/mkdocs-autolinks-plugin) (📥 49K / month):
 	```
 	pip install mkdocs-autolinks-plugin
 	```
@@ -1981,10 +1991,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - autolinks
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkdocstrings/autorefs">autorefs</a></b>  - 🥈18 ·  ⭐ 36 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Automatically link across pages in MkDocs.</summary>
+<details><summary><b><a href="https://github.com/mkdocstrings/autorefs">autorefs</a></b>  - 🥈18 ·  ⭐ 42 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Automatically link across pages in MkDocs.</summary>
 
-- [GitHub](https://github.com/mkdocstrings/autorefs) (👨‍💻 6 · 🔀 5 · 📋 16 - 37% open · ⏱️ 29.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-autorefs) (📥 850K / month):
+- [GitHub](https://github.com/mkdocstrings/autorefs) (👨‍💻 6 · 🔀 5 · 📋 16 - 37% open · ⏱️ 24.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-autorefs) (📥 1M / month):
 	```
 	pip install mkdocs-autorefs
 	```
@@ -1996,8 +2006,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/EddyLuten/mkdocs-alias-plugin">mkdocs-alias-plugin</a></b>  - 🥈15 ·  ⭐ 10 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin allowing links to your pages using a custom alias.</summary>
 
-- [GitHub](https://github.com/EddyLuten/mkdocs-alias-plugin) (👨‍💻 3 · 🔀 2 · 📦 14 · 📋 9 - 22% open · ⏱️ 08.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-alias-plugin) (📥 2.8K / month):
+- [GitHub](https://github.com/EddyLuten/mkdocs-alias-plugin) (👨‍💻 3 · 🔀 2 · 📦 16 · 📋 9 - 22% open · ⏱️ 22.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-alias-plugin) (📥 1.5K / month):
 	```
 	pip install mkdocs-alias-plugin
 	```
@@ -2007,10 +2017,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - alias
    ```
 </details>
-<details><summary><b><a href="https://github.com/orbikm/mkdocs-ezlinks-plugin">ezlinks</a></b>  - 🥈14 ·  ⭐ 31 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Plugin for mkdocs which enables easier linking between pages.</summary>
+<details><summary><b><a href="https://github.com/orbikm/mkdocs-ezlinks-plugin">ezlinks</a></b>  - 🥈14 ·  ⭐ 33 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Plugin for mkdocs which enables easier linking between pages.</summary>
 
-- [GitHub](https://github.com/orbikm/mkdocs-ezlinks-plugin) (🔀 13 · 📥 140 · 📦 100 · 📋 24 - 41% open · ⏱️ 24.01.2022)
-- [PyPi](https://pypi.org/project/mkdocs-ezlinks-plugin) (📥 5.5K / month):
+- [GitHub](https://github.com/orbikm/mkdocs-ezlinks-plugin) (🔀 13 · 📥 140 · 📦 110 · 📋 24 - 41% open · ⏱️ 24.01.2022)
+- [PyPi](https://pypi.org/project/mkdocs-ezlinks-plugin) (📥 4.9K / month):
 	```
 	pip install mkdocs-ezlinks-plugin
 	```
@@ -2020,23 +2030,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - ezlinks
    ```
 </details>
-<details><summary><b><a href="https://github.com/theskumar/autolink-references-mkdocs-plugin">Autolink References</a></b>  - 🥈13 ·  ⭐ 15 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>mkdocs plugin to provides GitHub like autolink references in Mkdocs.</summary>
+<details><summary><b><a href="https://github.com/Jackiexiao/mkdocs-roamlinks-plugin">roamlinks</a></b>  - 🥈12 ·  ⭐ 48 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that automagically generates relative links between markdown pages.</summary>
 
-- [GitHub](https://github.com/theskumar/autolink-references-mkdocs-plugin) (👨‍💻 3 · 🔀 5 · 📦 7 · 📋 4 - 25% open · ⏱️ 28.12.2023)
-- [PyPi](https://pypi.org/project/autolink-references-mkdocs-plugin) (📥 6.1K / month):
-	```
-	pip install autolink-references-mkdocs-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - autolink_references
-   ```
-</details>
-<details><summary><b><a href="https://github.com/Jackiexiao/mkdocs-roamlinks-plugin">roamlinks</a></b>  - 🥈12 ·  ⭐ 46 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that automagically generates relative links between markdown pages.</summary>
-
-- [GitHub](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) (👨‍💻 9 · 🔀 13 · ⏱️ 08.06.2023)
-- [PyPi](https://pypi.org/project/mkdocs-roamlinks-plugin) (📥 9.2K / month):
+- [GitHub](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) (👨‍💻 9 · 🔀 14 · ⏱️ 08.06.2023)
+- [PyPi](https://pypi.org/project/mkdocs-roamlinks-plugin) (📥 9K / month):
 	```
 	pip install mkdocs-roamlinks-plugin
 	```
@@ -2046,10 +2043,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - roamlinks
    ```
 </details>
-<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-open-in-new-tab">mkdocs-open-in-new-tab</a></b>  - 🥈12 ·  ⭐ 18 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This plugin adds JS to open outgoing links and PDFs in a new tab.</summary>
+<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-open-in-new-tab">mkdocs-open-in-new-tab</a></b>  - 🥈12 ·  ⭐ 20 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This plugin adds JS to open outgoing links and PDFs in a new tab.</summary>
 
-- [GitHub](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) (🔀 1 · 📦 140 · 📋 2 - 50% open · ⏱️ 24.10.2023)
-- [PyPi](https://pypi.org/project/mkdocs-open-in-new-tab) (📥 14K / month):
+- [GitHub](https://github.com/JakubAndrysek/mkdocs-open-in-new-tab) (🔀 1 · 📦 180 · 📋 2 - 50% open · ⏱️ 24.10.2023)
+- [PyPi](https://pypi.org/project/mkdocs-open-in-new-tab) (📥 26K / month):
 	```
 	pip install mkdocs-open-in-new-tab
 	```
@@ -2059,10 +2056,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - open-in-new-tab
    ```
 </details>
+<details><summary><b><a href="https://github.com/theskumar/autolink-references-mkdocs-plugin">Autolink References</a></b>  - 🥈12 ·  ⭐ 16 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>mkdocs plugin to provides GitHub like autolink references in Mkdocs.</summary>
+
+- [GitHub](https://github.com/theskumar/autolink-references-mkdocs-plugin) (👨‍💻 3 · 🔀 5 · 📦 7 · 📋 4 - 25% open · ⏱️ 28.12.2023)
+- [PyPi](https://pypi.org/project/autolink-references-mkdocs-plugin) (📥 5.5K / month):
+	```
+	pip install autolink-references-mkdocs-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - autolink_references
+   ```
+</details>
 <details><summary><b><a href="https://github.com/wilhelmer/mkdocs-unused-files">unused-files</a></b>  - 🥉11 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin to find unused (orphaned) files in your project.</summary>
 
 - [GitHub](https://github.com/wilhelmer/mkdocs-unused-files) (👨‍💻 2 · 🔀 1 · 📦 19 · ⏱️ 17.07.2023)
-- [PyPi](https://pypi.org/project/mkdocs-unused-files) (📥 3.3K / month):
+- [PyPi](https://pypi.org/project/mkdocs-unused-files) (📥 2.9K / month):
 	```
 	pip install mkdocs-unused-files
 	```
@@ -2072,23 +2082,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - unused_files
    ```
 </details>
-<details><summary><b><a href="https://github.com/timmeinerzhagen/mkdocs-link-marker">link-marker</a></b>  - 🥉10 ·  ⭐ 4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for marking links e.g. external ones or mails.</summary>
+<details><summary><b><a href="https://github.com/OctoPrint/mkdocs-site-urls">mkdocs-site-urls</a></b>  - 🥉10 ·  ⭐ 14 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that adds support for site-relative `site:` URLs.</summary>
 
-- [GitHub](https://github.com/timmeinerzhagen/mkdocs-link-marker) (👨‍💻 2 · 🔀 1 · 📦 6 · 📋 4 - 50% open · ⏱️ 25.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-link-marker) (📥 2.1K / month):
-	```
-	pip install mkdocs-link-marker
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - link-marker
-   ```
-</details>
-<details><summary><b><a href="https://github.com/OctoPrint/mkdocs-site-urls">mkdocs-site-urls</a></b>  - 🥉9 ·  ⭐ 13 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that adds support for site-relative `site:` URLs.</summary>
-
-- [GitHub](https://github.com/OctoPrint/mkdocs-site-urls) (🔀 1 · 📦 9 · 📋 2 - 50% open · ⏱️ 31.07.2023)
-- [PyPi](https://pypi.org/project/mkdocs-site-urls) (📥 1.7K / month):
+- [GitHub](https://github.com/OctoPrint/mkdocs-site-urls) (🔀 1 · 📦 10 · 📋 2 - 50% open · ⏱️ 31.07.2023)
+- [PyPi](https://pypi.org/project/mkdocs-site-urls) (📥 6.6K / month):
 	```
 	pip install mkdocs-site-urls
 	```
@@ -2098,23 +2095,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - site-urls
    ```
 </details>
-<details><summary><b><a href="https://github.com/zachhannum/mkdocs-tooltipster-links-plugin">tooltipster-links</a></b>  - 🥉9 ·  ⭐ 6 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster.</summary>
+<details><summary><b><a href="https://github.com/realtimeprojects/mkdocs-ezglossary">ezglossary</a></b>  - 🥉10 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Glossary support for mkdocs.</summary>
 
-- [GitHub](https://github.com/zachhannum/mkdocs-tooltipster-links-plugin) (🔀 1 · 📦 22 · ⏱️ 29.07.2020)
-- [PyPi](https://pypi.org/project/mkdocs-tooltipster-links-plugin) (📥 160 / month):
-	```
-	pip install mkdocs-tooltipster-links-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - tooltipster-links
-   ```
-</details>
-<details><summary><b><a href="https://github.com/realtimeprojects/mkdocs-ezglossary">ezglossary</a></b>  - 🥉9 ·  ⭐ 4 · 📈 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Glossary support for mkdocs.</summary>
-
-- [GitHub](https://github.com/realtimeprojects/mkdocs-ezglossary) (📋 10 - 20% open · ⏱️ 19.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-ezglossary-plugin) (📥 900 / month):
+- [GitHub](https://github.com/realtimeprojects/mkdocs-ezglossary) (👨‍💻 2 · 🔀 1 · 📋 16 - 6% open · ⏱️ 08.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-ezglossary-plugin) (📥 3.7K / month):
 	```
 	pip install mkdocs-ezglossary-plugin
 	```
@@ -2124,10 +2108,36 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - ezglossary
    ```
 </details>
+<details><summary><b><a href="https://github.com/timmeinerzhagen/mkdocs-link-marker">link-marker</a></b>  - 🥉10 ·  ⭐ 4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for marking links e.g. external ones or mails.</summary>
+
+- [GitHub](https://github.com/timmeinerzhagen/mkdocs-link-marker) (👨‍💻 2 · 🔀 1 · 📦 11 · 📋 4 - 50% open · ⏱️ 25.02.2024)
+- [PyPi](https://pypi.org/project/mkdocs-link-marker) (📥 3.2K / month):
+	```
+	pip install mkdocs-link-marker
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - link-marker
+   ```
+</details>
+<details><summary><b><a href="https://github.com/zachhannum/mkdocs-tooltipster-links-plugin">tooltipster-links</a></b>  - 🥉9 ·  ⭐ 8 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that adds tooltips to preview the content of page links using tooltipster.</summary>
+
+- [GitHub](https://github.com/zachhannum/mkdocs-tooltipster-links-plugin) (🔀 1 · 📦 23 · ⏱️ 29.07.2020)
+- [PyPi](https://pypi.org/project/mkdocs-tooltipster-links-plugin) (📥 260 / month):
+	```
+	pip install mkdocs-tooltipster-links-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - tooltipster-links
+   ```
+</details>
 <details><summary><b><a href="https://github.com/sander76/mkdocs-abs-rel-plugin">abs-to-rel</a></b>  - 🥉9 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin for converting absolute links to relative ones.</summary>
 
-- [GitHub](https://github.com/sander76/mkdocs-abs-rel-plugin) (👨‍💻 2 · 🔀 3 · 📦 21 · ⏱️ 03.03.2020)
-- [PyPi](https://pypi.org/project/mkdocs-abs-rel-plugin) (📥 2.3K / month):
+- [GitHub](https://github.com/sander76/mkdocs-abs-rel-plugin) (👨‍💻 2 · 🔀 3 · 📦 23 · ⏱️ 03.03.2020)
+- [PyPi](https://pypi.org/project/mkdocs-abs-rel-plugin) (📥 4.6K / month):
 	```
 	pip install mkdocs-abs-rel-plugin
 	```
@@ -2137,10 +2147,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - abs-to-rel
    ```
 </details>
-<details><summary><b><a href="https://github.com/neurobin/mdx_wikilink_plus">Wikilink Plus</a></b>  - 🥉8 ·  ⭐ 14 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>A wikilink extension for Python Markdown.</summary>
+<details><summary><b><a href="https://github.com/neurobin/mdx_wikilink_plus">Wikilink Plus</a></b>  - 🥉8 ·  ⭐ 15 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>A wikilink extension for Python Markdown.</summary>
 
 - [GitHub](https://github.com/neurobin/mdx_wikilink_plus) (👨‍💻 5 · 🔀 3 · ⏱️ 26.07.2022)
-- [PyPi](https://pypi.org/project/mdx-wikilink-plus) (📥 3.5K / month):
+- [PyPi](https://pypi.org/project/mdx-wikilink-plus) (📥 2.4K / month):
 	```
 	pip install mdx-wikilink-plus
 	```
@@ -2150,7 +2160,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mdx_wikilink_plus
    ```
 </details>
-<details><summary><b><a href="https://github.com/Darrelk/mkdocs-webcontext-plugin">webcontext</a></b>  - 🥉5 ·  ⭐ 1 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin for converting absolute paths to webcontext aware paths using the configured webcontext context.</summary>
+<details><summary><b><a href="https://github.com/Darrelk/mkdocs-webcontext-plugin">webcontext</a></b>  - 🥉5 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin for converting absolute paths to webcontext aware paths using the configured webcontext context.</summary>
 
 - [GitHub](https://github.com/Darrelk/mkdocs-webcontext-plugin) (👨‍💻 2 · 🔀 1 · 📥 6 · 📦 4 · ⏱️ 25.05.2023)
 - [PyPi](https://pypi.org/project/mkdocs-webcontext-plugin) (📥 140 / month):
@@ -2174,7 +2184,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://gitlab.com/frederic-zinelli/mkdocs-addresses">Mkdocs-Addresses</a></b>  - 🥉4 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin, building automatically the appropriate relative paths (to images, links, anchors, ...) using..</summary>
 
-- [PyPi](https://pypi.org/project/mkdocs-addresses) (📥 210 / month):
+- [PyPi](https://pypi.org/project/mkdocs-addresses) (📥 160 / month):
 	```
 	pip install mkdocs-addresses
 	```
@@ -2200,10 +2210,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/facelessuser/pymdown-extensions">PyMdown Extensions</a></b>  - 🥇30 ·  ⭐ 900 · 📉 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Extensions for Python Markdown.</summary>
+<details><summary><b><a href="https://github.com/facelessuser/pymdown-extensions">PyMdown Extensions</a></b>  - 🥇33 ·  ⭐ 910 · 📈 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Extensions for Python Markdown.</summary>
 
-- [GitHub](https://github.com/facelessuser/pymdown-extensions) (👨‍💻 44 · 🔀 240 · 📦 31K · 📋 360 - 1% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/pymdown-extensions) (📥 3.2M / month):
+- [GitHub](https://github.com/facelessuser/pymdown-extensions) (👨‍💻 45 · 🔀 250 · 📦 33K · 📋 370 - 2% open · ⏱️ 04.06.2024)
+- [PyPi](https://pypi.org/project/pymdown-extensions) (📥 4M / month):
 	```
 	pip install pymdown-extensions
 	```
@@ -2241,10 +2251,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - pymdownx.tilde
    ```
 </details>
-<details><summary><b><a href="https://github.com/oprypin/markdown-callouts">markdown-callouts</a></b>  - 🥇20 ·  ⭐ 22 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Markdown extension: a classier syntax for admonitions.</summary>
+<details><summary><b><a href="https://github.com/oprypin/markdown-callouts">markdown-callouts</a></b>  - 🥇19 ·  ⭐ 24 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Markdown extension: a classier syntax for admonitions.</summary>
 
-- [GitHub](https://github.com/oprypin/markdown-callouts) (🔀 12 · 📦 200 · 📋 11 - 27% open · ⏱️ 03.02.2024)
-- [PyPi](https://pypi.org/project/markdown-callouts) (📥 23K / month):
+- [GitHub](https://github.com/oprypin/markdown-callouts) (🔀 12 · 📦 230 · 📋 11 - 27% open · ⏱️ 03.02.2024)
+- [PyPi](https://pypi.org/project/markdown-callouts) (📥 36K / month):
 	```
 	pip install markdown-callouts
 	```
@@ -2255,10 +2265,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - github-callouts
    ```
 </details>
-<details><summary><b><a href="https://github.com/sondregronas/mkdocs-callouts">mkdocs-callouts</a></b>  - 🥇17 ·  ⭐ 19 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A simple MkDocs plugin that converts Obsidian callout blocks to mkdocs supported Admonitions.</summary>
+<details><summary><b><a href="https://github.com/sondregronas/mkdocs-callouts">mkdocs-callouts</a></b>  - 🥇16 ·  ⭐ 22 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A simple MkDocs plugin that converts Obsidian callout blocks to mkdocs supported Admonitions.</summary>
 
 - [GitHub](https://github.com/sondregronas/mkdocs-callouts) (👨‍💻 2 · 🔀 1 · 📦 1.1K · ⏱️ 05.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-callouts) (📥 6.8K / month):
+- [PyPi](https://pypi.org/project/mkdocs-callouts) (📥 5.7K / month):
 	```
 	pip install mkdocs-callouts
 	```
@@ -2268,23 +2278,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - callouts
    ```
 </details>
-<details><summary><b><a href="https://github.com/mitya57/python-markdown-math">Math extension</a></b>  - 🥈15 ·  ⭐ 120 · 💤 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Math extension for Python-Markdown.</summary>
+<details><summary><b><a href="https://github.com/sivakov512/python-markdown-full-yaml-metadata">YAML metadata</a></b>  - 🥇16 ·  ⭐ 20 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>YAML metadata extension for Python-Markdown.</summary>
 
-- [GitHub](https://github.com/mitya57/python-markdown-math) (👨‍💻 8 · 🔀 25 · 📋 24 - 8% open · ⏱️ 12.08.2022)
-- [PyPi](https://pypi.org/project/python-markdown-math) (📥 64K / month):
-	```
-	pip install python-markdown-math
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - mdx_math
-   ```
-</details>
-<details><summary><b><a href="https://github.com/sivakov512/python-markdown-full-yaml-metadata">YAML metadata</a></b>  - 🥈15 ·  ⭐ 19 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>YAML metadata extension for Python-Markdown.</summary>
-
-- [GitHub](https://github.com/sivakov512/python-markdown-full-yaml-metadata) (👨‍💻 7 · 🔀 4 · 📦 80 · 📋 10 - 30% open · ⏱️ 28.01.2024)
-- [PyPi](https://pypi.org/project/markdown-full-yaml-metadata) (📥 1.6K / month):
+- [GitHub](https://github.com/sivakov512/python-markdown-full-yaml-metadata) (👨‍💻 7 · 🔀 4 · 📦 81 · 📋 10 - 30% open · ⏱️ 28.01.2024)
+- [PyPi](https://pypi.org/project/markdown-full-yaml-metadata) (📥 1.3K / month):
 	```
 	pip install markdown-full-yaml-metadata
 	```
@@ -2294,10 +2291,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - full_yaml_metadata
    ```
 </details>
+<details><summary><b><a href="https://github.com/mitya57/python-markdown-math">Math extension</a></b>  - 🥈15 ·  ⭐ 120 · 💤 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Math extension for Python-Markdown.</summary>
+
+- [GitHub](https://github.com/mitya57/python-markdown-math) (👨‍💻 8 · 🔀 25 · 📋 24 - 8% open · ⏱️ 12.08.2022)
+- [PyPi](https://pypi.org/project/python-markdown-math) (📥 69K / month):
+	```
+	pip install python-markdown-math
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
+   ```yaml
+   markdown_extensions:
+     - mdx_math
+   ```
+</details>
 <details><summary><b><a href="https://github.com/radude/mdx_truly_sane_lists">Mdx Truly Sane Lists</a></b>  - 🥈14 ·  ⭐ 78 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Extension for Python-Markdown that makes lists truly sane. Custom indents for nested lists and fix for messy..</summary>
 
 - [GitHub](https://github.com/radude/mdx_truly_sane_lists) (👨‍💻 4 · 🔀 9 · 📋 15 - 46% open · ⏱️ 19.07.2022)
-- [PyPi](https://pypi.org/project/mdx-truly-sane-lists) (📥 350K / month):
+- [PyPi](https://pypi.org/project/mdx-truly-sane-lists) (📥 380K / month):
 	```
 	pip install mdx-truly-sane-lists
 	```
@@ -2307,10 +2317,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mdx_truly_sane_lists
    ```
 </details>
-<details><summary><b><a href="https://github.com/cesaremorel/markdown-inline-graphviz">Markdown Inline Graphviz</a></b>  - 🥈14 ·  ⭐ 4 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Render inline graphs with Markdown and Graphviz.</summary>
+<details><summary><b><a href="https://github.com/cesaremorel/markdown-inline-graphviz">Markdown Inline Graphviz</a></b>  - 🥈14 ·  ⭐ 5 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Render inline graphs with Markdown and Graphviz.</summary>
 
 - [GitHub](https://github.com/cesaremorel/markdown-inline-graphviz) (👨‍💻 9 · 🔀 8 · ⏱️ 16.01.2024)
-- [PyPi](https://pypi.org/project/markdown-inline-graphviz-extension) (📥 190K / month):
+- [PyPi](https://pypi.org/project/markdown-inline-graphviz-extension) (📥 200K / month):
 	```
 	pip install markdown-inline-graphviz-extension
 	```
@@ -2322,8 +2332,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/FND/markdown-checklist">Markdown Checklist</a></b>  - 🥈11 ·  ⭐ 77 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python Markdown extension for lists of tasks with checkboxes.</summary>
 
-- [GitHub](https://github.com/FND/markdown-checklist) (👨‍💻 2 · 🔀 32 · 📋 8 - 12% open · ⏱️ 29.07.2022)
-- [PyPi](https://pypi.org/project/markdown-checklist) (📥 5.4K / month):
+- [GitHub](https://github.com/FND/markdown-checklist) (👨‍💻 2 · 🔀 31 · 📋 8 - 12% open · ⏱️ 29.07.2022)
+- [PyPi](https://pypi.org/project/markdown-checklist) (📥 5.1K / month):
 	```
 	pip install markdown-checklist
 	```
@@ -2335,8 +2345,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/jambonrose/markdown_subscript_extension">MarkdownSubscript</a></b>  - 🥈11 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>An extension to the Python Markdown package enabling subscript text.</summary>
 
-- [GitHub](https://github.com/jambonrose/markdown_subscript_extension) (👨‍💻 2 · 🔀 1 · 📦 54 · 📋 5 - 40% open · ⏱️ 02.12.2018)
-- [PyPi](https://pypi.org/project/MarkdownSubscript) (📥 240 / month):
+- [GitHub](https://github.com/jambonrose/markdown_subscript_extension) (👨‍💻 2 · 🔀 1 · 📦 56 · 📋 5 - 40% open · ⏱️ 02.12.2018)
+- [PyPi](https://pypi.org/project/MarkdownSubscript) (📥 390 / month):
 	```
 	pip install MarkdownSubscript
 	```
@@ -2349,7 +2359,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/jambonrose/markdown_superscript_extension">MarkdownSuperscript</a></b>  - 🥈11 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/3rqEWVr">BSD-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>An extension to the Python Markdown package enabling superscript text.</summary>
 
 - [GitHub](https://github.com/jambonrose/markdown_superscript_extension) (👨‍💻 2 · 🔀 3 · 📦 43 · 📋 4 - 25% open · ⏱️ 02.12.2018)
-- [PyPi](https://pypi.org/project/MarkdownSuperscript) (📥 670 / month):
+- [PyPi](https://pypi.org/project/MarkdownSuperscript) (📥 950 / month):
 	```
 	pip install MarkdownSuperscript
 	```
@@ -2362,7 +2372,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/adamb70/mdx-breakless-lists">Breakless Lists</a></b>  - 🥈9 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python markdown breakless lists extension.</summary>
 
 - [GitHub](https://github.com/adamb70/mdx-breakless-lists) (🔀 2 · 📋 2 - 50% open · ⏱️ 08.10.2020)
-- [PyPi](https://pypi.org/project/mdx-breakless-lists) (📥 19K / month):
+- [PyPi](https://pypi.org/project/mdx-breakless-lists) (📥 18K / month):
 	```
 	pip install mdx-breakless-lists
 	```
@@ -2372,10 +2382,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mdx_breakless_lists
    ```
 </details>
-<details><summary><b><a href="https://github.com/czue/markdown-emdash">markdown-emdash</a></b>  - 🥉8 ·  ⭐ 3 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Emdash extension for python-markdown.</summary>
+<details><summary><b><a href="https://github.com/czue/markdown-emdash">markdown-emdash</a></b>  - 🥉8 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Emdash extension for python-markdown.</summary>
 
 - [GitHub](https://github.com/czue/markdown-emdash) (🔀 1 · 📦 33 · ⏱️ 18.05.2023)
-- [PyPi](https://pypi.org/project/markdown-emdash) (📥 190 / month):
+- [PyPi](https://pypi.org/project/markdown-emdash) (📥 230 / month):
 	```
 	pip install markdown-emdash
 	```
@@ -2385,22 +2395,9 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mdx_emdash
    ```
 </details>
-<details><summary><b><a href="https://github.com/MadLittleMods/markdown-icons">markdown-icons</a></b>  - 🥉7 ·  ⭐ 11 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Easily display icon fonts in markdown.</summary>
+<details><summary><b><a href="https://github.com/flywire/caption">caption</a></b>  - 🥉7 ·  ⭐ 10 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [GitHub](https://github.com/MadLittleMods/markdown-icons) (👨‍💻 4 · 🔀 11 · 📋 7 - 42% open · ⏱️ 09.12.2018)
-- [PyPi](https://pypi.org/project/markdown-iconfonts) (📥 26 / month):
-	```
-	pip install markdown-iconfonts
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - iconfonts
-   ```
-</details>
-<details><summary><b><a href="https://github.com/flywire/caption">caption</a></b>  - 🥉7 ·  ⭐ 9 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code></summary>
-
-- [GitHub](https://github.com/flywire/caption) (👨‍💻 3 · 🔀 2 · 📦 49 · 📋 7 - 85% open · ⏱️ 29.01.2023)
+- [GitHub](https://github.com/flywire/caption) (👨‍💻 3 · 🔀 2 · 📦 51 · 📋 7 - 85% open · ⏱️ 29.01.2023)
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
    ```yaml
    markdown_extensions:
@@ -2412,7 +2409,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/ShadowKyogre/python-asciimathml">python-asciimathml</a></b>  - 🥉7 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>python ASCIIMathML to Presentation MathML translator.</summary>
 
 - [GitHub](https://github.com/ShadowKyogre/python-asciimathml) (👨‍💻 8 · 🔀 4 · ⏱️ 04.04.2017)
-- [PyPi](https://pypi.org/project/asciimathml) (📥 80 / month):
+- [PyPi](https://pypi.org/project/asciimathml) (📥 44 / month):
 	```
 	pip install asciimathml
 	```
@@ -2422,22 +2419,22 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mdx_asciimathml
    ```
 </details>
-<details><summary><b><a href="https://github.com/ofek/mkpatcher">mkpatcher</a></b>  - 🥉7 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown extension allowing arbitrary scripts to modify MkDocs input files.</summary>
+<details><summary><b><a href="https://github.com/MadLittleMods/markdown-icons">markdown-icons</a></b>  - 🥉6 ·  ⭐ 12 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Easily display icon fonts in markdown.</summary>
 
-- [GitHub](https://github.com/ofek/mkpatcher) (📦 4 · ⏱️ 26.04.2020)
-- [PyPi](https://pypi.org/project/mkpatcher) (📥 270 / month):
+- [GitHub](https://github.com/MadLittleMods/markdown-icons) (👨‍💻 4 · 🔀 12 · 📋 7 - 42% open · ⏱️ 09.12.2018)
+- [PyPi](https://pypi.org/project/markdown-iconfonts) (📥 16 / month):
 	```
-	pip install mkpatcher
+	pip install markdown-iconfonts
 	```
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
    ```yaml
    markdown_extensions:
-     - mkpatcher
+     - iconfonts
    ```
 </details>
 <details><summary><b><a href="https://gitlab.com/mbarkhau/markdown-katex">markdown-katex</a></b>  - 🥉6 ·  ⭐ 11 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>KaTeX extension for Python Markdown.</summary>
 
-- [PyPi](https://pypi.org/project/markdown-katex) (📥 3.5K / month):
+- [PyPi](https://pypi.org/project/markdown-katex) (📥 4.4K / month):
 	```
 	pip install markdown-katex
 	```
@@ -2448,10 +2445,36 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - markdown_katex
    ```
 </details>
-<details><summary><b><a href="https://github.com/heartbeatsjp/markdown-extension-hbfm">HEARTBEATS Flavored Markdown</a></b>  - 🥉5 ·  ⭐ 14 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>HEARTBEATS Flavored Markdown extension.</summary>
+<details><summary><b><a href="https://github.com/ofek/mkpatcher">mkpatcher</a></b>  - 🥉6 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown extension allowing arbitrary scripts to modify MkDocs input files.</summary>
+
+- [GitHub](https://github.com/ofek/mkpatcher) (📦 6 · ⏱️ 26.04.2020)
+- [PyPi](https://pypi.org/project/mkpatcher) (📥 130 / month):
+	```
+	pip install mkpatcher
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
+   ```yaml
+   markdown_extensions:
+     - mkpatcher
+   ```
+</details>
+<details><summary><b><a href="https://github.com/max-arnold/markdown-tweetable">Tweetable quotes</a></b>  - 🥉5 ·  ⭐ 15 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown extension to embed tweetable quotes into your blog posts.</summary>
+
+- [GitHub](https://github.com/max-arnold/markdown-tweetable) (🔀 1 · 📦 2 · ⏱️ 25.03.2019)
+- [PyPi](https://pypi.org/project/markdown-tweetable) (📥 34 / month):
+	```
+	pip install markdown-tweetable
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
+   ```yaml
+   markdown_extensions:
+     - tweetable.extension
+   ```
+</details>
+<details><summary><b><a href="https://github.com/heartbeatsjp/markdown-extension-hbfm">HEARTBEATS Flavored Markdown</a></b>  - 🥉5 ·  ⭐ 15 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>HEARTBEATS Flavored Markdown extension.</summary>
 
 - [GitHub](https://github.com/heartbeatsjp/markdown-extension-hbfm) (👨‍💻 2 · 🔀 1 · 📦 8 · ⏱️ 01.03.2018)
-- [PyPi](https://pypi.org/project/hbfm) (📥 340 / month):
+- [PyPi](https://pypi.org/project/hbfm) (📥 180 / month):
 	```
 	pip install hbfm
 	```
@@ -2466,47 +2489,21 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://gitlab.com/WillDaSilva/markdown_grid_tables">Markdown Grid Tables</a></b>  - 🥉5 ·  ⭐ 1 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>[Python-Markdown](https://python-markdown.github.io/) [extension](https://python-markdown.github.io/extensions/api/)..</summary>
 
-- [PyPi](https://pypi.org/project/markdown-grid-tables) (📥 4.2K / month):
+- [PyPi](https://pypi.org/project/markdown-grid-tables) (📥 4K / month):
 	```
 	pip install markdown-grid-tables
 	```
-- [GitLab](https://gitlab.com/WillDaSilva/markdown_grid_tables) (🔀 3 · ⏱️ 09.02.2022)
+- [GitLab](https://gitlab.com/WillDaSilva/markdown_grid_tables) (🔀 4 · ⏱️ 09.02.2022)
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
    ```yaml
    markdown_extensions:
      - markdown_grid_tables
    ```
 </details>
-<details><summary><b><a href="https://github.com/max-arnold/markdown-tweetable">Tweetable quotes</a></b>  - 🥉4 ·  ⭐ 15 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown extension to embed tweetable quotes into your blog posts.</summary>
-
-- [GitHub](https://github.com/max-arnold/markdown-tweetable) (🔀 1 · 📦 2 · ⏱️ 25.03.2019)
-- [PyPi](https://pypi.org/project/markdown-tweetable) (📥 18 / month):
-	```
-	pip install markdown-tweetable
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - tweetable.extension
-   ```
-</details>
-<details><summary><b><a href="https://github.com/honzajavorek/markdown-del-ins">markdown-del-ins</a></b>  - 🥉4 ·  ⭐ 12 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Markdown extension to support the del and ins tags.</summary>
-
-- [GitHub](https://github.com/honzajavorek/markdown-del-ins) (👨‍💻 2 · ⏱️ 09.01.2020)
-- [PyPi](https://pypi.org/project/markdown-del-ins) (📥 1.2K / month):
-	```
-	pip install markdown-del-ins
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - markdown_del_ins
-   ```
-</details>
 <details><summary><b><a href="https://github.com/aleray/mdx_cite">Cite Extension</a></b>  - 🥉4 ·  ⭐ 6 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown extension to support the cite tag.</summary>
 
 - [GitHub](https://github.com/aleray/mdx_cite) (🔀 3 · ⏱️ 21.04.2012)
-- [PyPi](https://pypi.org/project/mdx-cite) (📥 9 / month):
+- [PyPi](https://pypi.org/project/mdx-cite) (📥 3 / month):
 	```
 	pip install mdx-cite
 	```
@@ -2519,7 +2516,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/RickTalken/kbdextension">KBD Extension</a></b>  - 🥉4 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>KBD Extension for Python-Markdown.</summary>
 
 - [GitHub](https://github.com/RickTalken/kbdextension) (🔀 1 · 📦 7 · ⏱️ 08.06.2020)
-- [PyPi](https://pypi.org/project/kbdextension) (📥 100 / month):
+- [PyPi](https://pypi.org/project/kbdextension) (📥 120 / month):
 	```
 	pip install kbdextension
 	```
@@ -2532,7 +2529,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/alberic89/markdown_sub_sup">markdown_sub_sup</a></b>  - 🥉4 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>A python markdown extension for add sub and sup support.</summary>
 
 - [GitHub](https://github.com/alberic89/markdown_sub_sup) (⏱️ 24.03.2023)
-- [PyPi](https://pypi.org/project/markdown-sub-sup) (📥 31 / month):
+- [PyPi](https://pypi.org/project/markdown-sub-sup) (📥 38 / month):
 	```
 	pip install markdown-sub-sup
 	```
@@ -2542,10 +2539,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - markdown_sub_sup
    ```
 </details>
+<details><summary><b><a href="https://github.com/honzajavorek/markdown-del-ins">markdown-del-ins</a></b>  - 🥉3 ·  ⭐ 12 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Markdown extension to support the del and ins tags.</summary>
+
+- [GitHub](https://github.com/honzajavorek/markdown-del-ins) (👨‍💻 2 · ⏱️ 09.01.2020)
+- [PyPi](https://pypi.org/project/markdown-del-ins) (📥 1.1K / month):
+	```
+	pip install markdown-del-ins
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
+   ```yaml
+   markdown_extensions:
+     - markdown_del_ins
+   ```
+</details>
 <details><summary><b><a href="https://github.com/aleray/mdx_semanticwikilinks">Semantic WikiLinks Extension</a></b>  - 🥉2 ·  ⭐ 8 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown extension to add support for semantic (wiki)links (RDFa).</summary>
 
 - [GitHub](https://github.com/aleray/mdx_semanticwikilinks) (🔀 1 · ⏱️ 15.08.2012)
-- [PyPi](https://pypi.org/project/mdx-semanticwikilinks) (📥 9 / month):
+- [PyPi](https://pypi.org/project/mdx-semanticwikilinks) (📥 6 / month):
 	```
 	pip install mdx-semanticwikilinks
 	```
@@ -2558,7 +2568,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/aleray/mdx_semanticdata">Semantic Data Extension</a></b>  - 🥉2 ·  ⭐ 5 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python-Markdown extension to add support for semantic data (RDFa).</summary>
 
 - [GitHub](https://github.com/aleray/mdx_semanticdata) (🔀 1 · ⏱️ 05.11.2012)
-- [PyPi](https://pypi.org/project/mdx-semanticdata) (📥 11 / month):
+- [PyPi](https://pypi.org/project/mdx-semanticdata) (📥 8 / month):
 	```
 	pip install mdx-semanticdata
 	```
@@ -2570,7 +2580,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://pypi.org/project/markdown-djangostaticimage/">Django Static Image</a></b>  · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code></summary>
 
-- [PyPi](https://pypi.org/project/markdown-djangostaticimage) (📥 7 / month):
+- [PyPi](https://pypi.org/project/markdown-djangostaticimage) (📥 8 / month):
 	```
 	pip install markdown-djangostaticimage
 	```
@@ -2586,10 +2596,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin">awesome-pages</a></b>  - 🥇25 ·  ⭐ 430 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that simplifies configuring page titles and their order.</summary>
+<details><summary><b><a href="https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin">awesome-pages</a></b>  - 🥇23 ·  ⭐ 450 · 📉 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that simplifies configuring page titles and their order.</summary>
 
-- [GitHub](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) (👨‍💻 8 · 🔀 32 · 📦 4K · 📋 81 - 22% open · ⏱️ 09.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-awesome-pages-plugin) (📥 200K / month):
+- [GitHub](https://github.com/lukasgeiter/mkdocs-awesome-pages-plugin) (👨‍💻 8 · 🔀 35 · 📦 4.2K · 📋 81 - 22% open · ⏱️ 09.03.2024)
+- [PyPi](https://pypi.org/project/mkdocs-awesome-pages-plugin) (📥 300K / month):
 	```
 	pip install mkdocs-awesome-pages-plugin
 	```
@@ -2599,10 +2609,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - awesome-pages
    ```
 </details>
-<details><summary><b><a href="https://github.com/unverbuggt/mkdocs-encryptcontent-plugin">encryptcontent</a></b>  - 🥇23 ·  ⭐ 110 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that encrypt/decrypt markdown content with AES.</summary>
+<details><summary><b><a href="https://github.com/unverbuggt/mkdocs-encryptcontent-plugin">encryptcontent</a></b>  - 🥇21 ·  ⭐ 120 · 📉 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that encrypt/decrypt markdown content with AES.</summary>
 
-- [GitHub](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin) (👨‍💻 5 · 🔀 13 · 📥 82 · 📦 1.1K · 📋 61 - 3% open · ⏱️ 13.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-encryptcontent-plugin) (📥 7.6K / month):
+- [GitHub](https://github.com/unverbuggt/mkdocs-encryptcontent-plugin) (👨‍💻 5 · 🔀 16 · 📥 85 · 📦 1.1K · 📋 62 - 3% open · ⏱️ 11.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-encryptcontent-plugin) (📥 6.1K / month):
 	```
 	pip install mkdocs-encryptcontent-plugin
 	```
@@ -2612,10 +2622,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - encryptcontent
    ```
 </details>
-<details><summary><b><a href="https://github.com/oprypin/mkdocs-section-index">section-index</a></b>  - 🥇20 ·  ⭐ 71 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to allow clickable sections that lead to an index page.</summary>
+<details><summary><b><a href="https://github.com/oprypin/mkdocs-section-index">section-index</a></b>  - 🥇21 ·  ⭐ 74 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to allow clickable sections that lead to an index page.</summary>
 
-- [GitHub](https://github.com/oprypin/mkdocs-section-index) (👨‍💻 3 · 🔀 7 · 📦 1.5K · 📋 17 - 23% open · ⏱️ 11.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-section-index) (📥 200K / month):
+- [GitHub](https://github.com/oprypin/mkdocs-section-index) (👨‍💻 3 · 🔀 7 · 📦 1.6K · 📋 18 - 27% open · ⏱️ 20.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-section-index) (📥 210K / month):
 	```
 	pip install mkdocs-section-index
 	```
@@ -2625,10 +2635,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - section-index
    ```
 </details>
-<details><summary><b><a href="https://github.com/oprypin/mkdocs-literate-nav">literate-nav</a></b>  - 🥇20 ·  ⭐ 69 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to specify the navigation in Markdown instead of YAML.</summary>
+<details><summary><b><a href="https://github.com/oprypin/mkdocs-literate-nav">literate-nav</a></b>  - 🥈20 ·  ⭐ 71 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to specify the navigation in Markdown instead of YAML.</summary>
 
-- [GitHub](https://github.com/oprypin/mkdocs-literate-nav) (🔀 8 · 📦 1.6K · 📋 26 - 38% open · ⏱️ 03.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-literate-nav) (📥 190K / month):
+- [GitHub](https://github.com/oprypin/mkdocs-literate-nav) (🔀 8 · 📦 1.7K · 📋 28 - 42% open · ⏱️ 27.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-literate-nav) (📥 220K / month):
 	```
 	pip install mkdocs-literate-nav
 	```
@@ -2640,8 +2650,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/aklajnert/mkdocs-simple-hooks">mkdocs-simple-hooks</a></b>  - 🥈18 ·  ⭐ 56 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Define your own hooks for mkdocs, without having to create a new package.</summary>
 
-- [GitHub](https://github.com/aklajnert/mkdocs-simple-hooks) (👨‍💻 5 · 🔀 4 · 📥 32 · 📦 1.5K · ⏱️ 14.11.2023)
-- [PyPi](https://pypi.org/project/mkdocs-simple-hooks) (📥 46K / month):
+- [GitHub](https://github.com/aklajnert/mkdocs-simple-hooks) (👨‍💻 5 · 🔀 4 · 📥 32 · 📦 1.6K · ⏱️ 14.11.2023)
+- [PyPi](https://pypi.org/project/mkdocs-simple-hooks) (📥 36K / month):
 	```
 	pip install mkdocs-simple-hooks
 	```
@@ -2653,8 +2663,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/apenwarr/mkdocs-exclude">exclude</a></b>  - 🥈17 ·  ⭐ 84 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin that lets you exclude files or trees from your output.</summary>
 
-- [GitHub](https://github.com/apenwarr/mkdocs-exclude) (🔀 9 · 📦 1.9K · 📋 12 - 75% open · ⏱️ 20.02.2019)
-- [PyPi](https://pypi.org/project/mkdocs-exclude) (📥 120K / month):
+- [GitHub](https://github.com/apenwarr/mkdocs-exclude) (🔀 10 · 📦 1.9K · 📋 12 - 75% open · ⏱️ 20.02.2019)
+- [PyPi](https://pypi.org/project/mkdocs-exclude) (📥 130K / month):
 	```
 	pip install mkdocs-exclude
 	```
@@ -2664,23 +2674,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - exclude
    ```
 </details>
-<details><summary><b><a href="https://github.com/smarie/mkdocs-gallery">mkdocs-gallery</a></b>  - 🥈16 ·  ⭐ 30 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Same features as sphinx-gallery (https://sphinx-gallery.github.io/) but on mkdocs (https://www.mkdocs.org/) (no sphinx..</summary>
+<details><summary><b><a href="https://github.com/DariuszPorowski/mkdocs-file-filter-plugin">file-filter</a></b>  - 🥈16 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that lets you exclude/include docs files using globs, regexes, gitignore-style file and..</summary>
 
-- [GitHub](https://github.com/smarie/mkdocs-gallery) (👨‍💻 9 · 🔀 13 · 📋 65 - 40% open · ⏱️ 15.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-gallery) (📥 2.4K / month):
-	```
-	pip install mkdocs-gallery
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - gallery
-   ```
-</details>
-<details><summary><b><a href="https://github.com/DariuszPorowski/mkdocs-file-filter-plugin">file-filter</a></b>  - 🥈16 ·  ⭐ 7 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that lets you exclude/include docs files using globs, regexes, gitignore-style file and..</summary>
-
-- [GitHub](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin) (👨‍💻 4 · 🔀 3 · 📥 37 · 📦 6 · 📋 11 - 27% open · ⏱️ 13.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-file-filter-plugin) (📥 6.1K / month):
+- [GitHub](https://github.com/DariuszPorowski/mkdocs-file-filter-plugin) (👨‍💻 4 · 🔀 3 · 📥 37 · 📦 9 · 📋 11 - 27% open · ⏱️ 13.03.2024)
+- [PyPi](https://pypi.org/project/mkdocs-file-filter-plugin) (📥 5.7K / month):
 	```
 	pip install mkdocs-file-filter-plugin
 	```
@@ -2690,10 +2687,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - file-filter
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - meta</a></b>  - 🥈14 ·  ⭐ 27 · ➕ · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Navigation and page building based on files metadata.</summary>
+<details><summary><b><a href="https://github.com/smarie/mkdocs-gallery">mkdocs-gallery</a></b>  - 🥈15 ·  ⭐ 32 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Same features as sphinx-gallery (https://sphinx-gallery.github.io/) but on mkdocs (https://www.mkdocs.org/) (no sphinx..</summary>
 
-- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 9 · 📦 22 · 📋 13 - 30% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 2K / month):
+- [GitHub](https://github.com/smarie/mkdocs-gallery) (👨‍💻 9 · 🔀 14 · 📋 65 - 40% open · ⏱️ 15.03.2024)
+- [PyPi](https://pypi.org/project/mkdocs-gallery) (📥 3.9K / month):
+	```
+	pip install mkdocs-gallery
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - gallery
+   ```
+</details>
+<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - meta</a></b>  - 🥈14 ·  ⭐ 32 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Navigation and page building based on files metadata.</summary>
+
+- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 17 · 📦 39 · 📋 14 - 35% open · ⏱️ 21.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 880 / month):
 	```
 	pip install mkdocs-publisher
 	```
@@ -2705,8 +2715,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/shu307/mkdocs-nav-weight">mkdocs-nav-weight</a></b>  - 🥈12 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A simple mkdocs plugin, enables to organize Navigation in a more markdownic way.</summary>
 
-- [GitHub](https://github.com/shu307/mkdocs-nav-weight) (👨‍💻 3 · 🔀 2 · 📦 36 · ⏱️ 17.11.2023)
-- [PyPi](https://pypi.org/project/mkdocs-nav-weight) (📥 6.1K / month):
+- [GitHub](https://github.com/shu307/mkdocs-nav-weight) (👨‍💻 3 · 🔀 2 · 📦 57 · ⏱️ 17.11.2023)
+- [PyPi](https://pypi.org/project/mkdocs-nav-weight) (📥 6.2K / month):
 	```
 	pip install mkdocs-nav-weight
 	```
@@ -2716,10 +2726,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs-nav-weight
    ```
 </details>
-<details><summary><b><a href="https://github.com/EddyLuten/mkdocs-categories-plugin">mkdocs-categories-plugin</a></b>  - 🥈11 ·  ⭐ 11 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin allowing for categorization of wiki pages.</summary>
+<details><summary><b><a href="https://github.com/EddyLuten/mkdocs-categories-plugin">mkdocs-categories-plugin</a></b>  - 🥈11 ·  ⭐ 12 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin allowing for categorization of wiki pages.</summary>
 
-- [GitHub](https://github.com/EddyLuten/mkdocs-categories-plugin) (📦 14 · ⏱️ 02.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-categories-plugin) (📥 400 / month):
+- [GitHub](https://github.com/EddyLuten/mkdocs-categories-plugin) (📦 14 · ⏱️ 22.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-categories-plugin) (📥 610 / month):
 	```
 	pip install mkdocs-categories-plugin
 	```
@@ -2729,10 +2739,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - categories
    ```
 </details>
+<details><summary><b><a href="https://github.com/tombreit/mkdocs-pagetree-plugin">mkdocs-pagetree-plugin</a></b>  - 🥈11 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin that allows you to display the page tree. Like `sitemap.xml`, but for humans.</summary>
+
+- [GitHub](https://github.com/tombreit/mkdocs-pagetree-plugin) (📦 5 · 📋 9 - 44% open · ⏱️ 14.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-pagetree-plugin) (📥 340 / month):
+	```
+	pip install mkdocs-pagetree-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - pagetree
+   ```
+</details>
 <details><summary><b><a href="https://github.com/DerwenAI/mkrefs">MkRefs</a></b>  - 🥉10 ·  ⭐ 28 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to generate semantic reference Markdown pages from a knowledge graph.</summary>
 
 - [GitHub](https://github.com/DerwenAI/mkrefs) (👨‍💻 2 · 📦 3 · ⏱️ 31.08.2023)
-- [PyPi](https://pypi.org/project/mkrefs) (📥 46 / month):
+- [PyPi](https://pypi.org/project/mkrefs) (📥 51 / month):
 	```
 	pip install mkrefs
 	```
@@ -2742,10 +2765,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkrefs
    ```
 </details>
-<details><summary><b><a href="https://github.com/zachhannum/mkdocs-toc-sidebar-plugin">toc-sidebar</a></b>  - 🥉10 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that allows users to add additional content to the ToC sidebar using the Material theme.</summary>
+<details><summary><b><a href="https://github.com/zachhannum/mkdocs-toc-sidebar-plugin">toc-sidebar</a></b>  - 🥉10 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that allows users to add additional content to the ToC sidebar using the Material theme.</summary>
 
-- [GitHub](https://github.com/zachhannum/mkdocs-toc-sidebar-plugin) (👨‍💻 2 · 🔀 3 · 📦 34 · ⏱️ 11.01.2020)
-- [PyPi](https://pypi.org/project/mkdocs-toc-sidebar-plugin) (📥 4K / month):
+- [GitHub](https://github.com/zachhannum/mkdocs-toc-sidebar-plugin) (👨‍💻 2 · 🔀 3 · 📦 35 · ⏱️ 11.01.2020)
+- [PyPi](https://pypi.org/project/mkdocs-toc-sidebar-plugin) (📥 6.1K / month):
 	```
 	pip install mkdocs-toc-sidebar-plugin
 	```
@@ -2758,7 +2781,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/zachhannum/mkdocs-vim-md-tags-plugin">vim-md-tags</a></b>  - 🥉10 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that creates a vim tag file of all markdown files.</summary>
 
 - [GitHub](https://github.com/zachhannum/mkdocs-vim-md-tags-plugin) (👨‍💻 4 · 🔀 1 · 📦 10 · ⏱️ 08.05.2020)
-- [PyPi](https://pypi.org/project/mkdocs-vim-md-tags-plugin) (📥 170 / month):
+- [PyPi](https://pypi.org/project/mkdocs-vim-md-tags-plugin) (📥 150 / month):
 	```
 	pip install mkdocs-vim-md-tags-plugin
 	```
@@ -2768,23 +2791,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - vim-md-tags
    ```
 </details>
-<details><summary><b><a href="https://github.com/tombreit/mkdocs-pagetree-plugin">mkdocs-pagetree-plugin</a></b>  - 🥉10 ·  ⭐ 1 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin that allows you to display the page tree. Like `sitemap.xml`, but for humans.</summary>
-
-- [GitHub](https://github.com/tombreit/mkdocs-pagetree-plugin) (📦 5 · 📋 9 - 55% open · ⏱️ 01.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-pagetree-plugin) (📥 430 / month):
-	```
-	pip install mkdocs-pagetree-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - pagetree
-   ```
-</details>
-<details><summary><b><a href="https://github.com/mysiki/mkdocs_include_dir_to_nav">include directory to navigation</a></b>  - 🥉9 ·  ⭐ 24 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Simple MKDocs plugin than permit to fetch and replace directory in navigation.</summary>
+<details><summary><b><a href="https://github.com/mysiki/mkdocs_include_dir_to_nav">include directory to navigation</a></b>  - 🥉9 ·  ⭐ 25 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Simple MKDocs plugin than permit to fetch and replace directory in navigation.</summary>
 
 - [GitHub](https://github.com/mysiki/mkdocs_include_dir_to_nav) (🔀 1 · 📥 8 · 📋 4 - 50% open · ⏱️ 01.03.2022)
-- [PyPi](https://pypi.org/project/mkdocs-include-dir-to-nav) (📥 67K / month):
+- [PyPi](https://pypi.org/project/mkdocs-include-dir-to-nav) (📥 76K / month):
 	```
 	pip install mkdocs-include-dir-to-nav
 	```
@@ -2797,7 +2807,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/Rylon/mkdocs-nav-enhancements">mkdocs-nav-enhancements</a></b>  - 🥉9 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>WIP plugin for working with titles of pages in MkDocs.</summary>
 
 - [GitHub](https://github.com/Rylon/mkdocs-nav-enhancements) (📦 32 · ⏱️ 24.07.2019)
-- [PyPi](https://pypi.org/project/mkdocs-nav-enhancements) (📥 4.9K / month):
+- [PyPi](https://pypi.org/project/mkdocs-nav-enhancements) (📥 6.1K / month):
 	```
 	pip install mkdocs-nav-enhancements
 	```
@@ -2807,9 +2817,9 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs-nav-enhancements
    ```
 </details>
-<details><summary><b><a href="https://github.com/EddyLuten/mkdocs-live-edit-plugin">mkdocs-live-edit-plugin</a></b>  - 🥉8 ·  ⭐ 9 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that allows editing pages directly from the browser.</summary>
+<details><summary><b><a href="https://github.com/EddyLuten/mkdocs-live-edit-plugin">mkdocs-live-edit-plugin</a></b>  - 🥉7 ·  ⭐ 10 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin that allows editing pages directly from the browser.</summary>
 
-- [GitHub](https://github.com/EddyLuten/mkdocs-live-edit-plugin) (👨‍💻 2 · 🔀 1 · 📦 3 · 📋 3 - 33% open · ⏱️ 07.03.2024)
+- [GitHub](https://github.com/EddyLuten/mkdocs-live-edit-plugin) (👨‍💻 2 · 🔀 2 · 📦 3 · 📋 3 - 33% open · ⏱️ 07.03.2024)
 - [PyPi](https://pypi.org/project/mkdocs-live-edit-plugin) (📥 120 / month):
 	```
 	pip install mkdocs-live-edit-plugin
@@ -2836,7 +2846,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/supcik/mkdocs-select-files">select-files</a></b>  - 🥉6 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Filter pages for assignments.</summary>
 
 - [GitHub](https://github.com/supcik/mkdocs-select-files) (📦 7 · ⏱️ 05.09.2019)
-- [PyPi](https://pypi.org/project/mkdocs-select-files) (📥 30 / month):
+- [PyPi](https://pypi.org/project/mkdocs-select-files) (📥 21 / month):
 	```
 	pip install mkdocs-select-files
 	```
@@ -2849,7 +2859,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/swan-cern/mkdocs-swangallery">SWAN Gallery</a></b>  - 🥉5 ·  ⭐ 1 · <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to generate a SWAN Gallery.</summary>
 
 - [GitHub](https://github.com/swan-cern/mkdocs-swangallery) (👨‍💻 2 · 📦 1 · ⏱️ 20.07.2023)
-- [PyPi](https://pypi.org/project/mkdocs-swangallery) (📥 37 / month):
+- [PyPi](https://pypi.org/project/mkdocs-swangallery) (📥 50 / month):
 	```
 	pip install mkdocs-swangallery
 	```
@@ -2868,23 +2878,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - awesome-list
    ```
 </details>
-<details><summary><b><a href="https://github.com/chikamichi/mkdocs-copy">mkdocs-copy</a></b>  - 🥉4 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that lets you copy (and maybe transform) arbitrary doc files to the build.</summary>
-
-- [GitHub](https://github.com/chikamichi/mkdocs-copy) (📥 5 · ⏱️ 21.09.2021)
-- [PyPi](https://pypi.org/project/mkdocs-copy) (📥 22 / month):
-	```
-	pip install mkdocs-copy
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - copy
-   ```
-</details>
 <details><summary><b><a href="https://github.com/mattchristopher314/mkdocs-title-casing-plugin">mkdocs-title-casing-plugin</a></b>  - 🥉4 ·  ⭐ 2 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A lightweight mkdocs plugin to add title casing to all mkdocs pages and sections.</summary>
 
 - [GitHub](https://github.com/mattchristopher314/mkdocs-title-casing-plugin) (⏱️ 02.09.2023)
-- [PyPi](https://pypi.org/project/mkdocs-title-casing-plugin) (📥 250 / month):
+- [PyPi](https://pypi.org/project/mkdocs-title-casing-plugin) (📥 570 / month):
 	```
 	pip install mkdocs-title-casing-plugin
 	```
@@ -2892,6 +2889,19 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    ```yaml
    plugins:
      - title-casing
+   ```
+</details>
+<details><summary><b><a href="https://github.com/chikamichi/mkdocs-copy">mkdocs-copy</a></b>  - 🥉3 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that lets you copy (and maybe transform) arbitrary doc files to the build.</summary>
+
+- [GitHub](https://github.com/chikamichi/mkdocs-copy) (📥 5 · ⏱️ 21.09.2021)
+- [PyPi](https://pypi.org/project/mkdocs-copy) (📥 8 / month):
+	```
+	pip install mkdocs-copy
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - copy
    ```
 </details>
 <details><summary><b><a href="https://github.com/Andre601/mkdocs-pagenav-generator">pagenav-generator</a></b>  - 🥉2 ·  ⭐ 3 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Little something to automatically generate a Navigation within a page itself. Depends on Awesome-pages.</summary>
@@ -2917,18 +2927,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/koaning/mktestdocs">mktestdocs</a></b>  - 🥇15 ·  ⭐ 100 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code><br>Run pytest against markdown files/docstrings.</summary>
+<details><summary><b><a href="https://github.com/pawamoy/mkdocs-spellcheck">mkdocs-spellcheck</a></b>  - 🥇16 ·  ⭐ 15 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A spell checker plugin for MkDocs.</summary>
 
-- [GitHub](https://github.com/koaning/mktestdocs) (👨‍💻 3 · 🔀 6 · 📦 54 · 📋 3 - 66% open · ⏱️ 27.04.2023)
-- [PyPi](https://pypi.org/project/mktestdocs) (📥 3.5K / month):
-	```
-	pip install mktestdocs
-	```
-</details>
-<details><summary><b><a href="https://github.com/pawamoy/mkdocs-spellcheck">mkdocs-spellcheck</a></b>  - 🥇15 ·  ⭐ 9 · <code><a href="http://bit.ly/3hkKRql">ISC</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A spell checker plugin for MkDocs.</summary>
-
-- [GitHub](https://github.com/pawamoy/mkdocs-spellcheck) (👨‍💻 3 · 🔀 2 · 📦 36 · 📋 15 - 46% open · ⏱️ 23.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-spellcheck) (📥 8.5K / month):
+- [GitHub](https://github.com/pawamoy/mkdocs-spellcheck) (👨‍💻 4 · 🔀 3 · 📦 37 · 📋 18 - 44% open · ⏱️ 06.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-spellcheck) (📥 11K / month):
 	```
 	pip install mkdocs-spellcheck
 	```
@@ -2938,18 +2940,26 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - spellcheck
    ```
 </details>
+<details><summary><b><a href="https://github.com/koaning/mktestdocs">mktestdocs</a></b>  - 🥈15 ·  ⭐ 100 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code><br>Run pytest against markdown files/docstrings.</summary>
+
+- [GitHub](https://github.com/koaning/mktestdocs) (👨‍💻 3 · 🔀 6 · 📦 54 · 📋 3 - 66% open · ⏱️ 27.04.2023)
+- [PyPi](https://pypi.org/project/mktestdocs) (📥 4.4K / month):
+	```
+	pip install mktestdocs
+	```
+</details>
 <details><summary><b><a href="https://github.com/byrnereese/linkchecker-mkdocs">Link Checker</a></b>  - 🥉9 ·  ⭐ 9 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code><br>Python asyncio + aiohttp Markdown *.md URL link checker: 10,000 files/second.</summary>
 
 - [GitHub](https://github.com/byrnereese/linkchecker-mkdocs) (👨‍💻 5 · 🔀 4 · ⏱️ 24.08.2021)
-- [PyPi](https://pypi.org/project/mkdocs-linkcheck) (📥 2.5K / month):
+- [PyPi](https://pypi.org/project/mkdocs-linkcheck) (📥 2.8K / month):
 	```
 	pip install mkdocs-linkcheck
 	```
 </details>
-<details><summary><b><a href="https://github.com/oprypin/mkdocs-code-validator">mkdocs-code-validator</a></b>  - 🥉9 ·  ⭐ 1 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Checks Markdown code blocks in a MkDocs site against user-defined actions.</summary>
+<details><summary><b><a href="https://github.com/oprypin/mkdocs-code-validator">mkdocs-code-validator</a></b>  - 🥉9 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Checks Markdown code blocks in a MkDocs site against user-defined actions.</summary>
 
-- [GitHub](https://github.com/oprypin/mkdocs-code-validator) (📦 13 · ⏱️ 03.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-code-validator) (📥 290 / month):
+- [GitHub](https://github.com/oprypin/mkdocs-code-validator) (📦 13 · ⏱️ 27.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-code-validator) (📥 380 / month):
 	```
 	pip install mkdocs-code-validator
 	```
@@ -2962,7 +2972,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/byrnereese/codechecker-mkdocs">mkdocs-codecheck</a></b>  - 🥉5 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code><br>Traverses a directory tree looking for code samples, then attempts to validate each code sample found.</summary>
 
 - [GitHub](https://github.com/byrnereese/codechecker-mkdocs) (👨‍💻 6 · ⏱️ 16.12.2021)
-- [PyPi](https://pypi.org/project/mkdocs-codecheck) (📥 19 / month):
+- [PyPi](https://pypi.org/project/mkdocs-codecheck) (📥 17 / month):
 	```
 	pip install mkdocs-codecheck
 	```
@@ -2973,9 +2983,9 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/chrieke/mkdocs-exclude-search">exclude-search</a></b>  - 🥇18 ·  ⭐ 27 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin that excludes selected chapters from the docs search index.</summary>
+<details><summary><b><a href="https://github.com/chrieke/mkdocs-exclude-search">exclude-search</a></b>  - 🥇17 ·  ⭐ 27 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin that excludes selected chapters from the docs search index.</summary>
 
-- [GitHub](https://github.com/chrieke/mkdocs-exclude-search) (👨‍💻 5 · 🔀 2 · 📥 8 · 📦 360 · ⏱️ 04.12.2023)
+- [GitHub](https://github.com/chrieke/mkdocs-exclude-search) (👨‍💻 6 · 🔀 2 · 📥 8 · 📦 380 · ⏱️ 04.12.2023)
 - [PyPi](https://pypi.org/project/mkdocs-exclude-search) (📥 19K / month):
 	```
 	pip install mkdocs-exclude-search
@@ -2986,10 +2996,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - exclude-search
    ```
 </details>
-<details><summary><b><a href="https://github.com/wilhelmer/mkdocs-localsearch">localsearch</a></b>  - 🥈16 ·  ⭐ 31 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin to make the native search plugin work locally (file:// protocol).</summary>
+<details><summary><b><a href="https://github.com/wilhelmer/mkdocs-localsearch">localsearch</a></b>  - 🥈16 ·  ⭐ 32 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin to make the native search plugin work locally (file:// protocol).</summary>
 
 - [GitHub](https://github.com/wilhelmer/mkdocs-localsearch) (👨‍💻 6 · 🔀 7 · 📦 66 · ⏱️ 02.01.2023)
-- [PyPi](https://pypi.org/project/mkdocs-localsearch) (📥 4.5K / month):
+- [PyPi](https://pypi.org/project/mkdocs-localsearch) (📥 4.7K / month):
 	```
 	pip install mkdocs-localsearch
 	```
@@ -3002,7 +3012,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/jldiaz/mkdocs-plugin-tags">tags</a></b>  - 🥉9 ·  ⭐ 42 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Processes tags in yaml metadata.</summary>
 
 - [GitHub](https://github.com/jldiaz/mkdocs-plugin-tags) (👨‍💻 3 · 🔀 19 · 📋 14 - 42% open · ⏱️ 02.09.2021)
-- [PyPi](https://pypi.org/project/mkdocs-plugin-tags) (📥 800 / month):
+- [PyPi](https://pypi.org/project/mkdocs-plugin-tags) (📥 1K / month):
 	```
 	pip install mkdocs-plugin-tags
 	```
@@ -3012,10 +3022,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - tags
    ```
 </details>
-<details><summary><b><a href="https://github.com/six-two/mkdocs-extract-listings-plugin">extract listings</a></b>  - 🥉6 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate a page with all listings and/or a search page for listings.</summary>
+<details><summary><b><a href="https://github.com/six-two/mkdocs-extract-listings-plugin">extract listings</a></b>  - 🥉6 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate a page with all listings and/or a search page for listings.</summary>
 
 - [GitHub](https://github.com/six-two/mkdocs-extract-listings-plugin) (⏱️ 22.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-extract-listings-plugin) (📥 450 / month):
+- [PyPi](https://pypi.org/project/mkdocs-extract-listings-plugin) (📥 630 / month):
 	```
 	pip install mkdocs-extract-listings-plugin
 	```
@@ -3031,10 +3041,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/orzih/mkdocs-with-pdf">mkdocs-with-pdf</a></b>  - 🥇22 ·  ⭐ 300 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate a single PDF file from MkDocs repository.</summary>
+<details><summary><b><a href="https://github.com/orzih/mkdocs-with-pdf">mkdocs-with-pdf</a></b>  - 🥇23 ·  ⭐ 310 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate a single PDF file from MkDocs repository.</summary>
 
-- [GitHub](https://github.com/orzih/mkdocs-with-pdf) (👨‍💻 6 · 🔀 72 · 📦 500 · 📋 99 - 55% open · ⏱️ 14.10.2021)
-- [PyPi](https://pypi.org/project/mkdocs-with-pdf) (📥 45K / month):
+- [GitHub](https://github.com/orzih/mkdocs-with-pdf) (👨‍💻 6 · 🔀 75 · 📦 530 · 📋 100 - 56% open · ⏱️ 14.10.2021)
+- [PyPi](https://pypi.org/project/mkdocs-with-pdf) (📥 48K / month):
 	```
 	pip install mkdocs-with-pdf
 	```
@@ -3044,10 +3054,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - with-pdf
    ```
 </details>
-<details><summary><b><a href="https://github.com/timvink/mkdocs-print-site-plugin">print-site</a></b>  - 🥇22 ·  ⭐ 120 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Plugin that adds an additional page that combines all pages, allowing easy exports to PDF and standalone HTML.</summary>
+<details><summary><b><a href="https://github.com/timvink/mkdocs-print-site-plugin">print-site</a></b>  - 🥇23 ·  ⭐ 120 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Plugin that adds an additional page that combines all pages, allowing easy exports to PDF and standalone HTML.</summary>
 
-- [GitHub](https://github.com/timvink/mkdocs-print-site-plugin) (👨‍💻 7 · 🔀 17 · 📦 290 · 📋 88 - 15% open · ⏱️ 10.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-print-site-plugin) (📥 21K / month):
+- [GitHub](https://github.com/timvink/mkdocs-print-site-plugin) (👨‍💻 8 · 🔀 19 · 📦 310 · 📋 90 - 12% open · ⏱️ 31.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-print-site-plugin) (📥 23K / month):
 	```
 	pip install mkdocs-print-site-plugin
 	```
@@ -3057,10 +3067,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - print-site
    ```
 </details>
-<details><summary><b><a href="https://github.com/zhaoterryy/mkdocs-pdf-export-plugin">pdf-export</a></b>  - 🥈21 ·  ⭐ 310 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin to export content pages as PDF files.</summary>
+<details><summary><b><a href="https://github.com/zhaoterryy/mkdocs-pdf-export-plugin">pdf-export</a></b>  - 🥈22 ·  ⭐ 310 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An MkDocs plugin to export content pages as PDF files.</summary>
 
-- [GitHub](https://github.com/zhaoterryy/mkdocs-pdf-export-plugin) (👨‍💻 11 · 🔀 43 · 📦 820 · 📋 88 - 47% open · ⏱️ 05.10.2021)
-- [PyPi](https://pypi.org/project/mkdocs-pdf-export-plugin) (📥 30K / month):
+- [GitHub](https://github.com/zhaoterryy/mkdocs-pdf-export-plugin) (👨‍💻 11 · 🔀 44 · 📦 980 · 📋 88 - 47% open · ⏱️ 05.10.2021)
+- [PyPi](https://pypi.org/project/mkdocs-pdf-export-plugin) (📥 26K / month):
 	```
 	pip install mkdocs-pdf-export-plugin
 	```
@@ -3073,7 +3083,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/comwes/mkpdfs-mkdocs-plugin">mkpdfs</a></b>  - 🥈16 ·  ⭐ 100 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Converts your mkdocs documentation in PDF, to be shared with users.</summary>
 
 - [GitHub](https://github.com/comwes/mkpdfs-mkdocs-plugin) (👨‍💻 8 · 🔀 30 · 📥 34 · 📦 55 · 📋 39 - 30% open · ⏱️ 11.08.2021)
-- [PyPi](https://pypi.org/project/mkpdfs-mkdocs) (📥 760 / month):
+- [PyPi](https://pypi.org/project/mkpdfs-mkdocs) (📥 1.1K / month):
 	```
 	pip install mkpdfs-mkdocs
 	```
@@ -3086,27 +3096,14 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/jgrassler/mkdocs-pandoc">mkdocs-pandoc</a></b>  - 🥈14 ·  ⭐ 110 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code><br>[unmaintained] mkdocs - pandoc converter: use this fork https://github.com/twardoch/mkdocs-combine.</summary>
 
 - [GitHub](https://github.com/jgrassler/mkdocs-pandoc) (👨‍💻 4 · 🔀 22 · 📦 50 · 📋 23 - 56% open · ⏱️ 14.03.2016)
-- [PyPi](https://pypi.org/project/mkdocs-pandoc) (📥 320 / month):
+- [PyPi](https://pypi.org/project/mkdocs-pandoc) (📥 170 / month):
 	```
 	pip install mkdocs-pandoc
 	```
 </details>
-<details><summary><b><a href="https://github.com/smaxtec/mkdocs-pdf-with-js-plugin">pdf-with-js</a></b>  - 🥉12 ·  ⭐ 7 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that exports your documentation as PDF with rendered JavaScript content.</summary>
+<details><summary><b><a href="https://github.com/adrienbrignon/mkdocs-exporter">mkdocs-exporter</a></b>  - 🥈14 ·  ⭐ 56 · 📈 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MkDocs that exports your pages as PDF documents.</summary>
 
-- [GitHub](https://github.com/smaxtec/mkdocs-pdf-with-js-plugin) (👨‍💻 4 · 🔀 2 · 📦 11 · ⏱️ 23.07.2021)
-- [PyPi](https://pypi.org/project/mkdocs-pdf-with-js-plugin) (📥 2K / month):
-	```
-	pip install mkdocs-pdf-with-js-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - pdf-with-js
-   ```
-</details>
-<details><summary><b><a href="https://github.com/adrienbrignon/mkdocs-exporter">mkdocs-exporter</a></b>  - 🥉11 ·  ⭐ 52 · 📉 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MkDocs that exports your pages as PDF documents.</summary>
-
-- [GitHub](https://github.com/adrienbrignon/mkdocs-exporter) (👨‍💻 2 · 📦 2 · 📋 19 - 21% open · ⏱️ 24.03.2024)
+- [GitHub](https://github.com/adrienbrignon/mkdocs-exporter) (👨‍💻 2 · 📦 4 · 📋 19 - 15% open · ⏱️ 05.05.2024)
 - [PyPi](https://pypi.org/project/mkdocs-exporter) (📥 1.1K / month):
 	```
 	pip install mkdocs-exporter
@@ -3119,10 +3116,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - exporter-extras
    ```
 </details>
+<details><summary><b><a href="https://github.com/smaxtec/mkdocs-pdf-with-js-plugin">pdf-with-js</a></b>  - 🥉11 ·  ⭐ 7 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A MkDocs plugin that exports your documentation as PDF with rendered JavaScript content.</summary>
+
+- [GitHub](https://github.com/smaxtec/mkdocs-pdf-with-js-plugin) (👨‍💻 4 · 🔀 2 · 📦 11 · ⏱️ 23.07.2021)
+- [PyPi](https://pypi.org/project/mkdocs-pdf-with-js-plugin) (📥 1.1K / month):
+	```
+	pip install mkdocs-pdf-with-js-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - pdf-with-js
+   ```
+</details>
 <details><summary><b><a href="https://github.com/HaoLiuHust/mkdocs-mk2pdf-plugin">mk2pdf-export</a></b>  - 🥉6 ·  ⭐ 7 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>The plugin is based on https://github.com/zhaoterryy/mkdocs-pdf-export-plugin/ ,the main change is use pandoc to..</summary>
 
 - [GitHub](https://github.com/HaoLiuHust/mkdocs-mk2pdf-plugin) (👨‍💻 4 · 🔀 5 · 📦 1 · ⏱️ 11.09.2020)
-- [PyPi](https://pypi.org/project/mkdocs-mk2pdf-plugin) (📥 81 / month):
+- [PyPi](https://pypi.org/project/mkdocs-mk2pdf-plugin) (📥 76 / month):
 	```
 	pip install mkdocs-mk2pdf-plugin
 	```
@@ -3132,10 +3142,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mk2pdf-export
    ```
 </details>
-<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-zip-folders">mkdocs-zip-folders</a></b>  - 🥉6 ·  ⭐ 1 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to zip configured folders and add them to the site.</summary>
+<details><summary><b><a href="https://github.com/JakubAndrysek/mkdocs-zip-folders">mkdocs-zip-folders</a></b>  - 🥉6 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to zip configured folders and add them to the site.</summary>
 
 - [GitHub](https://github.com/JakubAndrysek/mkdocs-zip-folders) (⏱️ 09.07.2023)
-- [PyPi](https://pypi.org/project/mkdocs-zip-folders) (📥 260 / month):
+- [PyPi](https://pypi.org/project/mkdocs-zip-folders) (📥 300 / month):
 	```
 	pip install mkdocs-zip-folders
 	```
@@ -3145,23 +3155,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - zip_folders
    ```
 </details>
-<details><summary><b><a href="https://github.com/M00nF1sh/mkdocs-helm">helm</a></b>  - 🥉3 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An mkdocs plugin that turns docs website into helm repository.</summary>
-
-- [GitHub](https://github.com/M00nF1sh/mkdocs-helm) (🔀 1 · ⏱️ 21.11.2018)
-- [PyPi](https://pypi.org/project/mkdocs-helm) (📥 24 / month):
-	```
-	pip install mkdocs-helm
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - helm-repo
-   ```
-</details>
 <details><summary><b><a href="https://github.com/martinohanlon/mkdocs_autozip">mkdocs-autozip</a></b>  - 🥉2 ·  ⭐ 2 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin for auto zipping the document source.</summary>
 
 - [GitHub](https://github.com/martinohanlon/mkdocs_autozip) (⏱️ 05.10.2022)
-- [PyPi](https://pypi.org/project/mkdocs-autozip) (📥 180 / month):
+- [PyPi](https://pypi.org/project/mkdocs-autozip) (📥 150 / month):
 	```
 	pip install mkdocs-autozip
 	```
@@ -3171,16 +3168,29 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - autozip
    ```
 </details>
+<details><summary><b><a href="https://github.com/M00nF1sh/mkdocs-helm">helm</a></b>  - 🥉2 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An mkdocs plugin that turns docs website into helm repository.</summary>
+
+- [GitHub](https://github.com/M00nF1sh/mkdocs-helm) (🔀 1 · ⏱️ 21.11.2018)
+- [PyPi](https://pypi.org/project/mkdocs-helm) (📥 9 / month):
+	```
+	pip install mkdocs-helm
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - helm-repo
+   ```
+</details>
 <br>
 
 ## 🔧 Site building, site management
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/jimporter/mike">mike</a></b>  - 🥇28 ·  ⭐ 460 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Manage multiple versions of your MkDocs-powered documentation via Git.</summary>
+<details><summary><b><a href="https://github.com/jimporter/mike">mike</a></b>  - 🥇28 ·  ⭐ 490 · <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Manage multiple versions of your MkDocs-powered documentation via Git.</summary>
 
-- [GitHub](https://github.com/jimporter/mike) (👨‍💻 9 · 🔀 43 · 📥 160 · 📦 2.8K · 📋 180 - 4% open · ⏱️ 05.04.2024)
-- [PyPi](https://pypi.org/project/mike) (📥 230K / month):
+- [GitHub](https://github.com/jimporter/mike) (👨‍💻 9 · 🔀 44 · 📥 170 · 📦 3K · 📋 180 - 4% open · ⏱️ 30.05.2024)
+- [PyPi](https://pypi.org/project/mike) (📥 360K / month):
 	```
 	pip install mike
 	```
@@ -3190,10 +3200,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mike
    ```
 </details>
-<details><summary><b><a href="https://github.com/backstage/mkdocs-monorepo-plugin">monorepo</a></b>  - 🥇23 ·  ⭐ 300 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Build multiple documentation folders in a single Mkdocs. Designed for large codebases.</summary>
+<details><summary><b><a href="https://github.com/backstage/mkdocs-monorepo-plugin">monorepo</a></b>  - 🥇23 ·  ⭐ 310 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Build multiple documentation folders in a single Mkdocs. Designed for large codebases.</summary>
 
-- [GitHub](https://github.com/backstage/mkdocs-monorepo-plugin) (👨‍💻 30 · 🔀 70 · 📦 390 · 📋 61 - 50% open · ⏱️ 04.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-monorepo-plugin) (📥 290K / month):
+- [GitHub](https://github.com/backstage/mkdocs-monorepo-plugin) (👨‍💻 30 · 🔀 72 · 📦 410 · 📋 64 - 53% open · ⏱️ 04.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-monorepo-plugin) (📥 310K / month):
 	```
 	pip install mkdocs-monorepo-plugin
 	```
@@ -3203,23 +3213,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - monorepo
    ```
 </details>
-<details><summary><b><a href="https://github.com/jdoiro3/mkdocs-multirepo-plugin">mkdocs-multirepo-plugin</a></b>  - 🥈21 ·  ⭐ 110 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Build documentation in multiple repos into one site.</summary>
+<details><summary><b><a href="https://github.com/backstage/mkdocs-techdocs-core">techdocs-core</a></b>  - 🥈22 ·  ⭐ 80 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>The core MkDocs plugin used by Backstages TechDocs as a wrapper around multiple MkDocs plugins and Python Markdown..</summary>
 
-- [GitHub](https://github.com/jdoiro3/mkdocs-multirepo-plugin) (👨‍💻 14 · 🔀 38 · 📦 100 · 📋 94 - 47% open · ⏱️ 19.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-multirepo-plugin) (📥 39K / month):
-	```
-	pip install mkdocs-multirepo-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - multirepo
-   ```
-</details>
-<details><summary><b><a href="https://github.com/backstage/mkdocs-techdocs-core">techdocs-core</a></b>  - 🥈21 ·  ⭐ 74 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>The core MkDocs plugin used by Backstages TechDocs as a wrapper around multiple MkDocs plugins and Python Markdown..</summary>
-
-- [GitHub](https://github.com/backstage/mkdocs-techdocs-core) (👨‍💻 38 · 🔀 57 · 📦 49 · 📋 58 - 10% open · ⏱️ 01.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-techdocs-core) (📥 250K / month):
+- [GitHub](https://github.com/backstage/mkdocs-techdocs-core) (👨‍💻 38 · 🔀 59 · 📦 54 · 📋 60 - 13% open · ⏱️ 31.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-techdocs-core) (📥 270K / month):
 	```
 	pip install mkdocs-techdocs-core
 	```
@@ -3229,10 +3226,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - techdocs-core
    ```
 </details>
-<details><summary><b><a href="https://github.com/athackst/mkdocs-simple-plugin">simple</a></b>  - 🥈20 ·  ⭐ 38 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Build documentation files inside your code into a MkDocs site.</summary>
+<details><summary><b><a href="https://github.com/jdoiro3/mkdocs-multirepo-plugin">mkdocs-multirepo-plugin</a></b>  - 🥈21 ·  ⭐ 120 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Build documentation in multiple repos into one site.</summary>
 
-- [GitHub](https://github.com/athackst/mkdocs-simple-plugin) (👨‍💻 8 · 🔀 10 · 📦 46 · ⏱️ 08.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-simple-plugin) (📥 31K / month):
+- [GitHub](https://github.com/jdoiro3/mkdocs-multirepo-plugin) (👨‍💻 15 · 🔀 41 · 📦 110 · 📋 95 - 47% open · ⏱️ 04.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-multirepo-plugin) (📥 44K / month):
+	```
+	pip install mkdocs-multirepo-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - multirepo
+   ```
+</details>
+<details><summary><b><a href="https://github.com/athackst/mkdocs-simple-plugin">simple</a></b>  - 🥈20 ·  ⭐ 40 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Build documentation files inside your code into a MkDocs site.</summary>
+
+- [GitHub](https://github.com/athackst/mkdocs-simple-plugin) (👨‍💻 8 · 🔀 10 · 📦 48 · ⏱️ 06.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-simple-plugin) (📥 20K / month):
 	```
 	pip install mkdocs-simple-plugin
 	```
@@ -3244,8 +3254,8 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 </details>
 <details><summary><b><a href="https://github.com/zayd62/mkdocs-versioning">mkdocs-versioning</a></b>  - 🥈17 ·  ⭐ 40 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A tool that allows for versioning sites built with mkdocs.</summary>
 
-- [GitHub](https://github.com/zayd62/mkdocs-versioning) (👨‍💻 5 · 🔀 6 · 📦 69 · 📋 25 - 12% open · ⏱️ 01.08.2021)
-- [PyPi](https://pypi.org/project/mkdocs-versioning) (📥 4.4K / month):
+- [GitHub](https://github.com/zayd62/mkdocs-versioning) (👨‍💻 5 · 🔀 6 · 📦 72 · 📋 25 - 12% open · ⏱️ 01.08.2021)
+- [PyPi](https://pypi.org/project/mkdocs-versioning) (📥 4.5K / month):
 	```
 	pip install mkdocs-versioning
 	```
@@ -3255,18 +3265,18 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs-versioning
    ```
 </details>
-<details><summary><b><a href="https://github.com/ldeluigi/markdown-docs">markdown-docs</a></b>  - 🥈16 ·  ⭐ 16 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1448/PNG/512/42498factory_99134.png" style="display:inline;" width="13" height="13"></code><br>Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just..</summary>
+<details><summary><b><a href="https://github.com/ldeluigi/markdown-docs">markdown-docs</a></b>  - 🥈17 ·  ⭐ 16 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1448/PNG/512/42498factory_99134.png" style="display:inline;" width="13" height="13"></code><br>Action/docker image that transforms your markdown into a static website. No need for particular configuration: it just..</summary>
 
-- [GitHub](https://github.com/ldeluigi/markdown-docs) (👨‍💻 4 · 🔀 6 · 📦 39 · ⏱️ 01.04.2024)
-- [Docker Hub](https://hub.docker.com/r/deloo/markdown-docs) (📥 9K · ⏱️ 01.04.2024):
+- [GitHub](https://github.com/ldeluigi/markdown-docs) (👨‍💻 4 · 🔀 6 · 📦 51 · ⏱️ 03.06.2024)
+- [Docker Hub](https://hub.docker.com/r/deloo/markdown-docs) (📥 18K · ⏱️ 03.06.2024):
 	```
 	docker pull deloo/markdown-docs
 	```
 </details>
-<details><summary><b><a href="https://github.com/oprypin/mkdocs-same-dir">same-dir</a></b>  - 🥈15 ·  ⭐ 34 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation.</summary>
+<details><summary><b><a href="https://github.com/oprypin/mkdocs-same-dir">same-dir</a></b>  - 🥈14 ·  ⭐ 34 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to allow placing mkdocs.yml in the same directory as documentation.</summary>
 
-- [GitHub](https://github.com/oprypin/mkdocs-same-dir) (👨‍💻 2 · 🔀 2 · 📦 270 · ⏱️ 03.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-same-dir) (📥 17K / month):
+- [GitHub](https://github.com/oprypin/mkdocs-same-dir) (👨‍💻 2 · 🔀 2 · 📦 280 · ⏱️ 03.02.2024)
+- [PyPi](https://pypi.org/project/mkdocs-same-dir) (📥 19K / month):
 	```
 	pip install mkdocs-same-dir
 	```
@@ -3276,10 +3286,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - same-dir
    ```
 </details>
-<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - debugger</a></b>  - 🥉14 ·  ⭐ 27 · ➕ · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Advanced console and file logger from build and serve process.</summary>
+<details><summary><b><a href="https://github.com/mkusz/mkdocs-publisher">Publisher for MkDocs - debugger</a></b>  - 🥈14 ·  ⭐ 32 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Advanced console and file logger from build and serve process.</summary>
 
-- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 9 · 📦 22 · 📋 13 - 30% open · ⏱️ 18.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 2K / month):
+- [GitHub](https://github.com/mkusz/mkdocs-publisher) (👨‍💻 2 · 🔀 1 · 📥 17 · 📦 39 · 📋 14 - 35% open · ⏱️ 21.04.2024)
+- [PyPi](https://pypi.org/project/mkdocs-publisher) (📥 880 / month):
 	```
 	pip install mkdocs-publisher
 	```
@@ -3292,36 +3302,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/ovasquez/mkdocs-merge">MkDocs Merge</a></b>  - 🥉13 ·  ⭐ 21 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code><br>Merge the source of multiple MkDocs sites into a single one.</summary>
 
 - [GitHub](https://github.com/ovasquez/mkdocs-merge) (👨‍💻 3 · 🔀 5 · 📦 4 · 📋 8 - 62% open · ⏱️ 21.01.2023)
-- [PyPi](https://pypi.org/project/mkdocs-merge) (📥 2.3K / month):
+- [PyPi](https://pypi.org/project/mkdocs-merge) (📥 1.6K / month):
 	```
 	pip install mkdocs-merge
 	```
 </details>
-<details><summary><b><a href="https://github.com/wilhelmer/mkdocs-multirepo">multirepo</a></b>  - 🥉12 ·  ⭐ 33 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code><br>A bit like monorepo, but keeps MkDocs projects separate.</summary>
+<details><summary><b><a href="https://github.com/wilhelmer/mkdocs-multirepo">multirepo</a></b>  - 🥉12 ·  ⭐ 34 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code><br>A bit like monorepo, but keeps MkDocs projects separate.</summary>
 
 - [GitHub](https://github.com/wilhelmer/mkdocs-multirepo) (👨‍💻 3 · 🔀 2 · ⏱️ 04.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-multirepo) (📥 570 / month):
+- [PyPi](https://pypi.org/project/mkdocs-multirepo) (📥 630 / month):
 	```
 	pip install mkdocs-multirepo
 	```
 </details>
-<details><summary><b><a href="https://github.com/unmc-vcr/mkdocs-required-frontmatter-plugin">mkdocs-required-frontmatter-plugin</a></b>  - 🥉9 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This MkDocs plugin enforces required frontmatter for documentation pages.</summary>
+<details><summary><b><a href="https://github.com/JonasDoesThings/mkdocs-exclude-unused-files">mkdocs-exclude-unused-files</a></b>  - 🥉10 ·  ⭐ 3 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Exclude orphaned (unused) static files from your mkdocs build.</summary>
 
-- [GitHub](https://github.com/unmc-vcr/mkdocs-required-frontmatter-plugin) (⏱️ 22.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-required-frontmatter-plugin) (📥 190 / month):
-	```
-	pip install mkdocs-required-frontmatter-plugin
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - required-frontmatter
-   ```
-</details>
-<details><summary><b><a href="https://github.com/JonasDoesThings/mkdocs-exclude-unused-files">mkdocs-exclude-unused-files</a></b>  - 🥉8 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Exclude orphaned (unused) static files from your mkdocs build.</summary>
-
-- [GitHub](https://github.com/JonasDoesThings/mkdocs-exclude-unused-files) (👨‍💻 2 · 📦 4 · ⏱️ 27.01.2024)
-- [PyPi](https://pypi.org/project/mkdocs-exclude-unused-files) (📥 720 / month):
+- [GitHub](https://github.com/JonasDoesThings/mkdocs-exclude-unused-files) (👨‍💻 2 · 🔀 1 · 📦 5 · ⏱️ 27.01.2024)
+- [PyPi](https://pypi.org/project/mkdocs-exclude-unused-files) (📥 380 / month):
 	```
 	pip install mkdocs-exclude-unused-files
 	```
@@ -3331,10 +3328,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - exclude-unused-files
    ```
 </details>
-<details><summary><b><a href="https://github.com/boozallen/mkdocs-yamp-plugin">mkdocs-yamp</a></b>  - 🥉7 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Yet Another Multirepo Plugin for MkDocs.</summary>
+<details><summary><b><a href="https://github.com/boozallen/mkdocs-yamp-plugin">mkdocs-yamp</a></b>  - 🥉8 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Yet Another Multirepo Plugin for MkDocs.</summary>
 
-- [GitHub](https://github.com/boozallen/mkdocs-yamp-plugin) (👨‍💻 2 · 🔀 2 · 📦 4 · ⏱️ 10.10.2022)
-- [PyPi](https://pypi.org/project/mkdocs-yamp) (📥 130 / month):
+- [GitHub](https://github.com/boozallen/mkdocs-yamp-plugin) (👨‍💻 2 · 🔀 3 · 📦 4 · ⏱️ 10.10.2022)
+- [PyPi](https://pypi.org/project/mkdocs-yamp) (📥 140 / month):
 	```
 	pip install mkdocs-yamp
 	```
@@ -3344,10 +3341,32 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - yamp
    ```
 </details>
-<details><summary><b><a href="https://github.com/leonardehrenfried/mkdocs-no-sitemap-plugin">no-sitemap</a></b>  - 🥉7 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Disable Mkdocs sitemap generation.</summary>
+<details><summary><b><a href="https://github.com/unmc-vcr/mkdocs-required-frontmatter-plugin">mkdocs-required-frontmatter-plugin</a></b>  - 🥉7 · 🐣 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This MkDocs plugin enforces required frontmatter for documentation pages.</summary>
 
-- [GitHub](https://github.com/leonardehrenfried/mkdocs-no-sitemap-plugin) (📦 7 · ⏱️ 04.04.2023)
-- [PyPi](https://pypi.org/project/mkdocs-no-sitemap-plugin) (📥 2.6K / month):
+- [GitHub](https://github.com/unmc-vcr/mkdocs-required-frontmatter-plugin) (⏱️ 22.03.2024)
+- [PyPi](https://pypi.org/project/mkdocs-required-frontmatter-plugin) (📥 28 / month):
+	```
+	pip install mkdocs-required-frontmatter-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - required-frontmatter
+   ```
+</details>
+<details><summary><b><a href="https://github.com/rdilweb/mkdocs-plugin-progress">progress</a></b>  - 🥉6 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MkDocs that lets you know exactly what is happening during the build.</summary>
+
+- [GitHub](https://github.com/rdilweb/mkdocs-plugin-progress) (👨‍💻 3 · 📦 31 · ⏱️ 20.06.2020)
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - progress
+   ```
+</details>
+<details><summary><b><a href="https://github.com/leonardehrenfried/mkdocs-no-sitemap-plugin">no-sitemap</a></b>  - 🥉6 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Disable Mkdocs sitemap generation.</summary>
+
+- [GitHub](https://github.com/leonardehrenfried/mkdocs-no-sitemap-plugin) (📦 8 · ⏱️ 04.04.2023)
+- [PyPi](https://pypi.org/project/mkdocs-no-sitemap-plugin) (📥 3.1K / month):
 	```
 	pip install mkdocs-no-sitemap-plugin
 	```
@@ -3355,15 +3374,6 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
    ```yaml
    plugins:
      - no-sitemap
-   ```
-</details>
-<details><summary><b><a href="https://github.com/rdilweb/mkdocs-plugin-progress">progress</a></b>  - 🥉6 ·  ⭐ 4 · 💤 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin for MkDocs that lets you know exactly what is happening during the build.</summary>
-
-- [GitHub](https://github.com/rdilweb/mkdocs-plugin-progress) (👨‍💻 3 · 📦 28 · ⏱️ 20.06.2020)
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - progress
    ```
 </details>
 <details><summary><b><a href="https://github.com/JonasDoesThings/mkdocs-exclude-tagged-files">mkdocs-exclude-tagged-files</a></b>  - 🥉5 ·  ⭐ 3 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A mkdocs plugin for excluding files based on frontmatter tags.</summary>
@@ -3382,7 +3392,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/kevin-411/mkdocs-new-features-notifier">mkdocs-new-features-notifier</a></b>  - 🥉4 ·  ⭐ 2 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>This plugin enables you to notify users of new features in your product. It does this by identifying new documentation..</summary>
 
 - [GitHub](https://github.com/kevin-411/mkdocs-new-features-notifier) (👨‍💻 2 · 🔀 1 · ⏱️ 15.01.2020)
-- [PyPi](https://pypi.org/project/mkdocs-new-features-notifier) (📥 790 / month):
+- [PyPi](https://pypi.org/project/mkdocs-new-features-notifier) (📥 720 / month):
 	```
 	pip install mkdocs-new-features-notifier
 	```
@@ -3395,7 +3405,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/experimaestro/mkdocs-multiple">multiple</a></b>  - 🥉3 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Allows to merge mkdocs documentations dynamically.</summary>
 
 - [GitHub](https://github.com/experimaestro/mkdocs-multiple) (👨‍💻 2 · ⏱️ 22.11.2019)
-- [PyPi](https://pypi.org/project/mkdocs-multiple) (📥 380 / month):
+- [PyPi](https://pypi.org/project/mkdocs-multiple) (📥 970 / month):
 	```
 	pip install mkdocs-multiple
 	```
@@ -3408,7 +3418,7 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 <details><summary><b><a href="https://github.com/octadocs/octadocs-adr">octadocs-adr</a></b>  - 🥉2 ·  ⭐ 1 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A blueprint for Architecture Decision Record in Octadocs - the smart documentation environment.</summary>
 
 - [GitHub](https://github.com/octadocs/octadocs-adr) (⏱️ 22.08.2021)
-- [PyPi](https://pypi.org/project/octadocs-adr) (📥 9 / month):
+- [PyPi](https://pypi.org/project/octadocs-adr) (📥 4 / month):
 	```
 	pip install octadocs-adr
 	```
@@ -3424,10 +3434,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
 
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
-<details><summary><b><a href="https://github.com/mondeja/mkdocs-include-markdown-plugin">include-markdown</a></b>  - 🥇24 ·  ⭐ 86 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs Markdown includer plugin.</summary>
+<details><summary><b><a href="https://github.com/mondeja/mkdocs-include-markdown-plugin">include-markdown</a></b>  - 🥇25 ·  ⭐ 92 · <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs Markdown includer plugin.</summary>
 
-- [GitHub](https://github.com/mondeja/mkdocs-include-markdown-plugin) (👨‍💻 15 · 🔀 18 · 📥 200 · 📦 2K · 📋 72 - 4% open · ⏱️ 25.03.2024)
-- [PyPi](https://pypi.org/project/mkdocs-include-markdown-plugin) (📥 210K / month):
+- [GitHub](https://github.com/mondeja/mkdocs-include-markdown-plugin) (👨‍💻 16 · 🔀 19 · 📥 210 · 📦 2.1K · 📋 78 - 6% open · ⏱️ 05.06.2024)
+- [PyPi](https://pypi.org/project/mkdocs-include-markdown-plugin) (📥 240K / month):
 	```
 	pip install mkdocs-include-markdown-plugin
 	```
@@ -3437,9 +3447,9 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - include-markdown
    ```
 </details>
-<details><summary><b><a href="https://github.com/cmacmackin/markdown-include">Markdown-Include</a></b>  - 🥈22 ·  ⭐ 95 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Provides syntax for Python-Markdown which allows for the inclusion of the contents of other Markdown documents.</summary>
+<details><summary><b><a href="https://github.com/cmacmackin/markdown-include">Markdown-Include</a></b>  - 🥈22 ·  ⭐ 96 · 💤 · <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Provides syntax for Python-Markdown which allows for the inclusion of the contents of other Markdown documents.</summary>
 
-- [GitHub](https://github.com/cmacmackin/markdown-include) (👨‍💻 12 · 🔀 36 · 📦 5.7K · 📋 24 - 29% open · ⏱️ 07.02.2023)
+- [GitHub](https://github.com/cmacmackin/markdown-include) (👨‍💻 12 · 🔀 36 · 📦 5.9K · 📋 24 - 29% open · ⏱️ 07.02.2023)
 - [PyPi](https://pypi.org/project/markdown-include) (📥 110K / month):
 	```
 	pip install markdown-include
@@ -3450,10 +3460,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - markdown_include.include
    ```
 </details>
-<details><summary><b><a href="https://github.com/prcr/mkdocs-meta-descriptions-plugin">meta-descriptions</a></b>  - 🥈20 ·  ⭐ 15 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate meta descriptions from the first paragraphs in your MkDocs pages.</summary>
+<details><summary><b><a href="https://github.com/prcr/mkdocs-meta-descriptions-plugin">meta-descriptions</a></b>  - 🥈19 ·  ⭐ 16 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Generate meta descriptions from the first paragraphs in your MkDocs pages.</summary>
 
-- [GitHub](https://github.com/prcr/mkdocs-meta-descriptions-plugin) (👨‍💻 3 · 🔀 3 · 📦 1.1K · 📋 11 - 9% open · ⏱️ 02.04.2024)
-- [PyPi](https://pypi.org/project/mkdocs-meta-descriptions-plugin) (📥 6.3K / month):
+- [GitHub](https://github.com/prcr/mkdocs-meta-descriptions-plugin) (👨‍💻 3 · 🔀 3 · 📦 1.1K · 📋 11 - 9% open · ⏱️ 29.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-meta-descriptions-plugin) (📥 5.6K / month):
 	```
 	pip install mkdocs-meta-descriptions-plugin
 	```
@@ -3463,23 +3473,10 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - meta-descriptions
    ```
 </details>
-<details><summary><b><a href="https://github.com/fire1ce/mkdocs-embed-external-markdown">mkdocs-embed-external-markdown</a></b>  - 🥈16 ·  ⭐ 7 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Embed External Markdown plugin that allow to inject section or all full markdown content from a given url. The..</summary>
+<details><summary><b><a href="https://github.com/rnorth/mkdocs-codeinclude-plugin">codeinclude</a></b>  - 🥈15 ·  ⭐ 14 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin to include code snippets into mkdocs pages.</summary>
 
-- [GitHub](https://github.com/fire1ce/mkdocs-embed-external-markdown) (👨‍💻 6 · 🔀 7 · 📦 110 · ⏱️ 26.02.2024)
-- [PyPi](https://pypi.org/project/mkdocs-embed-external-markdown) (📥 6.2K / month):
-	```
-	pip install mkdocs-embed-external-markdown
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
-   ```yaml
-   plugins:
-     - external-markdown
-   ```
-</details>
-<details><summary><b><a href="https://github.com/rnorth/mkdocs-codeinclude-plugin">codeinclude</a></b>  - 🥉15 ·  ⭐ 14 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>A plugin to include code snippets into mkdocs pages.</summary>
-
-- [GitHub](https://github.com/rnorth/mkdocs-codeinclude-plugin) (👨‍💻 4 · 🔀 5 · 📦 120 · 📋 11 - 36% open · ⏱️ 01.03.2023)
-- [PyPi](https://pypi.org/project/mkdocs-codeinclude-plugin) (📥 4.9K / month):
+- [GitHub](https://github.com/rnorth/mkdocs-codeinclude-plugin) (👨‍💻 4 · 🔀 5 · 📦 120 · 📋 12 - 41% open · ⏱️ 01.03.2023)
+- [PyPi](https://pypi.org/project/mkdocs-codeinclude-plugin) (📥 6.9K / month):
 	```
 	pip install mkdocs-codeinclude-plugin
 	```
@@ -3489,36 +3486,23 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - codeinclude
    ```
 </details>
-<details><summary><b><a href="https://github.com/neurobin/mdx_include">Mdx Include</a></b>  - 🥉11 ·  ⭐ 50 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python Markdown extension to include local or remote files.</summary>
+<details><summary><b><a href="https://github.com/fire1ce/mkdocs-embed-external-markdown">mkdocs-embed-external-markdown</a></b>  - 🥈15 ·  ⭐ 8 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs Embed External Markdown plugin that allow to inject section or all full markdown content from a given url. The..</summary>
 
-- [GitHub](https://github.com/neurobin/mdx_include) (👨‍💻 3 · 🔀 3 · 📋 9 - 44% open · ⏱️ 26.07.2022)
-- [PyPi](https://pypi.org/project/mdx-include) (📥 24K / month):
+- [GitHub](https://github.com/fire1ce/mkdocs-embed-external-markdown) (👨‍💻 6 · 🔀 7 · 📦 110 · ⏱️ 26.02.2024)
+- [PyPi](https://pypi.org/project/mkdocs-embed-external-markdown) (📥 5.7K / month):
 	```
-	pip install mdx-include
-	```
-- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
-   ```yaml
-   markdown_extensions:
-     - mdx_include
-   ```
-</details>
-<details><summary><b><a href="https://github.com/mprivat/mkdocs-snippet-plugin">snippet</a></b>  - 🥉11 ·  ⭐ 12 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An mkdocs plugin that injects snippets from a file in a git repository.</summary>
-
-- [GitHub](https://github.com/mprivat/mkdocs-snippet-plugin) (👨‍💻 3 · 🔀 3 · 📦 15 · 📋 7 - 42% open · ⏱️ 21.10.2021)
-- [PyPi](https://pypi.org/project/mkdocs-snippet-plugin) (📥 1.3K / month):
-	```
-	pip install mkdocs-snippet-plugin
+	pip install mkdocs-embed-external-markdown
 	```
 - Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
    ```yaml
    plugins:
-     - snippet
+     - external-markdown
    ```
 </details>
-<details><summary><b><a href="https://github.com/glennmatthews/mkdocs-version-annotations">mkdocs-version-annotations</a></b>  - 🥉11 ·  ⭐ 1 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to add custom admonitions for documenting version differences.</summary>
+<details><summary><b><a href="https://github.com/glennmatthews/markdown-version-annotations">mkdocs-version-annotations</a></b>  - 🥉11 ·  ⭐ 2 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>MkDocs plugin to add custom admonitions for documenting version differences.</summary>
 
-- [GitHub](https://github.com/glennmatthews/mkdocs-version-annotations) (📥 8 · 📦 210 · ⏱️ 14.09.2022)
-- [PyPi](https://pypi.org/project/mkdocs-version-annotations) (📥 7.5K / month):
+- [GitHub](https://github.com/glennmatthews/markdown-version-annotations) (📥 12 · 📦 3 · ⏱️ 06.05.2024)
+- [PyPi](https://pypi.org/project/mkdocs-version-annotations) (📥 6.8K / month):
 	```
 	pip install mkdocs-version-annotations
 	```
@@ -3528,10 +3512,36 @@ This list contains 260 awesome open-source projects grouped into 17 categories. 
      - mkdocs-version-annotations
    ```
 </details>
+<details><summary><b><a href="https://github.com/neurobin/mdx_include">Mdx Include</a></b>  - 🥉10 ·  ⭐ 52 · 💤 · <code>❗Unlicensed</code> · <code><img src="https://cdn.icon-icons.com/icons2/1459/PNG/512/2799201-jigsaw-processing_99781.png" style="display:inline;" width="13" height="13"></code><br>Python Markdown extension to include local or remote files.</summary>
+
+- [GitHub](https://github.com/neurobin/mdx_include) (👨‍💻 3 · 🔀 3 · 📋 9 - 44% open · ⏱️ 26.07.2022)
+- [PyPi](https://pypi.org/project/mdx-include) (📥 26K / month):
+	```
+	pip install mdx-include
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#markdown_extensions):
+   ```yaml
+   markdown_extensions:
+     - mdx_include
+   ```
+</details>
+<details><summary><b><a href="https://github.com/mprivat/mkdocs-snippet-plugin">snippet</a></b>  - 🥉10 ·  ⭐ 12 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>An mkdocs plugin that injects snippets from a file in a git repository.</summary>
+
+- [GitHub](https://github.com/mprivat/mkdocs-snippet-plugin) (👨‍💻 3 · 🔀 3 · 📦 16 · 📋 7 - 42% open · ⏱️ 21.10.2021)
+- [PyPi](https://pypi.org/project/mkdocs-snippet-plugin) (📥 740 / month):
+	```
+	pip install mkdocs-snippet-plugin
+	```
+- Add to [mkdocs.yml](https://www.mkdocs.org/user-guide/configuration/#plugins):
+   ```yaml
+   plugins:
+     - snippet
+   ```
+</details>
 <details><summary><b><a href="https://github.com/SamazoOo/mkdocs-gitsnippet-plugin">git snippet</a></b>  - 🥉8 ·  ⭐ 5 · 💤 · <code><a href="http://bit.ly/34MBwT8">MIT</a></code> · <code><img src="https://cdn.icon-icons.com/icons2/1465/PNG/512/701electricplug_100845.png" style="display:inline;" width="13" height="13"></code><br>Mkdocs plugin that allow to inject snippet or all markdown content from a given remote git repository.</summary>
 
 - [GitHub](https://github.com/SamazoOo/mkdocs-gitsnippet-plugin) (👨‍💻 4 · 🔀 3 · 📦 7 · ⏱️ 15.11.2020)
-- [PyPi](https://pypi.org/project/mkdocs-gitsnippet-plugin) (📥 670 / month):
+- [PyPi](https://pypi.org/project/mkdocs-gitsnippet-plugin) (📥 530 / month):
 	```
 	pip install mkdocs-gitsnippet-plugin
 	```
